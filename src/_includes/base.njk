@@ -1,0 +1,23 @@
+---
+title: Questionable Design
+---
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Ben Kirman | {{ title }}</title>
+</head>
+<body>
+  <main>
+    {{ content | safe }}
+    <div>
+        
+    {% for project in collections.projects %}
+    <h2><a href="{{ project.url }}">{{project.url}} - {{project.date}}</a></h2>
+    {% endfor %}
+
+    
+    </div>
+  </main>
+</body>
+</html>
