@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<h1> 11ty test</h1>
+
+This is the front page in index.njk
+This is in njk so that flex divs can be created. markdown only makes sense for content pages
+<h2>Projects:</h2>
+<div id="projects">
+{% for project in collections.projects.reverse() %}
+    <div class="project-box">
+    <div class="project-title">
+        <a href="{{ project.url }}">{{project.data.title}} ({{project.date.getFullYear()}})</a>
+    </div>
+    <img src="{{project.url}}/images/{{project.data.coverImage}}" width="200" height="200"></h2>
+    </div>
+{% endfor %}
+</div>

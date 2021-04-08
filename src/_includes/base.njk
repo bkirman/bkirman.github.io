@@ -6,19 +6,12 @@ title: Questionable Design
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>{{ title }} | Ben Kirman</title>
-  <link href="/assets/css/base.css" rel="stylesheet">
+  <link href="/assets/css/main.css" rel="stylesheet">
 </head>
 <body>
   <main>
     {{ content | safe }}
-    <div>
-        
-    {% for project in collections.projects %}
-    <h2><a href="{{ project.url }}">{{project.url}} - {{project.date}}</a></h2>
-    {% endfor %}
-
-    
-    </div>
   </main>
+  {% include "footer.html" %}
 </body>
 </html>

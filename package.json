@@ -11,13 +11,24 @@
     "url": "git+https://github.com/bkirman/bkirman.github.io.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ben Kirman",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bkirman/bkirman.github.io/issues"
   },
   "homepage": "https://github.com/bkirman/bkirman.github.io#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^0.12.1",
+    "cssnano": "^4.1.10",
+    "html-minifier": "^4.0.0",
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^9.0.1",
+    "imagemin-svgo": "^8.0.0",
+    "inline-source": "^7.2.0",
+    "postcss": "^7.0.32",
+    "postcss-advanced-variables": "^3.0.1",
+    "postcss-nested": "^4.2.3",
+    "postcss-scss": "^2.1.1"
   }
 }

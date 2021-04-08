@@ -3,6 +3,10 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/papers");
     eleventyConfig.addPassthroughCopy('./src/robots.txt');
     eleventyConfig.addPassthroughCopy('./src/favicon.ico');
+
+    // CSS processing
+    eleventyConfig.addTransform('postcss', require('./lib/postcss'));
+    eleventyConfig.addWatchTarget('./src/scss/');
  
     return { 
         dir: {
@@ -10,7 +14,7 @@ module.exports = function(eleventyConfig) {
             output: "./docs"
         },
         passthroughFileCopy: true,
-        templateFormats: ['njk','md'],
+        templateFormats: ['njk','md','png','jpg'],
         htmlTemplateEngine: 'njk',
         markdownTemplateEngine: 'njk',
     }

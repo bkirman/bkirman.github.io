@@ -1,0 +1,11 @@
+body {
+    min-height: 100%;
+    display: grid;
+    
+}
+.project-box {
+    background-color: rgb(212, 132, 132);
+    img {
+        border: 1px solid red;
+    }
+}
