@@ -1,3 +1,14 @@
+@import 'variables';
 @import 'common';
 @import 'projects';
 @import 'single';
+
+#main-header{
+    font-size: 3em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: $highlight-bg;
+    color: $highlight-text;
+    text-align: center;
+    width: 70%;
+    margin:auto;
+}
