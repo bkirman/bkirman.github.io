@@ -1,1 +1,1 @@
-body{min-height:100%;display:grid}.project-box{background-color:#d48484}.project-box img{border:1px solid red}
+*{box-sizing:border-box}#projects{display:flex;flex-wrap:wrap}.project-box{cursor:pointer;background-color:#d48484;margin:1em;position:relative}.project-box img{border:5px solid #000;width:30rem;height:15rem}.project-box .project-title{position:absolute;right:1em;bottom:1em}#single-project{background-color:#8a2be2}

@@ -11,8 +11,8 @@ Catastrophic is a project led by [Pen Holland](https://www.york.ac.uk/biology/ou
 The aim of this project is to build a game to support student learning on concepts of Biology, especially incoming undergraduates. As with most degree programmes, the first year of Biology study is often about ensuring students have a solid grounding of subject knowledge. However students often perceive that as "bitty" as they cover lots of topics very quickly. However, all this knowledge is important, and it is all connected within the larger systemic/synoptic understanding of biological processes and relationships.
 
 Catastrophic as a game, is designed to reinforce this synoptic aspect of the first year of higher education in Biology.
+{% image page, "/images/IMG_0152-e1606431411491.jpg", "Catastrophic game components", "(min-width:30em) 50vw, 100vw" %}
 
-![](images/IMG_0152-e1606431411491.jpg)
 
 In the summer of 2018, we brought together a group of students from the Biology programmes (Katylily Westbury-Hawkins, Matthew Topham and Rosie Murton), and a couple of [DC Labs Summer School](https://www.digitalcreativity.ac.uk/projects/catastrophic-game-connections-collaborations-cross-disciplinarity-summer-school-2019) students (Matthew Shepherd and Ruta Czaplinska), to design and build the game.
 

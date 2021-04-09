@@ -30,5 +30,9 @@
     "postcss-advanced-variables": "^3.0.1",
     "postcss-nested": "^4.2.3",
     "postcss-scss": "^2.1.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^0.8.3",
+    "clean-css": "^4.2.3"
   }
 }

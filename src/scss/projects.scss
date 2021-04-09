@@ -1,0 +1,22 @@
+//Project flexbox
+#projects{
+    display: flex;
+    flex-wrap: wrap;
+}
+.project-box {
+    cursor: pointer;
+    background-color: rgb(212, 132, 132);
+    margin:1em;
+    position:relative;
+
+    img {
+        border: 5px solid black;
+        width: 30rem;
+        height: 15rem;
+    }
+    .project-title {
+        position:absolute;
+        right:1em;
+        bottom:1em;
+    }
+}

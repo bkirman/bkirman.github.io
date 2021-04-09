@@ -13,7 +13,7 @@ This is in njk so that flex divs can be created. markdown only makes sense for c
     <div class="project-title">
         <a href="{{ project.url }}">{{project.data.title}} ({{project.date.getFullYear()}})</a>
     </div>
-    <img src="{{project.url}}/images/{{project.data.coverImage}}" width="200" height="200"></h2>
+    {% image project, "images/"+project.data.coverImage, "", "(min-width:30em) 50vw, 100vw" %}
     </div>
 {% endfor %}
 </div>
