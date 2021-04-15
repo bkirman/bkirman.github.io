@@ -3,8 +3,12 @@
 layout: base
 
 ---
-<div id="single-project">
-
+<article id="single-project">
+    <header>
+    <h1>{{title}}</h1>
+    <p id="subtitle">{{subtitle}} ({{date | getYear}})</p>
+    </header>
+    <section id="content">
     {{ content | safe }}
-
-</div>
+    </section>
+</article> 

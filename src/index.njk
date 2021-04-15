@@ -5,11 +5,11 @@ layout: base
 <div id="projects">
 {% for project in collections.projects.reverse() %}
     <div class="project-box">
-        <a href="{{ project.url }}">
+        <a href="{{ project.url }}" title="{{project.data.subtitle}}">
     <div class="project-title">
         {{project.data.title}} ({{project.date.getFullYear()}})
     </div>
-    {% image project, "images/"+project.data.coverImage, "", "(min-width:30em) 50vw, 100vw" %}
+    {% image project, "images/"+project.data.coverImage, "", 300  %}
     </a>
     </div>
 {% endfor %}

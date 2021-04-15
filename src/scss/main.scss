@@ -6,26 +6,28 @@
 #main-header{
     font-size: 3em;
     font-family: 'gruppo', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    ;
     background-color: $highlight-bg;
     font-variant: all-small-caps;
-    color: $highlight-text;
+    
     text-align: center;
-    width: 70%;
+    width: 90%;
     margin:auto auto 1em auto;
     border-bottom: 3px solid $highlight-fg;
-    padding-top:1em;
+    padding-bottom:0.5em;
     margin-bottom: 1.3em;
+    a{
+        text-decoration: none;
+        color: $highlight-text;
+    }
 }
 
 nav {
     text-align: right;
     position:relative;
     
-
     .nav-item{
         position:absolute;
-        width:7em;
+        width:6em;
         transform: rotate(-23deg);
         padding-right:1.4em;
         padding-left: 0.2em;
@@ -35,7 +37,7 @@ nav {
         font-weight: lighter;
         font-size: 0.45em;
         right:0px;
-        top:0.25em;
+        top:1em;
         a {
             color: $highlight-text;
             display: inline-block;
@@ -67,3 +69,15 @@ nav {
     border-top: 1.3em solid $highlight-bg;
 }
 
+
+@media screen and (min-width:$mobile-width) { //Desktop
+    #main-header {
+        padding-bottom:0em;
+        padding-top:1em;
+        width: 70%;
+        .nav-item {
+            top:0.25em;
+            width:7em;
+        }
+    }
+}

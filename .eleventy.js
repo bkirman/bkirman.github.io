@@ -1,9 +1,9 @@
 const Image = require("@11ty/eleventy-img");
 
-async function imageShortcode(page, src, alt, sizes) {//modded to be able to handle local images to page
+async function imageShortcode(page, src, alt, width) {//modded to be able to handle local images to page
     path = page.inputPath.slice(0,-8)+src;
     let metadata = await Image(path, {
-      widths: [300],
+      widths: [width],
       formats: ["jpeg"],
       outputDir: page.outputPath.slice(0,-10)+"images/",
       urlPath: page.outputPath.slice(6,-10)+"images/" //absolute url so appears correctly on parent pages
@@ -11,7 +11,6 @@ async function imageShortcode(page, src, alt, sizes) {//modded to be able to han
   
     let imageAttributes = {
       alt,
-      sizes,
       loading: "lazy",
       decoding: "async",
     };
@@ -32,6 +31,10 @@ module.exports = function(eleventyConfig) {
     //Image processing
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
     
+    //Filters
+    eleventyConfig.addFilter("getYear", function(value) {
+      return new Date(value).getFullYear(); 
+    });
  
     return { 
         dir: {
