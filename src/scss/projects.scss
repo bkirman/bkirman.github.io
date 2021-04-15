@@ -7,6 +7,7 @@
 .project-box {
     cursor: pointer;
     background-color: $highlight-bg;
+    height: 12rem;
     margin:1em;
     padding:0px;
     position:relative;
@@ -18,19 +19,21 @@
 
     img {
         border: 2px solid $highlight-bg;
-        width: 30rem;
-        height: 15rem;
+        width: 20rem;
+        object-fit: cover;
+        object-position: 25% 50%;
+        height: 12rem;
     }
     .project-title {
         position:absolute;
         right:-0.5em;
-        bottom:1em;
-        padding:0.6em;
+        bottom:0.8em;
+        padding:0.25em;
         min-width: 50%;
         font-family: sans-serif;
         font-weight: normal;
-        font-variant-caps: all-small-caps;
-        font-size: larger;
+        text-transform: uppercase;
+        font-size: 1.1em;
         color:$highlight-text;
         background-color: $highlight-bg;
         box-shadow: 0em 0.2em 0.4em $highlight-fg;
@@ -42,6 +45,10 @@
         top:0;
         width: 0;
         border-left: 1rem solid transparent;
-        border-top: 2.8rem solid $highlight-bg;
+        border-top: 2.1rem solid $highlight-bg;
     }
+}
+
+@media screen and (min-width:$mobile-width) { //Desktop
+   
 }
