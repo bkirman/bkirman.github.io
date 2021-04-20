@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 ---
-Hello, I am Dr Ben Kirman and I'm a Senior Lecturer (Assoc. Prof) in [Interactive Media](https://www.york.ac.uk/study/undergraduate/courses/bsc-interactive-media/) in the [Department of Theatre, Film, Television and Interactive Media](https://www.york.ac.uk/tfti/) at the University of York in the UK, and member of the [Digital Creativity Labs](https://digitalcreativity.ac.uk/).
+Hello, I am Dr Ben Kirman and I'm a Senior Lecturer (Assoc. Prof) in [Interactive Media](https://www.york.ac.uk/study/undergraduate/courses/bsc-interactive-media/) in the [Department of Theatre, Film, Television and Interactive Media](https://www.york.ac.uk/tfti/) at the University of York in the UK, and member of the [Digital Creativity Labs](https://digitalcreativity.ac.uk/). (he/him).
 
 ## Research
 
