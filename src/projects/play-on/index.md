@@ -3,6 +3,7 @@ title: "Play-On!"
 subtitle: "EU Project on Immersive and Interactive Theatre"
 date: "2020-03-01"
 coverImage: "playon_character.png"
+until: "+"
 ---
 
 Play-On! is a large EC funded cultural project as part of Creative Europe, involving the [Digital Creativity Labs](https://digitalcreativity.ac.uk) and theatres in Austria, Estonia, Germany, Hungary, Italy, Norway, Poland, Portugal and the UK. In the project, we are collaborating to develop theatre productions that engage with the opportunities of immersive technologies, game design and interactive storytelling.

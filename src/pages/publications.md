@@ -3,10 +3,8 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
-I've been very fortunate to work with many brilliant scholars and designers, and have published a wide variety of peer-reviewed papers related to gameful/playful/critical/radical/weird design and analysis.
-Some of the papers are available freely via the links, others are held hostage by publishers. Email me for a copy of the author's version of any of them for free. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
+I've been very fortunate to work with many brilliant scholars and designers, and have published a wide variety of things related to gameful/playful/critical/radical/weird design and analysis. I don't find the categories meaningful, so the list includes journal and conference papers, book chapters, workshop papers, magazine articles and other stuff. Everything below has been peer-reviewed and accepted into the respective venue.
+Some of the files are available freely via the links, others are embargoed or held hostage by publishers. Email me for a copy of the author's version of any of them for free. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
 
 ### 2021
 

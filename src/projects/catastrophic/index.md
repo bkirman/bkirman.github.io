@@ -3,6 +3,7 @@ title: "Catastrophic"
 subtitle: "A card game to support students' systemic learning in Biology"
 date: "2018-09-02"
 coverImage: "IMG_0194-1-e1554215517751.jpg"
+until: "+"
 ---
 
 This is a project led by [Pen Holland](https://www.york.ac.uk/biology/our-staff/pen-holland/) in the [Department of Biology](https://www.york.ac.uk/biology/), along with [Kerry Knox](https://www.york.ac.uk/education/our-staff/academic/kerry-knox/) ([Education](https://www.york.ac.uk/education/)), [Florian Block](http://florianblock.net/) and myself ([DC Labs](https://www.digitalcreativity.ac.uk)/[TFTI](https://www.york.ac.uk/tfti)).

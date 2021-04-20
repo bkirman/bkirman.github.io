@@ -3,6 +3,7 @@ title: "Weavr"
 subtitle: "Audiences of the future, spectatorship and esports"
 date: "2019-12-01"
 coverImage: "_DSC7094.jpg"
+until: "+"
 ---
 
 [Weavr](https://weavr.tv) is a major collaborative project funded by the UK Industrial Strategy Challenge Fund, Audience of the Future programme (£4m). It is led by industry partners [ESL](https://www.eslgaming.com/), and is looking at immersive technology for spectators of large sporting events. The consortium includes us at [York](https://www.digitalcreativity.ac.uk), and amazing industry partners [dock10](https://www.dock10.co.uk/), [Cybula](https://www.cybula.com/), [Focal Point VR](https://focalpointvr.com/), [REWIND](https://rewind.co/) and [Future Visual](https://www.futurevisual.com/).
