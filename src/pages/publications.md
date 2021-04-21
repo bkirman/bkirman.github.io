@@ -33,7 +33,7 @@ Some of the files are available freely via the links, others are embargoed or he
 
 * Daniel Pargman, Elina Eriksson, Rob Comber, Ben Kirman, and Oliver Bates (2018). [The futures of computing and wisdom.](/papers/Pargman2018FutureWisdom.pdf) (Workshop) In Proceedings of the 10th Nordic Conference on Human-Computer Interaction (NordiCHI '18). Oslo, Norway.
 * Ben Kirman, Conor Linehan and Shaun Lawson (2018) [Reorienting Geolocation Data through Mischievous Design](/papers/Kirman2018GeolocationFunology.pdf). In Mark Blythe and Andrew Monk (Eds) Funology 2: From Usability to Enjoyment. Springer.
-* Ben Kirman, Joe Lindley, Mark Blythe, Paul Coulton, Shaun Lawson, Conor Linehan, Deborah Maxwell, Dan O'Hara, Miriam Sturdee and Vanessa Thomas (2018). [Playful Research Fiction: A Fictional Conference](/papers/Kirman2018FictionalConference.pdf). In Mark Blythe and Andrew Monk (Eds) Funology 2: From Usability to Enjoyment. Springer.
+* Ben Kirman, Joe Lindley, Mark Blythe, Paul Coulton, Shaun Lawson, Conor Linehan, Deborah Maxwell, Dan O’Hara, Miriam Sturdee and Vanessa Thomas (2018). [Playful Research Fiction: A Fictional Conference.](/papers/Kirman2018FCDFF.pdf) In Mark Blythe and Andrew Monk (Eds) Funology 2: From Usability to Enjoyment. Springer.
 * Tom Feltwell, Shaun Lawson, Enrique Encinas, Conor Linehan, Ben Kirman, Deborah Maxwell, Tom Jenkins and Stacey Kuznetsov (2018) ["Grand Visions" for Post-Capitalist Human-Computer Interaction](/papers/Feltwell2018PostCapitalistHCI.pdf) (Workshop). Proceedings of Extended Abstracts of the ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2018). Montréal, Canada.
 
 ### 2017
@@ -69,7 +69,7 @@ Some of the files are available freely via the links, others are embargoed or he
 * Conor Linehan, George Bellord, Ben Kirman, Zachary H. Morford, and Bryan Roche (2014) Learning curves: analysing pace and challenge in four successful puzzle games. CHI PLAY '14 Proceedings of the first ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play. Toronto, Canada.
 * Conor Linehan and Ben Kirman (2014) Never mind the bollocks, I wanna be anarCHI: a manifesto for punk HCI. Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems extended abstracts. Toronto, Canada
 * Conor Linehan, Ben Kirman, Mark Blythe, Stuart Reeves, Ron Wakkary, Audrey Desjardins and Theresa Tanenbaum (2014) Alternate endings: using fiction to explore design futures (Workshop). Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2014) extended abstracts. Toronto, Canada.
-* Laura Buttrick, Conor Linehan, Ben Kirman, and Dan O'Hara (2014) Fifty shades of CHI: the perverse and humiliating human-computer relationship. Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2014) extended abstracts. Toronto, Canada.
+* Laura Buttrick, Conor Linehan, Ben Kirman, and Dan O'Hara (2014) [Fifty shades of CHI: the perverse and humiliating human-computer relationship](/papers/Buttrick2014Shades.pdf). Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2014) extended abstracts. Toronto, Canada.
 
 ### 2013
 
