@@ -39,7 +39,7 @@ Some of the files are available freely via the links, others are embargoed or he
 ### 2017
 
 * Derek Foster, Ben Kirman, Conor Linehan and Shaun Lawson (2017) The Role of Social Media in Artisanal Production: A Case of Craft Beer. Proceedings of the 21st International Academic Mindtrek Conference, Tampere, Finland.
-* Ben Kirman, Shaun Lawson and Conor Linehan (2017) The Dog Internet: Autonomy and Interspecies Design. In Proceedings of Research through Design Conference. Edinburgh, UK
+* Ben Kirman, Shaun Lawson and Conor Linehan (2017) [The Dog Internet: Autonomy and Interspecies Design](/papers/Kirman2017DogInternetRTD.pdf). In Proceedings of Research through Design Conference. Edinburgh, UK
 * Tom Feltwell, John Vines, Karen Salt, Mark Blythe, Ben Kirman, Julie Barnett, Phillip Brooker and Shaun Lawson (2017) Counter-Discourse Activism on Social Media: The Case of Challenging “Poverty Porn” Television. Journal of Computer Supported Cooperative Work. Springer
 * Kiel Long, John Vines, Selina Sutton, Phil Brooker, Tom Feltwell, Ben Kirman, Julie Barnett and Shaun Lawson (2017) "Could You Define That in Bot Terms?": Requesting,Creating and Using Bots on Reddit. Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, USA
 * Conor Linehan, Ben Kirman and MC Hammer (2017) MC Hammer Presents: The Hammer of Transformative Nostalgification - Designing for Engagement at Scale. alt.CHI: Extended Abstracts of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, USA.
@@ -47,7 +47,7 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2016
 
-* Shaun Lawson, Ben Kirman and Conor Linehan (2016) Power, Participation and the Dog Internet. interactions 23.4 (July-August 2016 issue), ACM
+* Shaun Lawson, Ben Kirman and Conor Linehan (2016) [Power, Participation and the Dog Internet](/papers/Lawson2016DogInternet.pdf). interactions 23.4 (July-August 2016 issue), ACM
 * Tom Feltwell, Shaun Lawson, Ben Kirman and John Vines (2016) Managing Multiple Identities to Combat Stigmatisation in the Digital Age. Proceedings of Workshop on Everyday Surveillance, at ACM SIGCHI Conference on Human Factors in Computer Systems (CHI'16), San José, California, USA.
 * Kathrin Gerling, Conor Linehan, Ben Kirman, Michael Kalyn, Adam Evans and Kieran Hicks (2016). Creating Wheelchair-Controlled Video Games: Challenges and Opportunities When Involving Young People with Mobility Impairments and Game Design Experts. International Journal of Human-Computer Studies (IJHCS) 94, pages 64-73.
 
