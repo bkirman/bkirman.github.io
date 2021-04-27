@@ -8,7 +8,7 @@
     font-family: 'gruppo', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: $highlight-bg;
     font-variant: all-small-caps;
-    
+    box-shadow: 0 0 1em rgba(0,0,0,0.2);
     text-align: center;
     width: 90%;
     margin:auto auto 1em auto;
@@ -27,6 +27,7 @@ nav {
     
     .nav-item{
         position:absolute;
+        box-shadow: 0 0 1em rgba(0,0,0,0.2);
         width:6em;
         transform: rotate(-23deg);
         padding-right:1.4em;
