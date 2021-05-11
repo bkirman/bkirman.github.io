@@ -64,11 +64,11 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2014
 
-* Conor Linehan, Ben Kirman and Bryan Roche (2014) Gamification as Behavioral Psychology. In: Steffen P. Walz and Sebastian Deterding (eds) The Gameful World. Approaches, Issues, Applications. MIT Press.
-* Andrew Garbett, Jamie K. Wardman, Ben Kirman, Conor Linehan, and Shaun Lawson (2014) Fearsquare: hacking open crime data to critique, jam and subvert the 'aesthetic of danger' . In Proceedings of HCI Korea, Seoul, Republic of Korea
-* Conor Linehan, George Bellord, Ben Kirman, Zachary H. Morford, and Bryan Roche (2014) Learning curves: analysing pace and challenge in four successful puzzle games. CHI PLAY '14 Proceedings of the first ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play. Toronto, Canada.
-* Conor Linehan and Ben Kirman (2014) Never mind the bollocks, I wanna be anarCHI: a manifesto for punk HCI. Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems extended abstracts. Toronto, Canada
-* Conor Linehan, Ben Kirman, Mark Blythe, Stuart Reeves, Ron Wakkary, Audrey Desjardins and Theresa Tanenbaum (2014) Alternate endings: using fiction to explore design futures (Workshop). Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2014) extended abstracts. Toronto, Canada.
+* Conor Linehan, Ben Kirman and Bryan Roche (2014) [Gamification as Behavioral Psychology](/papers/Linehan2014Gamification.pdf). In: Steffen P. Walz and Sebastian Deterding (eds) The Gameful World. Approaches, Issues, Applications. MIT Press.
+* Andrew Garbett, Jamie K. Wardman, Ben Kirman, Conor Linehan, and Shaun Lawson (2014) [Fearsquare: hacking open crime data to critique, jam and subvert the 'aesthetic of danger](/papers/Garbett2014Fearsquare.pdf). In Proceedings of HCI Korea, Seoul, Republic of Korea
+* Conor Linehan, George Bellord, Ben Kirman, Zachary H. Morford, and Bryan Roche (2014) [Learning curves: analysing pace and challenge in four successful puzzle games](/papers/Linehan2014LearningCurves.pdf). CHI PLAY '14 Proceedings of the first ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play. Toronto, Canada.
+* Conor Linehan and Ben Kirman (2014) [Never mind the bollocks, I wanna be anarCHI: a manifesto for punk HCI](/papers/Linehan2014PunkHCI.pdf). Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems extended abstracts. Toronto, Canada
+* Conor Linehan, Ben Kirman, Mark Blythe, Stuart Reeves, Ron Wakkary, Audrey Desjardins and Theresa Tanenbaum (2014) [Alternate endings: using fiction to explore design futures](/papers/Linehan2014AlternateEndings.pdf) (Workshop). Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2014) extended abstracts. Toronto, Canada.
 * Laura Buttrick, Conor Linehan, Ben Kirman, and Dan O'Hara (2014) [Fifty shades of CHI: the perverse and humiliating human-computer relationship](/papers/Buttrick2014Shades.pdf). Proceedings of ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2014) extended abstracts. Toronto, Canada.
 
 ### 2013
