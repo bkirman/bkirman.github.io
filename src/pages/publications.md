@@ -160,7 +160,7 @@ Some of the files are available freely via the links, others are embargoed or he
 * "How to Radicalise your Mobile Phone" - BCS Computer Arts Society, 2016, London.
 * "Playful Clusters in Social Games" - Keynote at Games Convention Online 2010, Leipzig.
 
-# External Examination
+## External Examination
 
 * Undegraduate (programme) - Northumbria University
 * MSc (Research) - University of Lincoln, University of Cape Town
