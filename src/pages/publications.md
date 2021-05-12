@@ -149,3 +149,19 @@ Some of the files are available freely via the links, others are embargoed or he
 * British HCI 2015: Co-Chair, Position Papers
 * CHI PLAY 2014: Social Media Co-Chair
 * British HCI 2014: Co-Chair, Short Papers
+
+## Invited Talks/Events
+
+* "Dog Internet Pub Quiz" - with Conor Linehan and Shaun Lawson, part of [Uroboros Design Festival](https://uroboros.design/). May 2021, DOX Centre for Contemporary Art, Prague, Czech (online)
+* Discussion with students on Critical Theory of Media and Informatics, Hosted by Katta Spiel. April 2020, Technische Universität Wien (Online)
+* "Weirding Games" - Opening Keynote of Lincoln Games Research Symposium, November 2017
+* "Bot Concepts" - Panel as part of Virtual Futures Salon, 2016, London.
+* "Uncomfortable Games" - Pint of Science 2016, York.
+* "How to Radicalise your Mobile Phone" - BCS Computer Arts Society, 2016, London.
+* "Playful Clusters in Social Games" - Keynote at Games Convention Online 2010, Leipzig.
+
+# External Examination
+
+* Undegraduate (programme) - Northumbria University
+* MSc (Research) - University of Lincoln, University of Cape Town
+* PhD/MPhil - Liverpool John Moores, Queensland University of Technology, University of Sussex, Universitat Rovira i Virgili, Newcastle University, University College London
