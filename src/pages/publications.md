@@ -73,11 +73,11 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2013
 
-* Conor Linehan, Nicholas Bull and Ben Kirman (2013) BOLLOCKS!! Designing pervasive games that play with the social rules of built environments. In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands
-* Sean Oxspring, Ben Kirman, and Oliver Szymanezyk (2013) Attack on the clones: managing player perceptions of visual variety and believability in video game crowds. In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands
-* Ben Kirman (2013) Tribal metaphors in social game design: creating conflict and camaraderie through context. Proceedings of CHI 2013 Workshop on Designing and Evaluating Sociability in Online Video Games, SIGCHI Conference on Human Factors in Computer Systems. Paris, France.
-* Ben Kirman, Conor Linehan, Shaun Lawson, and Dan O'Hara (2013) CHI and the future robot enslavement of humankind: a retrospective. Proceedings of SIGCHI Conference on Human Factors in Computing Systems Extended Abstracts. Paris, France.
-* Fabrizio Davide,  F. Vatalaro, Francesco Collova, Stefano Puglia, and Ben Kirman (2012) Intra and Inter Domain Social Information Service (IIDSIS): definition and evaluation of a supporting architecture. In Proceedings of IEEE Telecommunications Network Strategy and Planning Symposium, NETWORKS 2012. Rome, Italy. (Restricted access)
+* Conor Linehan, Nicholas Bull and Ben Kirman (2013) [BOLLOCKS!! Designing pervasive games that play with the social rules of built environments](/papers/Bull2013Bollocks.pdf). In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands
+* Sean Oxspring, Ben Kirman, and Oliver Szymanezyk (2013) [Attack on the clones: managing player perceptions of visual variety and believability in video game crowds](/papers/Oxspring2013Clones.pdf). In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands
+* Ben Kirman (2013) [Tribal metaphors in social game design: creating conflict and camaraderie through context](/papers/Kirman2013Tribes.pdf). Proceedings of CHI 2013 Workshop on Designing and Evaluating Sociability in Online Video Games, SIGCHI Conference on Human Factors in Computer Systems. Paris, France.
+* Ben Kirman, Conor Linehan, Shaun Lawson, and Dan O'Hara (2013) [CHI and the future robot enslavement of humankind: a retrospective](/papers/Kirman2013Robots.pdf). Proceedings of SIGCHI Conference on Human Factors in Computing Systems Extended Abstracts. Paris, France.
+* Fabrizio Davide,  F. Vatalaro, Francesco Collova, Stefano Puglia, and Ben Kirman (2012) [Intra and Inter Domain Social Information Service (IIDSIS): definition and evaluation of a supporting architecture](/papers/Davide2013IIDSIS.pdf). In Proceedings of IEEE Telecommunications Network Strategy and Planning Symposium, NETWORKS 2012. Rome, Italy. (Restricted access)
 
 ### 2012
 
