@@ -81,13 +81,13 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2012
 
-* Ben Kirman (2012) “Get lost, GetLostBot!” annoying people by offering recommendations when they are not wanted. Proceedings of the Workshop on the Personalising the Local Mobile Experience at ACM Conference on Recommender Systems. Dublin, Ireland.
-* Ben Kirman, Conor Linehan, and Shaun Lawson (2012) Blowtooth: a provocative pervasive game for smuggling virtual drugs through real airport security. Personal and Ubiquitous Computing, 16 (6). pp. 767-775. ISSN 1617-4909
-* Ben Kirman, Conor Linehan, and Shaun Lawson (2012) Get lost: facilitating serendipitous exploration in location-sharing services. In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Austin, Texas, USA.
-* Derek Foster, Shaun Lawson, Conor Linehan, and Ben Kirman (2012) Hip to be square: designing serious apps for coolness. In Proceedings of Cool aX Continents, Cultures and Communities Workshop, ACM SIGCHI Conference on Human Factors in Computer Systems. Austin, Texas, USA.
-* Andrew Garbett, Conor Linehan, Ben Kirman, Jamie Wardman, and Shaun Lawson (2012) How dangerous is your life? Personalising Government open crime data. In Proceedings of Workshop on Personal Informatics. ACM SIGCHI Conference on Human Factors in Computer Systems. Austin, Texas, USA.
-* Ben Kirman (2012) Hipsters, trendies and rebels: if fun is cool, is game design cool design? In Proceedings of Cool aX Continents, Cultures and Communities Workshop, ACM SIGCHI Conference on Human Factors in Computer Systems. Austin, Texas, USA.
-* Ben Kirman, Conor Linehan, and Shaun Lawson (2012) Exploring mischief and mayhem in social computing or: how we learned to stop worrying and love the trolls. In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Austin, Texas, USA.
+* Ben Kirman (2012) [“Get lost, GetLostBot!” annoying people by offering recommendations when they are not wanted](/papers/Kirman2012GetLost.pdf). Proceedings of the Workshop on the Personalising the Local Mobile Experience at ACM Conference on Recommender Systems. Dublin, Ireland.
+* Ben Kirman, Conor Linehan, and Shaun Lawson (2012) [Blowtooth: a provocative pervasive game for smuggling virtual drugs through real airport security](/papers/Kirman2012Blowtooth.pdf). Personal and Ubiquitous Computing, 16 (6). pp. 767-775. ISSN 1617-4909
+* Ben Kirman, Conor Linehan, and Shaun Lawson (2012) [Get lost: facilitating serendipitous exploration in location-sharing services](/papers/Kirman2012GetLostCHI.pdf). In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Austin, Texas, USA.
+* Derek Foster, Shaun Lawson, Conor Linehan, and Ben Kirman (2012) [Hip to be square: designing serious apps for coolness](/papers/Foster2012SeriousCool.pdf). In Proceedings of Cool aX Continents, Cultures and Communities Workshop, ACM SIGCHI Conference on Human Factors in Computer Systems. Austin, Texas, USA.
+* Andrew Garbett, Conor Linehan, Ben Kirman, Jamie Wardman, and Shaun Lawson (2012) [How dangerous is your life? Personalising Government open crime data](/papers/Garbett2012Fearsquare.pdf). In Proceedings of Workshop on Personal Informatics. ACM SIGCHI Conference on Human Factors in Computer Systems. Austin, Texas, USA.
+* Ben Kirman (2012) [Hipsters, trendies and rebels: if fun is cool, is game design cool design?](/papers/Kirman2012CoolGames.pdf) In Proceedings of Cool aX Continents, Cultures and Communities Workshop, ACM SIGCHI Conference on Human Factors in Computer Systems. Austin, Texas, USA.
+* Ben Kirman, Conor Linehan, and Shaun Lawson (2012) [Exploring mischief and mayhem in social computing or: how we learned to stop worrying and love the trolls.](/papers/Kirman2012Mischief.pdf) In Proceedings of alt.chi, ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Austin, Texas, USA.
 
 ### 2011
 
@@ -109,7 +109,7 @@ Some of the files are available freely via the links, others are embargoed or he
 * Ben Kirman, Shaun Lawson, Conor Linehan, Francesco Martino, Luciano Gamberini, and Andrea Gaggioli (2010) Improving social game engagement on Facebook through enhanced socio-contextual information. In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems. Atlanta, Georgia, USA. (Honourable Mention)
 * Ben Kirman, Conor Linehan, Shaun Lawson, Derek Foster, and Mark Doughty (2010) There's a monster in my kitchen: using aversive feedback to motivate behaviour change. In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Atlanta, Georgia, USA
 * Conor Linehan, Mark Doughty, Shaun Lawson, Ben Kirman, Patrick Olivier, and Paula Moynihan (2010) Tagliatelle: social tagging to encourage healthier eating. In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Atlanta, Georgia, USA
-* Conor Linehan, Ben Kirman, Shaun Lawson and Mark Doughty (2010) Blowtooth: pervasive gaming in unique and challenging environments. In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Atlanta, Georgia, USA.
+* Conor Linehan, Ben Kirman, Shaun Lawson and Mark Doughty (2010) [Blowtooth: pervasive gaming in unique and challenging environments](/papers/Linehan2010Blowtooth.pdf). In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Atlanta, Georgia, USA.
 
 ### 2009
 
