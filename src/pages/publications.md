@@ -91,12 +91,12 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2011
 
-* Derek Foster, Ben Kirman, Conor Linehan, Shaun Lawson, Daniel Mills, Sarah Ellis, and Helen Zulch (2011) “I can haz emoshuns?”: understanding anthropomorphosis of cats among internet users. In Proceedings of 3rd International Conference on Social Computing, MIT Boston, MA, USA.
-* Ben Kirman, Francesco Collovà, Fabrizio Davide, Eva Ferrari, Jonathan Freeman, Shaun Lawson, Conor Linehan, and Niklas Ravaja (2011) Social architecture and the emergence of power laws in online social games. In Proceedings of Digital Games Research Association (DiGRA) Conference: Think Design Play, Hilversum, Netherlands.
-* Ben Kirman (2011) Playful networks: measuring, analysing and understanding the social effects of game design. PhD thesis, University of Lincoln.
-* Derek Foster, Conor Linehan, Shaun Lawson, and Ben Kirman (2011) Power ballads: deploying aversive energy feedback in social media. In Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems Extended Abstracts. Vancouver, Canada.
-* Ben Kirman, Staffan Björk, Sebastian Deterding, Janne Paavilainen and Valentina Rao (2011) Social Game Studies at CHI 2011. Workshop at ACM SIGCHI Conference on Human Factors in Computing Systems. Vancouver, Canada.
-* Conor Linehan, Ben Kirman, Shaun Lawson, and Gail G. Chan (2011) Practical, appropriate, empirically-validated guidelines for designing educational games. In Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems. Vancouver, Canada. (Honourable Mention)
+* Derek Foster, Ben Kirman, Conor Linehan, Shaun Lawson, Daniel Mills, Sarah Ellis, and Helen Zulch (2011) [“I can haz emoshuns?”: understanding anthropomorphosis of cats among internet users](/papers/Foster2011Tagpuss.pdf). In Proceedings of 3rd International Conference on Social Computing, MIT Boston, MA, USA.
+* Ben Kirman, Francesco Collovà, Fabrizio Davide, Eva Ferrari, Jonathan Freeman, Shaun Lawson, Conor Linehan, and Niklas Ravaja (2011) [Social architecture and the emergence of power laws in online social games](/papers/Kirman2011SocialArchitecture.pdf). In Proceedings of Digital Games Research Association (DiGRA) Conference: Think Design Play, Hilversum, Netherlands.
+* Ben Kirman (2011) [Playful networks: measuring, analysing and understanding the social effects of game design](/papers/Kirman2011PhD.pdf). PhD thesis, University of Lincoln.
+* Derek Foster, Conor Linehan, Shaun Lawson, and Ben Kirman (2011) [Power ballads: deploying aversive energy feedback in social media](/papers/Foster2011PowerBallads.pdf). In Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems Extended Abstracts. Vancouver, Canada.
+* Ben Kirman, Staffan Björk, Sebastian Deterding, Janne Paavilainen and Valentina Rao (2011) [Social Game Studies at CHI 2011](/papers/Kirman2011SocialGamesWorkshop.pdf). Workshop at ACM SIGCHI Conference on Human Factors in Computing Systems. Vancouver, Canada.
+* Conor Linehan, Ben Kirman, Shaun Lawson, and Gail G. Chan (2011) [Practical, appropriate, empirically-validated guidelines for designing educational games](/papers/Linehan2011EducationalGames.pdf). In Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems. Vancouver, Canada. (Honourable Mention)
 
 ### 2010
 
