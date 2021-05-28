@@ -2,11 +2,10 @@
 title: "GetLostBot Serendipity Generator"
 date: "2011-11-25"
 coverImage: "glb.png"
+subtitle: "Award winning adventure generator for wannabe urban flâneurs"
 ---
 
-(2011) Award winning adventure generator for wannabe urban flâneurs
-
-![Example map of getlostbot](images/glb.png)
+{% image page, "images/glb.png", "Screenshot showing getlostbot logo, and a satellite map with a path outlined in blue.", 800 %}
 
 In 2011 I was recruited for a Rewired State hack on experimental prototype applications for Honda, as part of the Honda/Guardian “Dream Factory” event.
 
@@ -18,8 +17,10 @@ Interestingly, although the idea is very appealing to people ("explore the unkno
 
 GetLostBot won the Honda Dream Factory prize in the evolution category, and has since been featured in a wide number of press, including a special feature in New Scientist, Wired, Metro, the Guardian and a bunch of places online. GetLostBot also came second place in a public vote for the best new project by Guardian readers.
 
-Ben Kirman (2012) _“get lost, GetLostBot!”: annoying people by offering recommendations when they are not wanted_. In Proceedings of the 2012 RecSys workshop on Personalizing the local mobile experience (LocalPeMA ’12). 13 September 2012, Dublin, Ireland ([pdf](http://eprints.lincoln.ac.uk/6153/), [slides](http://www.slideshare.net/bkirman/get-lost-getlostbot-annoying-people-with-serendipitous-recommendations))
+It is one of a series of projects, including [Blowtooth](/projects/blowtooth-smuggle-virtual-drugs-through-real-airport-security/), [Fearsquare](/projects/fearsquare/) and [Feckr](/projects/feckr-the-game-for-closet-sociopaths/), that explore different ways to use geolocation data (and ideas of places vs. locations) to playfully engage with the real physical and social environment represented in the data. 
 
-Ben Kirman, Conor Linehan, and Shaun Lawson. (2012) _Get lost: facilitating serendipitous exploration in location-sharing services_. In Proceedings of the 2012 ACM annual conference extended abstracts on Human Factors in Computing Systems (CHI EA ’12) 5-10 May, 2012, Austin, Texas ([ACM](http://dl.acm.org/citation.cfm?id=2212776.2223793))
+* Ben Kirman, Conor Linehan and Shaun Lawson (2018) [Reorienting Geolocation Data through Mischievous Design](/papers/Kirman2018GeolocationFunology.pdf). In Mark Blythe and Andrew Monk (Eds) Funology 2: From Usability to Enjoyment. Springer.
 
-Ben Kirman, Conor Linehan and Shaun Lawson (2018) Reorienting Geolocation Data through Mischievous Design. In Mark Blythe and Andrew Monk (Eds) _Funology 2: From Usability to Enjoyment_. Springer.
+* Ben Kirman, Conor Linehan, and Shaun Lawson (2012) [Get lost: facilitating serendipitous exploration in location-sharing services](/papers/Kirman2012GetLostCHI.pdf). In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Austin, Texas, USA.
+
+* Ben Kirman (2012) [“Get lost, GetLostBot!” annoying people by offering recommendations when they are not wanted](/papers/Kirman2012GetLost.pdf). Proceedings of the Workshop on the Personalising the Local Mobile Experience at ACM Conference on Recommender Systems. Dublin, Ireland.
