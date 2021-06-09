@@ -2,11 +2,10 @@
 title: "FearSquare"
 date: "2011-04-25"
 coverImage: "fearsquarebanner.jpg"
+subtitle: "The infamous urban game that rewards players for visiting locations with higher crime statistics"
 ---
 
-(2011) The infamous urban game that rewards players for visiting locations with higher crime statistics
-
-![Logo](images/fearsquarebanner.jpg)
+{% image page, "images/fearsquarebanner.jpg", "Fearsquare logo, showing a streetlight shining on a silhouette of a skyline", 800 %}
 
 FearSquare is a site which connects your Foursquare checkin history to the Police UK crime database to get an accurate picture of crime levels in your daily life. It was developed by Andy Garbett and a group of us from LiSC as a critical application that shows a different view of crime statistics.
 
@@ -16,12 +15,9 @@ There are high score tables on the site that show the most "dangerous" places in
 
 Fearsquare is compelling as it leans on the implied danger of crime statistics, and the difference between data about a place, and the place itself. As such we've written quite a bit about it over the years:
 
-![Example high score table for Fearsquare showing "dangerous" locations](images/myfearsquare.jpg)
+{% image page, "images/myfearsquare.jpg", "Example high score table for Fearsquare showing 'dangerous' locations", 800 %}
 
-Andrew Garbett, Conor Linehan, Ben Kirman, Jamie Wardman and Shaun Lawson (2011) _Using Social Media to Drive Public Engagement with Open Data_. in proceedings of Digital Engagement Conference 2011 ([pdf](http://de2011.computing.dundee.ac.uk/wp-content/uploads/2011/10/Using-social-media-to-drive-public-engagement-with-open-data.pdf))
-
-Andy Garbett, Conor Linehan, Ben Kirman, Jamie Wardman and Shaun Lawson (2012) _How dangerous is your life? Personalising Government open crime data._ In: ACM International Conference on Human Factors in Computer Systems 2012, 5 – 10 May, 2012, Austin, Texas. ([pdf](http://eprints.lincoln.ac.uk/5734/))
-
-Andrew Garbett, Jamie K. Wardman, Ben Kirman, Conor Linehan, and Shaun Lawson (2014) Fearsquare: hacking open crime data to critique, jam and subvert the ‘aesthetic of danger’ . In Proceedings of HCI Korea, Seoul, Republic of Korea
-
-Ben Kirman, Conor Linehan and Shaun Lawson (2018) Reorienting Geolocation Data through Mischievous Design. In Mark Blythe and Andrew Monk (Eds) _Funology 2: From Usability to Enjoyment_. Springer.
+* Ben Kirman, Conor Linehan and Shaun Lawson (2018) [Reorienting Geolocation Data through Mischievous Design](/papers/Kirman2018GeolocationFunology.pdf). In Mark Blythe and Andrew Monk (Eds) Funology 2: From Usability to Enjoyment. Springer.
+* Andrew Garbett, Jamie K. Wardman, Ben Kirman, Conor Linehan, and Shaun Lawson (2014) [Fearsquare: hacking open crime data to critique, jam and subvert the 'aesthetic of danger](/papers/Garbett2014Fearsquare.pdf). In Proceedings of HCI Korea, Seoul, Republic of Korea
+* Andrew Garbett, Conor Linehan, Ben Kirman, Jamie Wardman, and Shaun Lawson (2012) [How dangerous is your life? Personalising Government open crime data](/papers/Garbett2012Fearsquare.pdf). In Proceedings of Workshop on Personal Informatics. ACM SIGCHI Conference on Human Factors in Computer Systems. Austin, Texas, USA.
+* Andrew Garbett, Conor Linehan, Ben Kirman, Jamie Wardman and Shaun Lawson (2011) [Using social media to drive public engagement with open data](/papers/Garbett2011Fearsquare.pdf). In Proceedings of Digital Engagement Conference 2011. Newcastle, UK.
