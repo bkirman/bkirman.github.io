@@ -113,25 +113,25 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2009
 
-* Conor Linehan, Bryan Roche, Shaun Lawson, Mark Doughty, and Ben Kirman (2009) A behavioural framework for designing educational computer games. In Proceedings of the Vienna Games Conference: Future and Reality of Gaming (FROG). Vienna, Austria.
-* Ben Kirman, Eva Ferrari, Shaun Lawson, Jonathan Freeman, Jane Lessiter, and Conor Linehan (2009) Familiars: representing Facebook users’ social behaviour through a reflective playful experience. In Proceedings of the ACM International Conference on Advances in Computer Entertainment (ACE). Athens, Greece.
-* Ben Kirman, Shaun Lawson and Conor Linehan (2009) Mario, Luigi and Dave: the effect of language on the social structure of a bilingual online mobile game. In Proceedings of ACM Academic MindTrek Conference, Tampere, Finland.
-* Ben Kirman and Shaun Lawson (2009) Hardcore classification: identifying play styles in social games using network analysis. In Proceedings of International Conference on Entertainment Computing (ICEC), Springer Lecture Notes in Computer Science 5709. Paris, France.
-* Ben Kirman, Conor Linehan, and Shaun Lawson (2009) Exploring the edge of good taste: playful misconduct in social games. In Proceedings of the Vienna Games Conference: Future and Reality of Gaming (FROG). Vienna, Austria.
-* Conor Linehan, Shaun Lawson, Mark Doughty, and Ben Kirman (2009) Developing a serious game to evaluate and train group decision making skills.In Proceedings of ACM Academic MindTrek Conference, Tampere, Finland.
-* Ben Kirman, Shaun Lawson, and Conor Linehan (2009) Gaming on and off the social graph: the social structure of Facebook games. In Proceedings of the Symposium of Social Computing Applications (SCA) at IEEE International Conference on Social Computing. Vancouver, Canada.
-* Conor Linehan, Shaun Lawson, Mark Doughty, and Ben Kirman (2009) Thereʼs no ʻIʼ in ʻEmergency Management Team:ʼ designing and evaluating a serious game for training emergency managers in group decision making skills. In Proceedings of the 39th Conference of the Society for the Advancement of Games & Simulations in Education and Training (SAGSET). Leeds, UK
+* Conor Linehan, Bryan Roche, Shaun Lawson, Mark Doughty, and Ben Kirman (2009) [A behavioural framework for designing educational computer games](/papers/Linehan2009EducationalGames.pdf). In Proceedings of the Vienna Games Conference: Future and Reality of Gaming (FROG). Vienna, Austria.
+* Ben Kirman, Eva Ferrari, Shaun Lawson, Jonathan Freeman, Jane Lessiter, and Conor Linehan (2009) [Familiars: representing Facebook users’ social behaviour through a reflective playful experience](/papers/Kirman2009Familiars.pdf). In Proceedings of the ACM International Conference on Advances in Computer Entertainment (ACE). Athens, Greece.
+* Ben Kirman, Shaun Lawson and Conor Linehan (2009) [Mario, Luigi and Dave: the effect of language on the social structure of a bilingual online mobile game](/papers/Kirman2009Mario.pdf). In Proceedings of ACM Academic MindTrek Conference, Tampere, Finland.
+* Ben Kirman and Shaun Lawson (2009) [Hardcore classification: identifying play styles in social games using network analysis](/papers/Kirman2009HardcoreClassification.pdf). In Proceedings of International Conference on Entertainment Computing (ICEC), Springer Lecture Notes in Computer Science 5709. Paris, France.
+* Ben Kirman, Conor Linehan, and Shaun Lawson (2009) [Exploring the edge of good taste: playful misconduct in social games](/papers/Kirman2009GoodTaste.pdf). In Proceedings of the Vienna Games Conference: Future and Reality of Gaming (FROG). Vienna, Austria.
+* Conor Linehan, Shaun Lawson, Mark Doughty, and Ben Kirman (2009) [Developing a serious game to evaluate and train group decision making skills](/papers/Linehan2009SeriousGames.pdf). In Proceedings of ACM Academic MindTrek Conference, Tampere, Finland.
+* Ben Kirman, Shaun Lawson, and Conor Linehan (2009) [Gaming on and off the social graph: the social structure of Facebook games](/papers/Kirman2009SocialGraph.pdf). In Proceedings of the Symposium of Social Computing Applications (SCA) at IEEE International Conference on Social Computing. Vancouver, Canada.
+* Conor Linehan, Shaun Lawson, Mark Doughty, and Ben Kirman (2009) [Thereʼs no ʻIʼ in ʻEmergency Management Team:ʼ designing and evaluating a serious game for training emergency managers in group decision making skills](/papers/Linehan2009EmergencyManagement.pdf). In Proceedings of the 39th Conference of the Society for the Advancement of Games & Simulations in Education and Training (SAGSET). Leeds, UK
 
 ### 2008
 
-* Ben Kirman, Shaun Lawson, Duncan Rowland, Fabrizio Davide, Francesco Collovà, and Stefano Puglia (2008) Familiars: manipulating social networks with mobile gaming. In Proceedings of the International Games Design and Technology Workshop and Conference (GDTW). Liverpool, UK.
-* Ben Kirman, Sean Casey, Shaun Lawson, and Duncan Rowland (2008) User powered games for research. In Proceedings of the International Games Design and Technology Workshop and Conference (GDTW). Liverpool, UK.
-* Ben Kirman and Duncan Rowland (2008) Socially respectful enjoyment tracking for tabletop games. In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Florence, Italy.
+* Ben Kirman, Shaun Lawson, Duncan Rowland, Fabrizio Davide, Francesco Collovà, and Stefano Puglia (2008) [Familiars: manipulating social networks with mobile gaming](/papers/Kirman2008Familiars.pdf). In Proceedings of the International Games Design and Technology Workshop and Conference (GDTW). Liverpool, UK.
+* Ben Kirman, Sean Casey, Shaun Lawson, and Duncan Rowland (2008) [User powered games for research](/papers/Kirman2008UserPowered.pdf). In Proceedings of the International Games Design and Technology Workshop and Conference (GDTW). Liverpool, UK.
+* Ben Kirman and Duncan Rowland (2008) [Socially respectful enjoyment tracking for tabletop games](/papers/Kirman2008Tabletop.pdf). In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Florence, Italy.
 
 ### ≤ 2007
 
-* Sean Casey, Ben Kirman, and Duncan Rowland (2007) The gopher game: a social, mobile locative game with user generated content and peer review. In Proceedings of the International Conference on Advances in Computer Entertainment Technology (ACE). Salzburg, Austria.
-* Ben Kirman and Duncan Rowland (2006) Familiars: social gaming with PASION. In Proceedings of the International Games Design and Technology Workshop and Conference (GDTW). Liverpool, UK.
+* Sean Casey, Ben Kirman, and Duncan Rowland (2007) [The gopher game: a social, mobile locative game with user generated content and peer review](/papers/Casey2007Gophers.pdf). In Proceedings of the International Conference on Advances in Computer Entertainment Technology (ACE). Salzburg, Austria.
+* Ben Kirman and Duncan Rowland (2006) [Familiars: social gaming with PASION](/papers/Kirman2006SocialGames.pdf). In Proceedings of the International Games Design and Technology Workshop and Conference (GDTW). Liverpool, UK.
 * Ben Kirman and Abdennour El Rhalibi (2004) A Riot Control Mechanism for Games. In Proceedings of the International Games Design and Technology Workshop and Conference (GDTW). Liverpool, UK.
 
 ## Service
