@@ -101,7 +101,7 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2010
 
-* Ben Kirman, Conor Linehan and Shaun Lawson (2010)[ On the Edge of Good Taste: Playful Misconduct and Mischief in Online Games](/papers/Kirman2010Mischief.pdf). In Konstantin Mitgutsch, Christoph Klimmt and Herbert Rosenstingl (2010) Exploring the Edges of Gaming. Braumüller GmbH.
+* Ben Kirman, Conor Linehan and Shaun Lawson (2010) [On the Edge of Good Taste: Playful Misconduct and Mischief in Online Games](/papers/Kirman2010Mischief.pdf). In Konstantin Mitgutsch, Christoph Klimmt and Herbert Rosenstingl (2010) Exploring the Edges of Gaming. Braumüller GmbH.
 * Derek Foster, Conor Linehan, Ben Kirman, Shaun Lawson, and Gary James (2010) [Motivating physical activity at work: using persuasive social media for competitive step counting](/papers/Foster2010StepMatron.pdf). In Proceedings of 14th Academic MindTrek Conference. Tampere, Finland. (Best Paper)
 * Ben Kirman (2010) [Emergence and playfulness in social games](/papers/Kirman2010Emergence.pdf). In Proceedings of 14th Academic MindTrek Conference. Tampere, Finland.
 * Conor Linehan, Jonathan Ryan, Mark Doughty, Ben Kirman, and Shaun Lawson (2010) [Designing mobile technology to promote sustainable food choices](/papers/Linehan2010Tagliatelle.pdf). In Proceedings of Workshop on Nudge & Influence Through Mobile Devices, Mobile HCI Conference, Lisbon, Portugal.
