@@ -11,7 +11,6 @@ Playtter is a social nutrition application that allows users to upload pictures 
 Playtter is the result of a hack event, which is our excuse for the pure ugliness of the images, but as a proof of concept was interesting. (p.s. Play + Platter + Plating if you were scratching your head.)
 
 {% image page, "images/5253945709_4406ebaea0.jpg", "Photograph of mobile phone with Playtter interface, allowing upload of food pictures", 800 %}
-![Screenshot of playtter interface]()
 
 Nutrition data for meals is generated based on aggregation of social opinion, and Playtter can then build up a profile of a user’s typical diet over the course of their usage. Using this longer term data, it is able to provide personalised recommendations to users based on their actual diet, as a social activity with other users.
 
