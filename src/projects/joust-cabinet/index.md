@@ -1,7 +1,7 @@
 ---
 title: "Joust Cabinet"
 date: "2015-08-02"
-coverImage: "crt.jpg"
+coverImage: "coins.jpg"
 subtitle: "Old chewing gum and coin mechanisms"
 ---
 

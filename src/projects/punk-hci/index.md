@@ -39,4 +39,4 @@ On reflection this paper and presentation had some longer effects for me. Firstl
 
 Also see [my longer blog entry about CHI 2014 in general at the LiSC site](http://lisc.lincoln.ac.uk/blog/2014/05/12/bens-chi2014-reflection/).
 
-Cover image from [Savage et al (2012), Punk: An Aesthetic](http://www.rizzoliusa.com/book.php?isbn=9780847836628)
+Cover image "This is all Bullshit", Handbill from the Diggers movement, San Francisco, 1967. 
