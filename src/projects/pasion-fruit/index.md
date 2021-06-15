@@ -21,5 +21,7 @@ The research aim of the project was to understand more about directed social int
 
 PASION Fruit was developed as part of the PASION project (Psychologically Augmented Social Interaction Over Networks), a major European project involving 17 partner organisations from all over europe, funded through the EU FP6 scheme.
 
+The amazing illustrations for Pasion Fruit were created by [Aga Kowalska](https://www.instagram.com/agakowalskastudio_lincoln)
+
 * Ben Kirman, Francesco Collovà, Fabrizio Davide, Eva Ferrari, Jonathan Freeman, Shaun Lawson, Conor Linehan, and Niklas Ravaja (2011) [Social architecture and the emergence of power laws in online social games](/papers/Kirman2011SocialArchitecture.pdf). In Proceedings of Digital Games Research Association (DiGRA) Conference: Think Design Play, Hilversum, Netherlands.
 * Ben Kirman (2011) [Playful networks: measuring, analysing and understanding the social effects of game design](/papers/Kirman2011PhD.pdf). PhD thesis, University of Lincoln.
