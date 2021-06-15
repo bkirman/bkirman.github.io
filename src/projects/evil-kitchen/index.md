@@ -2,11 +2,10 @@
 title: "Evil Kitchen"
 date: "2010-04-26"
 coverImage: "Capture.png"
+subtitle: "Speculative design of a digital assistant that changes behaviour through punishment instead of reward"
 ---
 
-(2010) Speculative design of a digital assistant that changes behaviour through punishment instead of reward
-
-![Nabaztag says "if you keep leaving the heating on we won't be able to afford a f**king holiday!" on a background of flames](images/Capture.png)
+{% image page, "images/Capture.png", "Nabaztag says 'if you keep leaving the heating on we won't be able to afford a f**king holiday!' on a background of flames", 800 %}
 
 Arguably, “persuasive technologies”, those systems developed to motivate behaviour change in users - typically around health and sustainability - tend to rely heavily on positive feedback as a motivator. Users get smiley faces, badges and a variety of other meaningless pats on the back.
 
@@ -16,10 +15,10 @@ To demonstrate this idea, we present the design of an evil kitchen that uses ave
 
 In our kitchen, the refrigerator, electric stove, kettle, water meter and boiler are connected to an intelligent system that is embodied through a physical agent (a [Nabaztag](https://en.wikipedia.org/wiki/Nabaztag)). Based on your behaviour in the kitchen, the system will punish you for behaviours that have negative effect on the environment. For example, if you left the light on in the kitchen, the system will retaliate by switching the freezer off and spoiling your food. If you spend too long in the shower the system might switch off the boiler. In addition, the system uses negative reinforcement through an incessant nagging when using the kettle. The only way to avoid this is through using the correct amount of water (based on weight of water used per boil).
 
-![A kitchen in ruins and the Nabaztag says "I warned you!"](images/kitchen_ruin.gif-e1606422169867.png)
+{% image page, "images/kitchen_ruin.gif-e1606422169867.png", "A kitchen in ruins and the Nabaztag says 'I warned you!'", 800 %}
 
 The point of the system is to demonstrate that real behaviour change is also entirely achievable through aversive feedback as a design tool. The literature of behavioural psychology has half a century's head start on understanding this kind of stuff so it is naive of Human-Computer Interaction to focus just on one small part of this.
 
 There is much more detail and background in the paper:
 
-[Kirman, Ben and Linehan, Conor and Lawson, Shaun and Foster, Derek and Doughty, Mark (2010) _There's a monster in my kitchen: using aversive feedback to motivate behaviour change._ In: Conference on Human Factors in Computer Systems (alt.CHI), April 10-15 2010, Atlanta.](http://eprints.lincoln.ac.uk/2175/1/nagbaztag_postprint.pdf)
+* Ben Kirman, Conor Linehan, Shaun Lawson, Derek Foster, and Mark Doughty (2010) [There's a monster in my kitchen: using aversive feedback to motivate behaviour change](/papers/Kirman2010Monster.pdf). In Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems Extended Abstracts. Atlanta, Georgia, USA
