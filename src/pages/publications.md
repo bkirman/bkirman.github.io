@@ -163,6 +163,6 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ## External Examination
 
-* Undegraduate (programme) - Northumbria University
+* Undergraduate (programme) - Northumbria University
 * MSc (Research) - University of Lincoln, University of Cape Town
-* PhD/MPhil - Liverpool John Moores, Queensland University of Technology, University of Sussex, Universitat Rovira i Virgili, Newcastle University, University College London
+* PhD/MPhil - Liverpool John Moores, Queensland University of Technology, University of Sussex, Universitat Rovira i Virgili, Newcastle University, Lancaster University, University College London
