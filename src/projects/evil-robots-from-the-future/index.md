@@ -14,4 +14,3 @@ There are several more examples in the paper. This was a paper we'd talked about
 
 * Ben Kirman, Conor Linehan, Shaun Lawson, and Dan O'Hara (2013) [CHI and the future robot enslavement of humankind: a retrospective](/papers/Kirman2013Robots.pdf). Proceedings of SIGCHI Conference on Human Factors in Computing Systems Extended Abstracts. Paris, France.
 
-\*robots cover image from [kwramm](http://www.flickr.com/photos/29075182@N08/)
