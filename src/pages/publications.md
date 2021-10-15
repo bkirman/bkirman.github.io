@@ -8,6 +8,9 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2021
 
+* Oliver Bates, Carolynne Lord, Hayley Alter, Adrian Friday, and Ben Kirman (2021 - In Press) [Lessons from one future of work: opportunities to flip the gig economy](/papers/Bates2021FlipGig.pdf). To appear in IEEE Pervasive Computing. 
+* Athanasios Kokkinakis, Peter York, Moni Sagarika Patra, Justus Robertson, Ben Kirman, Alistair Coates, Alan P. Chitayat, Simon Demediuk, Anders Drachen, Jonathan Hook, Isabelle Nolle, Oluseyi Olarewaju, Daniel Slawson, Marian Ursu, and Florian Block (2021) [Metagaming and metagames in Esports](/papers/Kokkinakis2021Metagames.pdf). In International Journal of Esports, 1(1)
+* Charline Foch and Ben Kirman (2021) [“Slow down and look”: Desirable aspects of failure in video games, from the perspective of players.](/papers/Foch2021PlayerFailure.pdf) In Proceedings of The 16th International Conference on the Foundations of Digital Games 2021 (FDG'21). Online, 2021.
 * Justus Robertson, Athanasios V. Kokkinakis, Jonathan Hook, Ben Kirman, Florian Block, Marian F. Ursu, Sagarika Patra, Simon Demediuk, Anders Drachen, and Oluseyi Olarewaju (2021) [Wait, But Why?: Assessing Behavior Explanation Strategies for Real-Time Strategy Games](/papers/Robertson2021WaitButWhy.pdf). In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI 2021). Online, 2021.
 
 ### 2020
