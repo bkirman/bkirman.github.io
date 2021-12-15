@@ -18,6 +18,6 @@ Last updated 21/11/21
 
 ## Other
 * Got a [Bangle.js 2 Espruino watch](https://www.espruino.com/) - my first smart watch. Trying to think of neat things to do with it. It is ace, I like tinkering with it.
-* Trying to hit 500 in a [Portsmouth round](https://www.calcresult.com/reference/archery/target_archery_reference.html#PortsmouthRound) with Olympic Recurve this indoor season (current PB 491)
+* Hit 500 in a [Portsmouth round](https://www.calcresult.com/reference/archery/target_archery_reference.html#PortsmouthRound) with Olympic Recurve finally (current PB 512).
 * Just about finished this year's 10x10 for board games, a few more rounds of [Warfighter Shadow War](https://boardgamegeek.com/boardgame/261624/warfighter-shadow-war-modern-night-combat-card-gam) will do it. Also need 1 more play to finish 10xdecade challenge, where I play 10 games from 10 years ago.
 * Playing and enjoying Unpacking, Dinosaur World, Football Manager 22, and Forza Horizon 5. Disappointed by GTA trilogy on Switch.
