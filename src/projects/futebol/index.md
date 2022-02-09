@@ -32,3 +32,5 @@ The app I developed for this show is freely available for smartphones on the [Go
 {% image page, "images/app.png", "Screenshots of the mobile app showing information about upcoming shows and results of previous shows", 800 %}
 
 [Full credits and more information on the show at O Bando's website](http://obando.pt/pt/espectaculos/2018-2021/futebol-2021/).
+
+{% image page, "images/EUfundingLogo-320x50.png", "Co-funded by the Creative Europe Programme of the European Union",320 %}

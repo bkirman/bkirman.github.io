@@ -17,3 +17,5 @@ It is an unusual project for me as it is cultural, and R&D weighted, rather than
 Play-On! also hosted an excellent online creative forum, [HOPE!, which is online and hosts a load of fascinating videos](https://play-on.eu/hopecreativeforum/) from creatives working in the space of immersive and interactive theatre.
 
 Play-On! continues until 2024, so there is a huge amount to come.
+
+{% image page, "images/EUfundingLogo-320x50.png", "Co-funded by the Creative Europe Programme of the European Union",320 %}
