@@ -3,8 +3,12 @@ title: Publications
 permalink: /publications/
 ---
 
-I've been very fortunate to work with many brilliant scholars and designers, and have published a wide variety of things related to gameful/playful/critical/radical/weird design and analysis. I don't find the categories meaningful, so the list includes journal and conference papers, book chapters, workshop papers, magazine articles and other stuff. Everything below has been peer-reviewed and accepted into the respective venue.
-Some of the files are available freely via the links, others are embargoed or held hostage by publishers. Email me for a copy of the author's version of any of them for free. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
+I've been very fortunate to work with many brilliant scholars and designers, and have published a wide variety of things related to gameful/playful/critical/radical/weird design and analysis. I don't find the categories meaningful, so the list includes journal and conference papers, book chapters, workshop papers, magazine articles and other stuff. Everything below has been peer-reviewed and published in the respective venue.
+Most of the files are available freely via the links, a few are embargoed or held hostage by publishers. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
+
+### 2022
+
+* Ben Kirman, Oliver Bates, Carolynne Lord, and Hayley Alter (2022 - In Press) [Thinking Outside the Bag: Worker-led Speculation and the Future of Gig Economy Delivery Platforms](/papers/Kirman2022OutsideTheBag.pdf). To appear in proceedings of 2022 Design Research Society Conference (DRS 2022). Bilbao, Basque Country.
 
 ### 2021
 
@@ -38,16 +42,16 @@ Some of the files are available freely via the links, others are embargoed or he
 * Daniel Pargman, Elina Eriksson, Rob Comber, Ben Kirman, and Oliver Bates (2018). [The futures of computing and wisdom.](/papers/Pargman2018FutureWisdom.pdf) (Workshop) In Proceedings of the 10th Nordic Conference on Human-Computer Interaction (NordiCHI '18). Oslo, Norway.
 * Ben Kirman, Conor Linehan and Shaun Lawson (2018) [Reorienting Geolocation Data through Mischievous Design](/papers/Kirman2018GeolocationFunology.pdf). In Mark Blythe and Andrew Monk (Eds) Funology 2: From Usability to Enjoyment. Springer.
 * Ben Kirman, Joe Lindley, Mark Blythe, Paul Coulton, Shaun Lawson, Conor Linehan, Deborah Maxwell, Dan O’Hara, Miriam Sturdee and Vanessa Thomas (2018). [Playful Research Fiction: A Fictional Conference.](/papers/Kirman2018FCDFF.pdf) In Mark Blythe and Andrew Monk (Eds) Funology 2: From Usability to Enjoyment. Springer.
-* Tom Feltwell, Shaun Lawson, Enrique Encinas, Conor Linehan, Ben Kirman, Deborah Maxwell, Tom Jenkins and Stacey Kuznetsov (2018) ["Grand Visions" for Post-Capitalist Human-Computer Interaction](/papers/Feltwell2018PostCapitalistHCI.pdf) (Workshop). Proceedings of Extended Abstracts of the ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2018). Montréal, Canada.
+* Tom Feltwell, Shaun Lawson, Enrique Encinas, Conor Linehan, Ben Kirman, Deborah Maxwell, Tom Jenkins and Stacey Kuznetsov (2018) ["Grand Visions" for Post-Capitalist Human-Computer Interaction](/papers/Feltwell2018PostCapitalistHCI.pdf) (Workshop). Proceedings of Extended Abstracts of the ACM SIGCHI conference on Human Factors in Computing Systems (CHI 2018). Montréal, Quebec.
 
 ### 2017
 
 * Derek Foster, Ben Kirman, Conor Linehan and Shaun Lawson (2017) [The Role of Social Media in Artisanal Production: A Case of Craft Beer](/papers/Foster2017CraftBeer.pdf). Proceedings of the 21st International Academic Mindtrek Conference, Tampere, Finland.
-* Ben Kirman, Shaun Lawson and Conor Linehan (2017) [The Dog Internet: Autonomy and Interspecies Design](/papers/Kirman2017DogInternetRTD.pdf). In Proceedings of Research through Design Conference. Edinburgh, UK
+* Ben Kirman, Shaun Lawson and Conor Linehan (2017) [The Dog Internet: Autonomy and Interspecies Design](/papers/Kirman2017DogInternetRTD.pdf). In Proceedings of Research through Design Conference. Edinburgh, Scotland
 * Tom Feltwell, John Vines, Karen Salt, Mark Blythe, Ben Kirman, Julie Barnett, Phillip Brooker and Shaun Lawson (2017) [Counter-Discourse Activism on Social Media: The Case of Challenging "Poverty Porn" Television](/papers/Feltwell2017PovertyPorn.pdf). Journal of Computer Supported Cooperative Work. Springer
-* Kiel Long, John Vines, Selina Sutton, Phil Brooker, Tom Feltwell, Ben Kirman, Julie Barnett and Shaun Lawson (2017) ["Could You Define That in Bot Terms?": Requesting,Creating and Using Bots on Reddit](/papers/Long2017Bots.pdf). Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, USA
-* Conor Linehan and Ben Kirman (2017) [MC Hammer Presents: The Hammer of Transformative Nostalgification - Designing for Engagement at Scale](/papers/Linehan2017Nostalgification.pdf). alt.CHI: Extended Abstracts of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, USA.
-* Ben Kirman, Conor Linehan, Shaun Lawson and Dan O'Hara (2017, _Rejected for just being a straight copy of our 2013 paper replacing the word robot with fascist_) CHI and the future robot fascist enslavement of humankind: a retrospective. Rejected from alt.CHI: Extended Abstracts of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, USA.
+* Kiel Long, John Vines, Selina Sutton, Phil Brooker, Tom Feltwell, Ben Kirman, Julie Barnett and Shaun Lawson (2017) ["Could You Define That in Bot Terms?": Requesting,Creating and Using Bots on Reddit](/papers/Long2017Bots.pdf). Proceedings of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, Colorado, USA
+* Conor Linehan and Ben Kirman (2017) [MC Hammer Presents: The Hammer of Transformative Nostalgification - Designing for Engagement at Scale](/papers/Linehan2017Nostalgification.pdf). alt.CHI: Extended Abstracts of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, Colorado, USA.
+* Ben Kirman, Conor Linehan, Shaun Lawson and Dan O'Hara (2017, _Rejected for just being a straight copy of our 2013 paper replacing the word robot with fascist_) CHI and the future robot fascist enslavement of humankind: a retrospective. Rejected from alt.CHI: Extended Abstracts of ACM SIGCHI Conference on Human Factors in Computer Systems. Denver, Colorado, USA.
 
 ### 2016
 
@@ -77,8 +81,8 @@ Some of the files are available freely via the links, others are embargoed or he
 
 ### 2013
 
-* Conor Linehan, Nicholas Bull and Ben Kirman (2013) [BOLLOCKS!! Designing pervasive games that play with the social rules of built environments](/papers/Bull2013Bollocks.pdf). In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands
-* Sean Oxspring, Ben Kirman, and Oliver Szymanezyk (2013) [Attack on the clones: managing player perceptions of visual variety and believability in video game crowds](/papers/Oxspring2013Clones.pdf). In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands
+* Conor Linehan, Nicholas Bull and Ben Kirman (2013) [BOLLOCKS!! Designing pervasive games that play with the social rules of built environments](/papers/Bull2013Bollocks.pdf). In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands.
+* Sean Oxspring, Ben Kirman, and Oliver Szymanezyk (2013) [Attack on the clones: managing player perceptions of visual variety and believability in video game crowds](/papers/Oxspring2013Clones.pdf). In Proceedings of Advances in Computer Entertainment Conference (ACE), Springer Lecture Notes in Computer Science 8253. Entschede, Netherlands.
 * Ben Kirman (2013) [Tribal metaphors in social game design: creating conflict and camaraderie through context](/papers/Kirman2013Tribes.pdf). Proceedings of CHI 2013 Workshop on Designing and Evaluating Sociability in Online Video Games, SIGCHI Conference on Human Factors in Computer Systems. Paris, France.
 * Ben Kirman, Conor Linehan, Shaun Lawson, and Dan O'Hara (2013) [CHI and the future robot enslavement of humankind: a retrospective](/papers/Kirman2013Robots.pdf). Proceedings of SIGCHI Conference on Human Factors in Computing Systems Extended Abstracts. Paris, France.
 * Fabrizio Davide,  F. Vatalaro, Francesco Collova, Stefano Puglia, and Ben Kirman (2012) [Intra and Inter Domain Social Information Service (IIDSIS): definition and evaluation of a supporting architecture](/papers/Davide2013IIDSIS.pdf). In Proceedings of IEEE Telecommunications Network Strategy and Planning Symposium, NETWORKS 2012. Rome, Italy. (Restricted access)

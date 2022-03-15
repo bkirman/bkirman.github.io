@@ -15,9 +15,3 @@ This site includes papers and images that are used with the permission of the co
 * [Gruppo](https://fonts.google.com/specimen/Gruppo) by Vernon Adams (OFL)
 
 The background texture was generated using this tool, which is nice: https://simple-repeat.com
-
-# TODO
-Ongoing tasks as I find moments:
-
-* I need to finish editing projects to use the image shortcodes, and re-add alt tags for all images.
-* I need to continue adding authors' versions directly to the site. Link rot from publishers(!) and employers(!) was a big problem. If there is a specific paper you want me to send in the meantime [email me](mailto:ben@kirman.org).
