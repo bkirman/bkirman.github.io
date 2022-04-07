@@ -1,6 +1,6 @@
-# Source for bkirman.github.io
+# Source for bkirman.github.io (https://ben.kirman.org)
 
-Not much of interest in the source. 
+Not much of interest in the source, as everthing is on the site.
 
 Uses [11ty](11ty.dev), hosted on [Github Pages](https://pages.github.com/). Might be of some interest if you are trying to do similar. I followed [this guide from Tom Hiskey](https://tomhiskey.co.uk/blog/deploying-eleventy-to-github-pages-one-way/).
 

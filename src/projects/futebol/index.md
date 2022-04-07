@@ -27,6 +27,9 @@ In this way, every show/game is different, as actors play different roles at dif
 
 The app itself is fairly simple, but is designed to simulate "real" football apps used by supporters. As well as playing a key role during the performance, it also acts as a souvenir and is updated with the results of future matches/shows. There is a league table that is updated after each show, and notifications sent of major events, engaging the audience with the fiction for long after their show is over, as a fan following their team over the season. This really develops the ideas explored in NLFS in really fascinating ways, using the "play" of supporting a team to engage with more complex narratives both on a stage and after it is over.
 
+This interview with the director, João Neca (PT and EN subs) explains a lot more of the themes of the show and shows the audience using the app:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmfcApcI9E8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The app I developed for this show is freely available for smartphones on the [Google Play store](https://play.google.com/store/apps/details?id=org.kirman.ben.obando_foot&hl=en_GB&gl=US) and [Apple App Store](https://apps.apple.com/gb/app/futebol-espectáculo/id1587358224). The app is mostly in Portuguese, but you will get the idea.
 
 {% image page, "images/app.png", "Screenshots of the mobile app showing information about upcoming shows and results of previous shows", 800 %}
