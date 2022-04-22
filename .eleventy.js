@@ -21,6 +21,7 @@ async function imageShortcode(page, src, alt, width) {//modded to be able to han
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/assets");
     eleventyConfig.addPassthroughCopy("./src/papers");
+    eleventyConfig.addPassthroughCopy("./src/stuff");
     eleventyConfig.addPassthroughCopy('./src/robots.txt');
     eleventyConfig.addPassthroughCopy('./src/favicon.ico');
 
