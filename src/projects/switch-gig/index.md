@@ -19,7 +19,12 @@ We wanted to understand more about this experience, since workers are both the "
 
 We collaborated on a series of design provocations, that are ideas that embody specific aspects of their work. They expose really interesting textural aspects of their work, their interaction with technology, customers, the city, the courier community and local infrastructure. These provocations have been shared with industry, unions, and other organisations to help give richer picture of aspects of courier experience. This work is ongoing, but the project so far has been incredibly eye opening in understanding the hidden, personal issues, but also profound benefits, that are associated with platform work.
 
+{% image page, "images/baggoblin.png", "Bag Goblin", 800 %}
+
+The booklet, ["Outside the Bag"](/papers/switch_gig_booklet_oct21.pdf), contains more insight and reflection. Also see the papers related to this project below.
+
 ## Publications
+* Ben Kirman, Oliver Bates, Carolynne Lord, and Hayley Alter (2022) [Thinking Outside the Bag: Worker-led Speculation and the Future of Gig Economy Delivery Platforms](/papers/Kirman2022OutsideTheBag.pdf). In proceedings of 2022 Design Research Society Conference (DRS 2022). Bilbao, Basque Country.
 * Oliver Bates, Carolynne Lord, Hayley Alter, and Ben Kirman (2020)  [Let’s start talking the walk: Capturing and reflecting on our limits when working with gig economy workers.](/papers/Bates2020TalktheWalk.pdf) In Proceedings of Sixth ACM Workshop on Computing within Limits (LIMITS 2020). Virtual.
 * Oliver Bates, Christian Remy, Callum Nash, and Ben Kirman (2019) [The future of techno-disruption in gig economy workforces: challenging the dialogue with fictional abstracts.](/papers/Bates2019Technodisruption.pdf) HTTF 2019: Proceedings of the Halfway to the Future Symposium 2019. Nottingham, UK.
 * Oliver Bates & Ben Kirman (2019) [Sustainable Platform Cooperativism: Towards social and environmental justice in the future of the gig-economy](/papers/Bates2019SustainableCoop.pdf). Proceedings of the workshop on Computing within Limits (LIMITS 2019). Lappeenranta, Finland.
