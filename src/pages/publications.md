@@ -8,7 +8,7 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ### 2022
 
-* Ben Kirman, Oliver Bates, Carolynne Lord, and Hayley Alter (2022 - In Press) [Thinking Outside the Bag: Worker-led Speculation and the Future of Gig Economy Delivery Platforms](/papers/Kirman2022OutsideTheBag.pdf). To appear in proceedings of 2022 Design Research Society Conference (DRS 2022). Bilbao, Basque Country.
+* Ben Kirman, Oliver Bates, Carolynne Lord, and Hayley Alter (2022) [Thinking Outside the Bag: Worker-led Speculation and the Future of Gig Economy Delivery Platforms](/papers/Kirman2022OutsideTheBag.pdf). In proceedings of 2022 Design Research Society Conference (DRS 2022). Bilbao, Basque Country.
 
 ### 2021
 
