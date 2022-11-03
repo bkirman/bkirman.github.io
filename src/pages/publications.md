@@ -8,8 +8,10 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ### 2022
 
+* Ben Kirman, Conor Linehan and Tom Feltwell (2022) [Inscrutable Games: How Players Respond to Illegible or Opaque Game Design](/papers/Kirman2022NLFS.pdf). In Proceedings of the International Academic Mindtrek Conference 2022. Tampere, Finland.
+* Robb Mitchell, Ben Kirman, and Kin Encinas Lio (2022) [I Just Can’t Believe These are not Fictitious: Vivifying design examples through narratives populated by existing artefacts](/papers/Mitchell2022Fictitious.pdf). In Proceedings of the International Academic Mindtrek Conference 2022. Tampere, Finland.
 * Charline Foch and Ben Kirman (2022) [“The game doesn’t judge you”: game designers' perspectives on implementing failure in video games](/papers/Foch2022DesignerFailure.pdf). In Proceedings of The 17th International Conference on the Foundations of Digital Games 2022 (FDG'22). Athens, Greece.
-* Ben Kirman, Oliver Bates, Carolynne Lord, and Hayley Alter (2022) [Thinking Outside the Bag: Worker-led Speculation and the Future of Gig Economy Delivery Platforms](/papers/Kirman2022OutsideTheBag.pdf). In proceedings of 2022 Design Research Society Conference (DRS 2022). Bilbao, Basque Country.
+* Ben Kirman, Oliver Bates, Carolynne Lord, and Hayley Alter (2022) [Thinking Outside the Bag: Worker-led Speculation and the Future of Gig Economy Delivery Platforms](/papers/Kirman2022OutsideTheBag.pdf). In Proceedings of 2022 Design Research Society Conference (DRS 2022). Bilbao, Basque Country.
 
 ### 2021
 

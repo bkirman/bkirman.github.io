@@ -28,3 +28,4 @@ Android users can [download the game from Google Play](https://play.google.com/
 We presented our initial work on Non-League Football Supporter and the related game of celtic mysticism [Sacred Harvest](/projects/sacred-harvest/) at the DiGRA conference in May 2015:
 
 * Ben Kirman, Tom Feltwell and Conor Linehan (2015) [Player superstition as a design resource](/papers/Kirman2015Superstition.pdf). In DiGRA Conference Extended Abstracts. Lüneburg, Germany
+* Ben Kirman, Conor Linehan and Tom Feltwell (2022) [Inscrutable Games: How Players Respond to Illegible or Opaque Game Design](/papers/Kirman2022NLFS.pdf). In Proceedings of the International Academic Mindtrek Conference 2022. Tampere, Finland.
