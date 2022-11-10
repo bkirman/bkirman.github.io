@@ -29,3 +29,8 @@ What is particularly interesting is this kind of curation approach to large arch
 
 {% image page, "images/Screenshot-from-2015-06-01-190007-e1606406394994.png", "A screenshot of Steam, showing a list of curators and their game reviews.", 800 %}
 
+*Update from 2020*
+
+[BBC Together is now real](https://www.bbc.co.uk/together). 
+Note the new BBC Together isn't actually anything to do with our project from 2006, just shares a sweet name and core principle. It's now a [tool for synchronising iPlayer between others so you can experience streaming content simultaneously](https://www.bbc.co.uk/rd/blog/2020-05-iplayer-watch-party-group-watching-viewing). That's neat and cool, and also very 2020 :) Now where's the RSS?!
+
