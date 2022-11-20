@@ -10,6 +10,8 @@ I specialise in the design and implementation of interactive playful experiences
 
 The [projects page](/) contains a good overview of selected work – however I have published [lots of words](/publications) in the fields of Human-Computer Interaction and Games Studies. My work, especially the weirder stuff, has often been covered by traditional media, including the BBC, New Scientist, Wired, The Guardian, TIME, Metro, the New York Times, the Lincolnshire Echo and Your Cat magazine.
 
+I'm on Mastodon <a href="https://mastodon.sdf.org/@benki" rel="me">@benki@mastodon.sdf.org</a>
+
 ## Teaching
 
 I teach on the undergraduate [BSc (Hons) Interactive Media at the University of York](https://www.york.ac.uk/study/undergraduate/courses/bsc-interactive-media/). This is an incredible course, with a fiercely interdisciplinary perspective, bringing design, development, and critical analysis together around interactive technology. I particularly love the diverse interests our students have, including programming, music, game design, filmmaking, UX, graphic design, writing, philosophy and more. It makes for a great community and some really fascinating and varied projects.
