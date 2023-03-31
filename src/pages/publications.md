@@ -15,7 +15,7 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ### 2021
 
-* Oliver Bates, Carolynne Lord, Hayley Alter, Adrian Friday, and Ben Kirman (2021) [Lessons from one future of work: opportunities to flip the gig economy](/papers/Bates2021FlipGig.pdf). IEEE Pervasive Computing, 20 (4), 26-34. 
+* Oliver Bates, Carolynne Lord, Hayley Alter, Adrian Friday, and Ben Kirman (2021) [Lessons from one future of work: opportunities to flip the gig economy](/papers/Bates2021FlipGig.pdf). IEEE Pervasive Computing, 20 (4), 26-34. (Best Paper 2021)
 * Athanasios Kokkinakis, Peter York, Moni Sagarika Patra, Justus Robertson, Ben Kirman, Alistair Coates, Alan P. Chitayat, Simon Demediuk, Anders Drachen, Jonathan Hook, Isabelle Nolle, Oluseyi Olarewaju, Daniel Slawson, Marian Ursu, and Florian Block (2021) [Metagaming and metagames in Esports](/papers/Kokkinakis2021Metagames.pdf). In International Journal of Esports, 1(1)
 * Charline Foch and Ben Kirman (2021) [“Slow down and look”: Desirable aspects of failure in video games, from the perspective of players.](/papers/Foch2021PlayerFailure.pdf) In Proceedings of The 16th International Conference on the Foundations of Digital Games 2021 (FDG'21). Virtual.
 * Justus Robertson, Athanasios V. Kokkinakis, Jonathan Hook, Ben Kirman, Florian Block, Marian F. Ursu, Sagarika Patra, Simon Demediuk, Anders Drachen, and Oluseyi Olarewaju (2021) [Wait, But Why?: Assessing Behavior Explanation Strategies for Real-Time Strategy Games](/papers/Robertson2021WaitButWhy.pdf). In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI 2021). Virtual.
@@ -164,6 +164,7 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ## Invited Talks/Events
 
+* Presenter, panellist on Interactive Storytelling at [Northern Digital Storytelling Festival](https://www.northerndigifest.co.uk/) 2023 (Online). 
 * "Dog Internet Pub Quiz" - with Conor Linehan and Shaun Lawson, part of [Uroboros Design Festival](https://uroboros.design/). May 2021, DOX Centre for Contemporary Art, Prague, Czech (online)
 * Discussion with students on Critical Theory of Media and Informatics, Hosted by Katta Spiel. April 2020, Technische Universität Wien (Online)
 * "Weirding Games" - Opening Keynote of Lincoln Games Research Symposium, November 2017
