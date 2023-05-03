@@ -5,17 +5,18 @@ permalink: /now/
 
 This page is an intermittently updated summary of what I'm currently up to, and where my efforts are currently directed. It is based on [Now pages](https://nownownow.com/about), and the [.plan files](https://datatracker.ietf.org/doc/html/rfc1288) from back in the day. It is not meant to be a complete summary, just a little note.
 
-Last updated 31/3/23
+Last updated 3/5/23
 
 ## Research
 * Continuing working on supporting [PlayOn!](/projects/play-on) partners with their new immersive theatre productions. The next cycle of productions is under development with some really cool projects on the way.
 * Several PlayOn productions, including [Áruló](projects/áruló), will be at the [Theatre Olympics](https://szinhaz.org/en/) in Budapest in late May 2023.
+* Recently returned from a trip to Norway visiting with [Teatret Vårt](https://www.teatretvart.no/) in Molde, and the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/alesund) in Ålesund.
 * Worked with director György Vidovszky and Kolibri Szinhaz on [Áruló (Traitor)](projects/áruló), which opened in October 22 in Budapest. The production is part of the repertoire and is shown regularly.
 * Oliver Bates and I have printed lots of copies of MEAL DEAL, related to [Switch Gig](/projects/switch-gig) and the sister project [Flip Gig](http://www.flipgig.org/). This is a part of a range of critical design artefaces about cycle delivery under the banner "Crank & File"
 
 ## Teaching
 * I am Training Coordinator in York for the [IGGI doctoral training centre](https://www.iggi.org.uk), and am teaching the Game Design modules in 23/24. 
-* In undergraduate, I will again be leading the Project Preparation & Development module for Interactive Media students in April 2023.
+* In undergraduate, I am leading the Project Preparation & Development module for Interactive Media students in Summer 2023.
 
 ## Other
 
