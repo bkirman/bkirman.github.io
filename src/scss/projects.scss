@@ -99,6 +99,11 @@
             height:auto;
         }
     }
+
+    blockquote {
+        color:#333;
+        font-style: italic;
+    }
 }
 
 @media screen and (min-width:$mobile-width) { //Desktop
