@@ -9,13 +9,13 @@ coverImage: "meal-deal-logo.png"
 
 {% image page, "images/box and cards.jpg", "Meal Deal components laid out on a table", 800 %}
 
-> The lived experiences of cycle couriers are often invisible to consumers. Their needs can side-lined by app-developers who focus on the customer experience rather than that of the worker.
+> The lived experiences of cycle couriers are often invisible to consumers. Their needs can sidelined by app developers who focus on the customer experience rather than that of the worker.
 
 Meal Deal is a game that puts players in the saddles of cycle couriers working in the gig economy. With a finite amount of stamina on tap each day, the cards allow players to weave their own gig economy story expanding on research with couriers who’ve worked in Manchester, York and Edinburgh in the UK as part of the [Switch-Gig](/projects/switch-gig) and [FlipGig](https://www.flipgig.org) research projects.
 
 
 
-This is a part of Oliver and my collection of creative critical projects that have come from our work into social justice in the Gig economy. The artefacts are collected together as ["Crank & File"](https://crankandfile.co.uk). It has been fantastic to make things that explore the insights from research in different ways, rather than just reports and white papers. For the gig-economy in particular, games are a great way to explore the nature of the work and the challenges and joys riders experience. It is very much an example of a "system", dictated by algorithms and apps that create emergent issues around this kind of work, and this can be represented quite well in terms of a game loop. Players are forced into making the same kinds of decisions that couriers need to make in their work. For example - cutting down a one way street might be risky if you are stopped, but can also save enough time to bring your wage above poverty levels.
+This is a part of Oliver and my collection of creative critical projects that have come from our work into social justice in the Gig economy. The artefacts are collected together as ["Crank & File"](https://crankandfile.co.uk). It has been fantastic to make things that explore the insights from research in different ways, rather than just reports and white papers. For the gig-economy in particular, games are a great way to explore the nature of the work and the challenges and joys riders experience. It is very much an example of a "system", dictated by algorithms and apps that create emergent issues around this kind of work, and this can be represented quite well in terms of a game loop. Players are forced into making the same kinds of decisions that couriers need to make in their work. For example - cutting down a one way street might be risky if you are stopped, but can also save enough time to bring your wage above poverty levels. This can give insight and a different perspective on a job that most of us only encounter as customers.
 
 {% image page, "images/cardexample6.jpg", "Meal Deal card example - a job that costs 3 energy to earn £6", 200 %} 
 {% image page, "images/cardexample3.jpg", "Meal Deal card example - a ride card that earns the player £2 tip", 200 %}
