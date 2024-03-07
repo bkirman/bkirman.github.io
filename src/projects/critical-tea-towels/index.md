@@ -24,7 +24,7 @@ From our research we selected a number of key messages and anecdotes, drawing ou
 
 We had the tea towels professionally printed, and handed them out as part of an event on the future of gig working at the [People's History Museum](https://phm.org.uk/) in Manchester. 
 
-More of these unusual research outputs at [Crank and File](crankandfile.co.uk), see also the sister project [Meal Deal](/projects/meal-deal), a card game about the experiences of gig.
+More of these unusual research outputs at [Crank and File](crankandfile.co.uk), see also the sister project [Meal Deal](/projects/meal-deal), a card game about the experiences of gig-working couriers.
 
 The illustrations are by [Tony Pickering](https://pick-art.co.uk). 
 This project was funded by the [UKRI "Telling Tales of Engagement" scheme](https://www.ukri.org/what-we-do/what-we-have-funded/epsrc/digital-economy-telling-tales-of-engagement-awards/) that supports projects with research impact.

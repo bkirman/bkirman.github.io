@@ -17,11 +17,17 @@ We wanted to understand more about this experience, since workers are both the "
 
 {% image page, "images/statue.png", "Switch-Gig speculation of statue celebrating couriers", 800 %}
 
-We collaborated on a series of design provocations, that are ideas that embody specific aspects of their work. They expose really interesting textural aspects of their work, their interaction with technology, customers, the city, the courier community and local infrastructure. These provocations have been shared with industry, unions, and other organisations to help give richer picture of aspects of courier experience. This work is ongoing, but the project so far has been incredibly eye opening in understanding the hidden, personal issues, but also profound benefits, that are associated with platform work.
+We collaborated on a series of design provocations, that are ideas that embody specific aspects of their work. They expose really interesting textural aspects of their work, their interaction with technology, customers, the city, the courier community and local infrastructure. These provocations have been shared with industry, unions, and other organisations to help give richer picture of aspects of courier experience. The project so far has been incredibly eye opening in understanding the hidden, personal issues, but also profound benefits, that are associated with platform work.
 
 {% image page, "images/baggoblin.png", "Bag Goblin", 800 %}
 
-The booklet, ["Outside the Bag"](/papers/switch_gig_booklet_oct21.pdf), contains more insight and reflection. Also see the papers related to this project below.
+We compiled a collection of these design provocations, along with some commentary, into a booklet that we shared with stakeholders, councils and the public.
+
+{% image page, "images/booklet_mockups_sm.png", "Outside the Bag - a collection of design provocations in a free booklet.", 800 %}
+
+The booklet, ["Outside the Bag"](/papers/switch_gig_booklet_oct21.pdf), contains more insight and reflection. A limited number of printed copies are available if you get in touch, but also the booklet has an open licence if you want to print your own. Also see the papers related to this project below.
+
+We built on this project in the card game [Meal Deal](/projects/meal-deal), and the [Critical Tea Towels](/projects/critical-tea-towels), as a further exploration of sharing research insight through creative approaches.
 
 ## Publications
 * Ben Kirman, Oliver Bates, Carolynne Lord, and Hayley Alter (2022) [Thinking Outside the Bag: Worker-led Speculation and the Future of Gig Economy Delivery Platforms](/papers/Kirman2022OutsideTheBag.pdf). In proceedings of 2022 Design Research Society Conference (DRS 2022). Bilbao, Basque Country.

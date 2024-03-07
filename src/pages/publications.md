@@ -6,6 +6,10 @@ permalink: /publications/
 I've been very fortunate to work with many brilliant scholars and designers, and have published a wide variety of things related to gameful/playful/critical/radical/weird design and analysis. I don't find the categories meaningful, so the list includes journal and conference papers, book chapters, workshop papers, magazine articles and other stuff. Everything below has been peer-reviewed and published in the respective venue.
 Most of the files are available freely via the links, a few are embargoed or held hostage by publishers. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
 
+### 2024
+* Ziao Tang and Ben Kirman (2024) [Exploring Curiosity in Games:
+A Framework and Questionnaire Study of Player Perspectives](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2325171), International Journal of Human–Computer Interaction, DOI: 10.1080/10447318.2024.2325171
+
 ### 2023
 * Charles Ringer, Sondess Missaoui, Victoria J. Hodge, Alan Pedrassoli Chitayat, Athanasios Kokkinakis, Sagarika Patra, Simon Peter Demediuk, Alvaro Caceres Munoz, Olu Olarewaju, Marian Ursu, Ben Kirman, Jonathan David Hook, Florian Oliver Block, Anders Drachen, and James Alfred Walker (2023) [Time to Die 2: Improved In-Game Death Prediction in Dota 2](/papers/Ringer2023DeathPrediction.pdf). in Machine Learning With Applications (12). Elsevier.
 
