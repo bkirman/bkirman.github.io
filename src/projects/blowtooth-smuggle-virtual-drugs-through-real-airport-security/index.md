@@ -4,12 +4,12 @@ date: "2012-11-11"
 coverImage: "blowtooth.jpg"
 subtitle: "The notorious game of international smuggling, played in real airport security"
 ---
-
-{% image page, "images/juliet-e1606426669122.jpg", "Blurry photograph of a profile of Blowtooth player in airport security area", 800 %}
+<img src="images/juliet-e1606426669122.jpg" width="800" alt="Blurry photograph of a profile of Blowtooth player in airport security area">
 
 Blowtooth is a unique game where players must smuggle virtual contraband through real airport security. Of course, no actual crimes are committed - the game uses bluetooth to store a list of devices that are broadcasting during the airport check-in process. Later, players are challenged to find those same devices in the departure lounges.
 
-{% image page, "images/2012-11-29_16-39-49-180x300.png", "Screenshot of the game showing a player hiding sporks on another passenger at Liverpool airport", 800 %}
+<img src="images/2012-11-29_16-39-49-180x300.png" width="800" alt="Screenshot of the game showing a player hiding sporks on another passenger at Liverpool airport">
+
 
 The game only works when you are in a real airport. It was developed to explore the limits of pervasive gaming in public spaces where the constant surveillance of law-abiding and innocuous behaviour has become the everyday norm.
 

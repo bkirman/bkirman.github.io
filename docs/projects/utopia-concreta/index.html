@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Utopia Concreta | Ben Kirman</title>
+  <link rel="stylesheet" href="/bundle.css">
+</head>
+<body>
+  <div id="main-header">
+    <a href="/" id="root-link">Ben Kirman</a>
+    <nav>
+        <div class="nav-item "><a href="/now/">.plan</a></div>
+        <div class="nav-item "><a href="/about/">About</a></div>
+        <div class="nav-item "><a href="/publications/">Publications</a></div>
+        <div class="nav-item "><a href="/">Projects</a></div>
+    </nav>
+</div>
+
+  <main>
+    <article id="single-project">
+    <header>
+    <h1>Utopia Concreta</h1>
+    <p id="subtitle">A Night of Daydreams (2024)</p>
+    </header>
+    <section id="content">
+    <p>The final show I worked on as part of <a href="/projects/play-on/">PlayOn</a> is appropriately the most ambitious and technically complex, also performed in the most challenging environment. It is therefore, also extremely exciting.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Fmirrorpath.jpeg&width=800&format=jpeg&via=transform" alt="Photograph of an audience member lit by a giant mirrored display, the lit path in the foreground and valley at dusk at the rear." width="800" loading="lazy" decoding="async" height="600">
+<p><em>Utopia Concreta: A Night of Daydreams</em> was written and directed by <a href="https://de.wikipedia.org/wiki/Dirk_Neldner">Dirk Neldner</a>, featuring Raul Atalaia, Marta Barahona, Nicolas Brites and Sara Belo. The technical directors were me, <a href="https://julianjungel.de/">Julian Jungel</a> and <a href="https://zweiling.com/">Nils Zweiling</a>, audio was by Marius Zoschke and the show produced by Inês Gregório. The <a href="http://www.obando.pt/pt/gca/index.php?id=261">full credits are on O Bando's website</a>.
+It was shown at Teatro O Bando, in Palmela, Portugal, in October 2024.</p>
+<p>The show is an exploration of the philosophy of <a href="https://en.wikipedia.org/wiki/Ernst_Bloch">Ernst Bloch</a>, through a reflection and celebration of <a href="http://www.obando.pt/pt/english-version/o-bando/">50 years of theatre at O Bando</a>.</p>
+<p>This exploration takes the form of a personal immersive audio walk at twilight, through the beautiful grounds of O Bando in the Vale dos Barris. As you walk around the valley, you encounter the echoes of the dozens of shows that O Bando has performed in those spaces, through giant props, interviews with artists, live singers and actors, an animatronic puppet of Ernst Bloch and many other surprises. This history is all reflected on themes of hope, dreams and utopia from Bloch's writing, and brought to life through immersive technology that is both carried and embedded into the valley itself.</p>
+<p>The show is really meaningful and medititative, spectacular in its setting, and really unique in the ambition and scale of the production. You can read more about the show at <a href="http://www.obando.pt/pt/espectaculos/2018-2024/utopia-concreta-2024/">O Bando's website</a> but here I'll talk mostly about the technical aspects where I worked closely with <a href="https://julianjungel.de/">Julian Jungel</a> and <a href="https://zweiling.com/">Nils Zweiling</a> to bring the show to life.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Ftruss.jpg&width=500&format=jpeg&via=transform" alt="Photograph of a theatre technician hanging upside down from a giant truss and fixing a projection screen." width="500" loading="lazy" decoding="async" height="508">
+<p>The technology included lots of moving parts that I could and would spend hours talking about, but some key aspects that were really fascinating:</p>
+<p>The audio walk was delivered by mobile app on phones provided by the theare, built using <a href="/projects/onscene">OnScene</a>. The show was in two languages (Portuguese and English) delivered simultaneously and independently to up to 20 audience members. The audio was recorded using binaural technologies by Marius Zoschke and the performers, and delivered to the audience binaurally through bone conducting wireless headphones. This was a specific choice to help you hear both the dialogue but also the ambient sounds of the environment, and it worked really well as an audio-augmented reality. It was hard to discern what is in the audio and what is in the real world, so there was a lot of interesting creative possibilities in merging the two.</p>
+<p>The app runs itself with no interaction required, but audience members could press a button if they needed assistance. Because the show takes place at twilight on a rough path on a hillside, we had to provide lighting. To achieve this we wired up around 90 smart bulbs to an ad hoc <a href="https://en.wikipedia.org/wiki/Zigbee">Zigbee</a> mesh network along the path (in waterproof enclosures) and Nils implemented an <a href="https://en.wikipedia.org/wiki/MQTT">MQTT</a>-based protocol for animating the lights dynamically. In this way, the system knows where each audience member is, via the app, and can light up sections of the path (or change colour) based on what is happening during the audio, and in response to other things happening in the physical environment.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Fpath.jpg&width=800&format=jpeg&via=transform" alt="Photograph of the custom interactive path lights, stretching into a wooded area on the hillside at night" width="800" loading="lazy" decoding="async" height="604">
+<p>Through the show we had several &quot;stations&quot; where events would occur in the story. For example, we hid projectors in the trees and projected interviews onto unexpected surfaces both small and huge.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Finterview.png&width=800&format=jpeg&via=transform" alt="Photograph of an interview with an artist, projected onto the rocks and dirt where the artist worked years previously" width="800" loading="lazy" decoding="async" height="1066">
+<p>Julian used his electronics skills to enhance bench cushions using pressure sensors from car seat-belt alarm systems to detect when audience members sat down. With an API call from hidden <a href="https://www.raspberrypi.com/products/raspberry-pi-5/">Raspberry Pis</a> to the app, it could then play a video or audio in the correct language for that person. Or, we could trigger the fantastic life size animated robotic puppet created by <a href="https://www.hfs-berlin.de/mensch/ingo-mewes/">Ingo Mewes</a> and Julian at the <a href="https://www.hfs-berlin.de/">Hochschule für Schauspielkunst Ernst Busch</a>.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Fpuppet.png&width=800&format=jpeg&via=transform" alt="Photograph of a wireframe human, motors and joints visible under clothes." width="800" loading="lazy" decoding="async" height="450">
+<p>At various tricky points on the path, custom made <a href="https://www.raspberrypi.com/products/raspberry-pi-pico-2/">Raspberry Pi Pico</a>-powered MQTT-connected LED lights could direct the audience through difficult junctions and indicate the safe route. All the audience members could be observed, and be supported, by technicians through GPS tracking to an <a href="/projects/onscene">OnScene</a> powered control panel on an iPad in the main theatre building.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Flaptop.jpeg&width=800&format=jpeg&via=transform" alt="Photograph of a laptop on a bench near the top of the hill, overlooking the green valley below" width="800" loading="lazy" decoding="async" height="600">
+<p>As you can see, the technical complexity was huge, and this was also made more difficult by the show being outside, at dusk, in the middle of the countryside. Although there were rough edges here and there, and unpredictable valley weather, and burst pipes, to contend with, it was fantastic to be able to get such an ambitious show to be enjoyed by audiences at O Bando. The combination of story, philosophy, hidden and visual technology together in such a rich environment really creates a magical experience.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Ffinale.png&width=800&format=jpeg&via=transform" alt="Photograph of a door to the finale of the show, at twilight, an inviting glow coming from within." width="800" loading="lazy" decoding="async" height="450">
+<p>Overall <em>Utopia Concreta</em> is a fantastic way to finish PlayOn! and really demonstrates the innovation and international cooperation at the heart of the project. I encourage you to check out the <a href="https://portal.theater.digital/">rest of the amazing shows produced as part of the project</a>. It has been a career highlight to be involved.</p>
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2Fjulian.png&width=800&format=jpeg&via=transform" alt="Photograph of Julian, working on one of the stations in the dirt halfway up the hill" width="800" loading="lazy" decoding="async" height="450">
+<img src="/.11ty/image/?src=src%2Fprojects%2Futopia-concreta%2Fimages%2FEUfundingLogo-320x50.png&width=320&format=jpeg&via=transform" alt="Co-funded by the Creative Europe Programme of the European Union" width="320" loading="lazy" decoding="async" height="50">
+<p>Thanks also to Julian for sharing the photographs.</p>
+
+    </section>
+</article> 
+  </main>
+  <footer></footer>
+</body>

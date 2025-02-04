@@ -1,38 +1,20 @@
 {
-  "name": "bkirman.github.io",
+  "name": "eleventy_v3",
   "version": "1.0.0",
-  "description": "test",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bkirman/bkirman.github.io.git"
-  },
-  "keywords": [],
   "author": "Ben Kirman",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bkirman/bkirman.github.io/issues"
   },
   "homepage": "https://github.com/bkirman/bkirman.github.io#readme",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "cssnano": "^4.1.10",
-    "html-minifier": "^4.0.0",
-    "imagemin": "^7.0.1",
-    "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-pngquant": "^9.0.1",
-    "imagemin-svgo": "^8.0.0",
-    "inline-source": "^7.2.0",
-    "postcss": "^7.0.32",
-    "postcss-advanced-variables": "^3.0.1",
-    "postcss-nested": "^4.2.3",
-    "postcss-scss": "^2.1.1"
-  },
+  "description": "",
   "dependencies": {
-    "@11ty/eleventy-img": "^1.1.0",
-    "clean-css": "^4.2.3"
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.1"
   }
 }

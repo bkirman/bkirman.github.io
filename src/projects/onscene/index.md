@@ -24,7 +24,7 @@ These applications can either be pre-installed on theatre-controlled devices, or
 
 OnScene is also proven through PlayOn - it has been used by several productions and by thousands of audience members.
 
-{% image page, "images/voting.jpg", "Photograph of an audience member using an app powered by OnScene to vote during Futebol (O Bando)", 800 %}
+<img src="images/voting.jpg" alt="Photograph of an audience member using an app powered by OnScene to vote during Futebol (O Bando)" width="800">
 
 The plugin has a fairly simple structure, split between Scenes and Triggers, where Scenes are things audience members do, and Triggers are the range of things that require moving between scenes. The definition is purposefully loose to give the maximum flexibilty when defining what exactly a Trigger or a Scene is based on the requirements of the show.
 
@@ -32,12 +32,12 @@ Out of the box OnScene provides Triggers based on time, GPS location, proximity 
 
 Triggers for OSC and DMX are coming soon, that will tie OnScene applications into theatre lighting control systems.
 
-{% image page, "images/Arulo_proba-29-of-84_kicsi.jpg", "Photograph of an audience member using an app powered by OnScene to play a minigame during Áruló (Kolibri)", 800 %}
+<img src="images/Arulo_proba-29-of-84_kicsi.jpg" alt="Photograph of an audience member using an app powered by OnScene to play a minigame during Áruló (Kolibri)" width="800">
 
 The Scenes in OnScene are simply containers for Flutter widgets, so you have the full flexibility of Flutter within your project. Individual scenes can be anything - live streamed video, segments of audio walks, minigames, surveys, whatever you can build in Flutter. OnScene takes care of managing the show state and making sure the right members of the audience are seeing the right thing at the right time.
 
 Although OnScene is powerful and flexible, you do need a Flutter developer to build the scenes and hook up the OnScene triggers based on the design of the show. The modular design means Triggers and Scenes can easily be moved and modified as the show develops. This is designed to support developers work with theatremaking practice, where the requirements and structures can change rapidly based on the creative direction. It also tries to minimise the "drag" of technology on creative teams and give flexibility to experiment and change quickly.
 
-OnScene will be formally released at the close of PlayOn in late 2024, as it continues to be developed for use in shows premiering this autumn. If you have any questions about OnScene or any of the other technologies used in PlayOn, you can contact me by email - ben@kirman.org 
+If you have any questions about OnScene or any of the other technologies used in PlayOn, you can contact me by email - ben@kirman.org 
 
-{% image page, "images/EUfundingLogo-320x50.png", "Co-funded by the Creative Europe Programme of the European Union",320 %}
+<img src="images/EUfundingLogo-320x50.png" alt="Co-funded by the Creative Europe Programme of the European Union" width="320">

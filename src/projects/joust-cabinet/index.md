@@ -24,17 +24,17 @@ Tasks included:
 - Finally - rewiring the original coin mechanism to accept coins and issue the correct number of credits based on denomination (again by faking keypresses via a USB keyboard controller). This was difficult - UK coins have changed a lot, and our mechanisms were electronic, not mechanical like many US ones.
 
 <figure>
-{% image page, "images/IMG_20150822_123950-e1606429826340.jpg", "Blurry photo of the PC electronics inside an arcade machine", 800 %}
+<img src="images/IMG_20150822_123950-e1606429826340.jpg" alt="Blurry photo of the PC electronics inside an arcade machine" width="800">
 <figcaption>A look at the back of the CRT and the new PC underneath</figcaption>
 </figure>
 
 <figure>
-{% image page, "images/IMG_20150822_124101-e1606429976104.jpg", "Photo of underneath the control panel showing button wiring", 800 %}
+<img src="images/IMG_20150822_124101-e1606429976104.jpg" alt="Photo of underneath the control panel showing button wiring" width="800">
 <figcaption>Underneath the control panel, exposing the wiring from the front. The Microsoft dongle is for a wireless keyboard and mouse (for maintenance)</figcaption>
 </figure>
 
 <figure>
-{% image page, "images/IMG_20150822_123850-e1606429896817.jpg", "Photo of the interior of the coin mechanism, showing a circuit board and an analogue counter", 800 %}
+<img src="images/IMG_20150822_123850-e1606429896817.jpg" alt="Photo of the interior of the coin mechanism, showing a circuit board and an analogue counter" width="800">
 <figcaption>A look behind the coin door at the coin acceptor mechanism. Accepted coins drop into a bucket. Note the meter at the top of the image.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ I found that I got a lot out of this project. Not just the activity of bringing 
 These are not original thoughts by a long stretch. Millions of people engage in restoration projects to bring to life old cars, motorbikes, furniture and a thousand other things. There is something very powerful about the feeling you get doing something difficult that is positive, rescuing a beautiful object from obliteration, and most of all doing it right. Also, I am now accidentally an expert on late 80's UK coin alloy compositions.
 
 <figure>
-{% image page, "images/IMG_20150822_1237421-e1606430035945.jpg", "Photo of the finished arcade machine, with Joust artwork on the side, playing Joust", 800 %}
+<img src="images/IMG_20150822_1237421-e1606430035945.jpg" alt="Photo of the finished arcade machine, with Joust artwork on the side, playing Joust" width="800">
 <figcaption>The finished cabinet, with vinyl artwork. Not quite correct for Joust but near enough for me.</figcaption>
 </figure>
 

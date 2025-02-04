@@ -5,7 +5,7 @@ coverImage: "glb.png"
 subtitle: "Award winning adventure generator for wannabe urban flâneurs"
 ---
 
-{% image page, "images/glb.png", "Screenshot showing getlostbot logo, and a satellite map with a path outlined in blue.", 800 %}
+<img src="images/glb.png" alt="Screenshot showing getlostbot logo, and a satellite map with a path outlined in blue." width="800">
 
 In 2011 I was recruited for a Rewired State hack on experimental prototype applications for Honda, as part of the Honda/Guardian “Dream Factory” event.
 

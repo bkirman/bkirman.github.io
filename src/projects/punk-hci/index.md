@@ -13,7 +13,7 @@ This year, we tried to be a bit more direct, so we submitted a song to the [2014
 
 We never meant for it to be accepted (rejection would be a point of honour), but it was. [Our stupid punk song is in the ACM digital library](http://dl.acm.org/citation.cfm?id=2559206.2578880). We also had to present it, which caused us some problems. We delivered our presentation in the form of a 15 minute angry spiel, delivered as we paced up and down the aisle of the auditorium. I may be the only, still working, researcher who has ["flicked the V's"](http://web.archive.org/web/20081018230141/http://www.icons.org.uk/theicons/collection/the-v-sign/biography/v-for-get-stuffed) at a few hundred world-class thinkers.
 
-{% image page, "images/tabs.png", "Guitar tabs for a basic song, with lyrics 'We are designing the future/We have the power to change things...'", 800 %}
+<img src="images/tabs.png" alt="Guitar tabs for a basic song, with lyrics 'We are designing the future/We have the power to change things...'" width="800">
 
 The summary of the rant, from Conor \[1\]:
 

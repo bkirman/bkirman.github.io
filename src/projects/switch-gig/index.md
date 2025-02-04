@@ -7,23 +7,23 @@ coverImage: "cyclist.jpg"
 
 Switch-Gig is a collaboration with [Oliver Bates](https://www.lancaster.ac.uk/people-profiles/oliver-bates), [Carolynne Lord](http://www.research.lancs.ac.uk/portal/en/people/carolynne-lord(14720330-beea-4a7b-9729-02beb45ce345).html) and [Hayley Alter](https://www.lancaster.ac.uk/lica/about/people/hayley-alter2), along with partners at Co-operatives UK, Miralis Data and Future City Logistics, plus collaboration with local delivery couriers in Manchester and York. It was funded by the fantastic [Not-Equal NetworkPlus](https://not-equal.tech/), which is a network of research around digital economy and social justice.
 
-{% image page, "images/IMG_8565.JPG", "Switch-Gig Courier Workshop", 800 %}
+<img src="images/IMG_8565.jpg" alt="Switch-Gig Courier Workshop" width="800">
 
 At the centre of Switch-Gig is a desire to better understand the perspectives of the workers in digital "gig economy" platforms, such as Deliveroo, Uber Eats and Just Eat in the UK. Much is made of the disruptive economic opportunities made by these platforms, which is true, but they are reliant on thousands of couriers who do the actual work of moving food and goods from supplier to consumer. The platforms talk about the benefits of this kind of work, especially in terms of flexibility, but you rarely hear from the couriers themselves about their experiences.
 
-{% image page, "images/sg-leaflet.png", "Switch-Gig Example of Speculative work, invoice for restaurants to understand hidden costs", 800 %}
+<img src="images/sg-leaflet.png" alt="Switch-Gig Example of Speculative work, invoice for restaurants to understand hidden costs" width="800">
 
 We wanted to understand more about this experience, since workers are both the "users" of the technology and also collectively the people that actually make the platforms function at all. We ran a series of workshops where we engaged local couriers in a series of mapping and creative exercises, that aimed to understand how they engage with and around the technology currently, the frictions and values, from the ground up. We explicitly excluded platforms from this process, to keep focus on workers.
 
-{% image page, "images/statue.png", "Switch-Gig speculation of statue celebrating couriers", 800 %}
+<img src="images/statue.png" alt="Switch-Gig speculation of statue celebrating couriers" width="800">
 
 We collaborated on a series of design provocations, that are ideas that embody specific aspects of their work. They expose really interesting textural aspects of their work, their interaction with technology, customers, the city, the courier community and local infrastructure. These provocations have been shared with industry, unions, and other organisations to help give richer picture of aspects of courier experience. The project so far has been incredibly eye opening in understanding the hidden, personal issues, but also profound benefits, that are associated with platform work.
 
-{% image page, "images/baggoblin.png", "Bag Goblin", 800 %}
+<img src="images/baggoblin.png" alt="Bag Goblin" width="800">
 
 We compiled a collection of these design provocations, along with some commentary, into a booklet that we shared with stakeholders, councils and the public.
 
-{% image page, "images/booklet_mockups_sm.png", "Outside the Bag - a collection of design provocations in a free booklet.", 800 %}
+<img src="images/booklet_mockups_sm.png" alt="Outside the Bag - a collection of design provocations in a free booklet." width="800">
 
 The booklet, ["Outside the Bag"](/papers/switch_gig_booklet_oct21.pdf), contains more insight and reflection. A limited number of printed copies are available if you get in touch, but also the booklet has an open licence if you want to print your own. Also see the papers related to this project below.
 

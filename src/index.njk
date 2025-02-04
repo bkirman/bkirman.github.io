@@ -1,15 +1,16 @@
 ---
-layout: base
+layout: base.njk
 ---
 
 <div id="projects">
-{% for project in collections.projects.reverse() %}
+
+{% for project in collections.projects | reverse %}
     <div class="project-box">
         <a href="{{ project.url }}" title="{{project.data.subtitle}}">
     <div class="project-title">
         {{project.data.title}} ({{project.date.getFullYear()}}{{project.data.until}})
     </div>
-    {% image project, "images/"+project.data.coverImage, "", 300  %}
+    <img src="{{project.url}}images/{{project.data.coverImage}}", width="300" alt="{{project.data.title}}">
     </a>
     </div>
 {% endfor %}

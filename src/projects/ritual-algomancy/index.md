@@ -14,21 +14,21 @@ Anyway, I present the output for that, which is a narrative following a series o
 `Automated, learning, and intelligent systems are the esoteric core of Amazon. The arcane nature of these ‘sufficiently advanced technologies’ means our experience with them is mystical, as we witness the conjuration of objects and data without understanding how these tricks are performed. This relationship of faith is one Amazon use to their advantage, and in the collection of patents we see humans reduced to inconvenient “agents” to be instrumented, controlled, predicted and exploited in service to the system. This document describes three inventions that use magick to exploit the mysticism of Amazon, radically reframing and subverting existing patents to instead define mechanisms where the human has the power to detect, contain and control the system and its learning autonomous agents: FIG 1 illustrates a divining rod for detection and identification of learning agents. Here the human is able to detect the domineering intentions of an artificial agent disguised by a whimsical interface.`
 
 <figure>
-{% image page, "/images/dowsing-e1606431064638.png", "Patent diagram showing a person holding a rod facing a screen showing the words please please please. The scene is surrounded by magical symbols replacing the labels", 800 %}
+<img src="images/dowsing-e1606431064638.png" alt="Patent diagram showing a person holding a rod facing a screen showing the words please please please. The scene is surrounded by magical symbols replacing the labels" width="800">
 <figcaption>FIGURE 1</figcaption>
 </figure>
 
 `FIG 2 illustrates a seal of protection invoked around a doorway by the human that prevents entry of an autonomous agent into a private space.`
 
 <figure>
-{% image page, "/images/protection-e1606431129181.png", "Patent diagram showing a person waving their arm at a door. The scene is overlaid with concentric circles and magickal sigils", 800 %}
+<img src="images/protection-e1606431129181.png" alt="Patent diagram showing a person waving their arm at a door. The scene is overlaid with concentric circles and magickal sigils" width="800">
 <figcaption>FIGURE 2</figcaption>
 </figure>
 
 `FIG 3 shows a pentacle of containment for attracting and containing autonomous learning agents within a clearly defined space created and monitored by the human.`
 
 <figure>
-{% image page, "/images/landing-e1606431194466.png", "Patent diagram showing a person eating an apple while a drone lands on a pentagram with QR code in the centre. The sence is surrounded by magickal sigils", 800 %}
+<img src="images/landing-e1606431194466.png" alt="Patent diagram showing a person eating an apple while a drone lands on a pentagram with QR code in the centre. The sence is surrounded by magickal sigils" width="800">
 <figcaption>FIGURE 3</figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ coverImage: "meal-deal-logo.png"
 
 > What does it look and feel like to be in the saddle, with a bag full of hot food on your back, as your traverse city high-rises looking for the address of customer? What is the financial impact of waiting around all day for work that never comes? Is it worth pushing your luck and taking a risk if it makes the difference in wages?
 
-{% image page, "images/box and cards.jpg", "Meal Deal components laid out on a table", 800 %}
+<img src="images/box and cards.jpg" alt="Meal Deal components laid out on a table" width="800">
 
 > The lived experiences of cycle couriers are often invisible to consumers. Their needs can sidelined by app developers who focus on the customer experience rather than that of the worker.
 
@@ -15,10 +15,10 @@ Meal Deal is a game that puts players in the saddles of cycle couriers working i
 
 This is a part of Oliver and my collection of creative critical projects that have come from our work into social justice in the Gig economy. The artefacts are collected together as ["Crank & File"](https://crankandfile.co.uk). It has been fantastic to make things that explore the insights from research in different ways, rather than just reports and white papers. For the gig-economy in particular, games are a great way to explore the nature of the work and the challenges and joys riders experience. It is very much an example of a "system", dictated by algorithms and apps that create emergent issues around this kind of work, and this can be represented quite well in terms of a game loop. Players are forced into making the same kinds of decisions that couriers need to make in their work. For example - cutting down a one way street might be risky if you are stopped, but can also save enough time to bring your wage above poverty levels. This can give insight and a different perspective on a job that most of us only encounter as customers.
 
-{% image page, "images/cardexample6.jpg", "Meal Deal card example - a job that costs 3 energy to earn £6", 200 %} 
-{% image page, "images/cardexample3.jpg", "Meal Deal card example - a ride card that earns the player £2 tip", 200 %}
-{% image page, "images/cardexample5.jpg", "Meal Deal card example - an energy card worth 2 energy, showing a cyclist riding with fire from the wheel", 200 %}
-{% image page, "images/cardexample4.jpg", "Meal Deal card example - chastised by police, the player must discard a card.", 200 %}
+<!--img src="images/cardexample6.jpg" alt="Meal Deal card example - a job that costs 3 energy to earn £6" width="200"> 
+<img src="images/cardexample3.jpg" alt="Meal Deal card example - a ride card that earns the player £2 tip" width="200">
+<img src="images/cardexample5.jpg" alt="Meal Deal card example - an energy card worth 2 energy, showing a cyclist riding with fire from the wheel" width="200">
+<img src="images/cardexample4.jpg" alt="Meal Deal card example - chastised by police, the player must discard a card." width="200"-->
 
 You can read more about the game and download the cards and rules from [the official website](https://crankandfile.co.uk/meal-deal). There are a limited number of physical copies available.
 

@@ -15,19 +15,19 @@ We wondered about this gap - between what the product tells the pet owner, and w
 
 **CAT-A-LOG** is a wire that you can bury around the edge of your property that is able to read the microchips implanted in domestic cats and track movement. The companion app allows you to track the movement of any cat around your property by triangulating the cat's position in your property.
 
-{% image page, "images/catalog-e1606428913351.jpg", "Photograph of Meeple the cat in a garden, overlaid with graphics showing radio signals coming from her neck", 800 %}
+<img src="images/catalog-e1606428913351.jpg" alt="Photograph of Meeple the cat in a garden, overlaid with graphics showing radio signals coming from her neck" width="800">
 
-{% image page, "images/catalogdiagram.png", "Diagram showing catalog, a wire around the perimiter of a garden that is able to detect chips implanted in cats", 800 %}
+<img src="images/catalogdiagram.png" alt="Diagram showing catalog, a wire around the perimiter of a garden that is able to detect chips implanted in cats" width="800">
 
 **LITTERBUG** is a device you attach to a cat litter tray. The device contains sensitive chemical receptors that are able to analyse the odours emanating from your cat's waste. These are analysed for key chemicals that are indicative of both health issues, and also hunting behaviour (based an analysing the cat's diet).
 
-{% image page, "images/cat_looking.jpg", "Photograph of Thulhu the cat, sniffing the Litterbug device in a litter tray", 800 %}
+<img src="images/cat_looking.jpg" alt="Photograph of Thulhu the cat, sniffing the Litterbug device in a litter tray" width="800">
 
 The final prototype is **EMOTIDOG**, an augmented dog collar that is fitted with several sets of sensors that monitor the psychophysiology of the host animal. Based on a range of factors, a clever AI algorithm is able to determine your dog's emotional state, which is shown using an emoticon on the small screen affixed to the collar. This allows you to get an idea of your dog's mental state.
 
-{% image page, "images/prototype.png", "Photograph of a collar with electronic components labelled - Psychosocial sensor arrays, Micro OLED Display, USB Connector. Text says NOTE: Technical Prototype only, does NOT represent final product", 800 %}
+<img src="images/prototype.png" alt="Photograph of a collar with electronic components labelled - Psychosocial sensor arrays, Micro OLED Display, USB Connector. Text says NOTE: Technical Prototype only, does NOT represent final product" width="800">
 
-{% image page, "images/quantidog-e1606428811838.jpg", "Dog wearing a digital collar", 800 %}
+<img src="images/quantidog-e1606428811838.jpg" alt="Dog wearing a digital collar" width="800">
 
 These prototypes all exist, however are _speculative designs_. They function as tangible visions of future pet technology, based on current trends. The appearance and branding is based on current start-up aesthetics. For example, look at real products like [Whistle](http://www.whistle.com/) and [FitBark](http://www.fitbark.com/).
 

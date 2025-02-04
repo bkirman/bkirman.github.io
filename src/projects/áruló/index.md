@@ -4,7 +4,8 @@ date: "2022-10-15"
 coverImage: "traitor_flyer_web-1-2048x1148.jpg"
 subtitle: "Gameful app-driven interactive theatre"
 ---
-{% image page, "images/traitor_flyer_web-1-2048x1148.jpg", "Áruló flier, featuring a pizza box with a receipt showing show credits", 800 %}
+
+<img src="images/traitor_flyer_web-1-2048x1148.jpg" alt="Áruló flier, featuring a pizza box with a receipt showing show credits" width="800">
 
 _Áruló_ is a collaboration with Kolibri Színház (Budapest, Hungary) and director Vidovszky György as part of the EU funded [PlayOn! project](/projects/play-on). It is an adaptation of _Traitor_ by Esther Richardson and Cecilie Lundsholt.
 
@@ -12,7 +13,7 @@ _Áruló_ is a collaboration with Kolibri Színház (Budapest, Hungary) and dire
 
 In _Áruló_, the audience follows the story of a pizza delivery rider, who accidentally finds himself the centre of a conflict between a shadowy corporation and a group of rebels. This is a production aimed at young adults, and centres the mobile phone as a tool of potential oppression and freedom. As part of the show, all audience members are provided with a mobile phone that is used extensively through the performance.
 
-{% image page, "images/Arulo_proba-25-of-84_kicsi.jpg", "An actor running into a scene holding a mobile phone", 800 %}
+<img src="images/Arulo_proba-25-of-84_kicsi.jpg" alt= "An actor running into a scene holding a mobile phone" width="800">
 
 Audience members collectively decide the name and costume of the main character, and help make decisions throughout the show. They help them choose who to trust and when to lie, help search for clues and also control CCTV and traffic lights to help the courier get through the story. Much of the action in the show features phones in some respect, as a communication tool through voice and text chats, but also as a device for work/control and independence.
 
@@ -22,5 +23,5 @@ _Áruló_ is part of the repetoire of Kolibri, and is shown regularly to audienc
 
 [Full credits and more information on the show at Kolibri's website](https://kolibriszinhaz.hu/eloadas/arulo/).
 
-{% image page, "images/EUfundingLogo-320x50.png", "Co-funded by the Creative Europe Programme of the European Union",320 %}
+<img src="images/EUfundingLogo-320x50.png" alt= "Co-funded by the Creative Europe Programme of the European Union" width="320">
 

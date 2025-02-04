@@ -1,0 +1,14 @@
+---
+
+layout: base.njk
+
+---
+<article id="single-project">
+    <header>
+    <h1>{{title}}</h1>
+    <p id="subtitle">{{subtitle}} ({{date | getYear}})</p>
+    </header>
+    <section id="content">
+    {{ content | safe }}
+    </section>
+</article> 

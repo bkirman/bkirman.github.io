@@ -15,7 +15,7 @@ In 2015, Joe Lindley and Paul Coulton escalated this significantly, with the pub
 
 Given the trajectory that research fiction was taking, from fictional abstracts, through fictional papers, it was obvious what was next: a fictional conference full of totally fictional research. I got together with Joe Lindley, and recruited a supergroup of people using research fiction and design fiction to act as the [organising committee](http://www.fictionalconference.com/organisers/) of the [International Fictional Conference on Design Fiction's Futures (FCDFF)](http://www.fictionalconference.com)*.
 
-{% image page, "/images/ficconf.png", "Illustration of a generic skyline with text 'International fictional conference on design fiction's futures'", 800 %}
+<img src="images/ficconf.png" alt="Illustration of a generic skyline with text 'International fictional conference on design fiction's futures'" width="800">
 
 We then went through all the motions as you would for a real conference - we found a (fictional) venue, shared a (real) Call for Papers on all major mailing lists, had a (fictional) review process and built a (real) website* and [programme](http://www.fictionalconference.com/programme/). Including (fictional) coffee breaks. We even [negotiated with a fictional character](https://twitter.com/_chinosaur) to get them to pretend to do a fictional keynote.
 

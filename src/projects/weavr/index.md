@@ -8,7 +8,7 @@ until: "+"
 
 [Weavr](https://weavr.tv) is a major collaborative project funded by the UK Industrial Strategy Challenge Fund, Audience of the Future programme (£4m). It is led by industry partners [ESL](https://www.eslgaming.com/), and is looking at immersive technology for spectators of large sporting events. The consortium includes us at [York](https://www.digitalcreativity.ac.uk), and amazing industry partners [dock10](https://www.dock10.co.uk/), [Cybula](https://www.cybula.com/), [Focal Point VR](https://focalpointvr.com/), [REWIND](https://rewind.co/) and [Future Visual](https://www.futurevisual.com/).
 
-{% image page, "/images/_DSC7246.jpg", "WEAVR at ESL One Birmingham 2019", 800 %}
+<img src="images/_DSC7246.jpg" alt="WEAVR at ESL One Birmingham 2019" width="800">
 
 The focus of Weavr is on esports, and in particular Dota 2. Esports are particularly interesting as a fast-moving domain, where audiences engage in different ways (streaming, live at events, mobile, etc etc), and as they are digital, there are also a ton of ways to integrate directly with what is happening during the match by accessing rich live data.
 
@@ -18,7 +18,7 @@ There is a lot going on in this project, from virtual studio tech to 360 live vi
 
 It is such an exciting project because of this diversity, and although the focus is currently on esports, it is extremely clear how findings can apply to a much wider variety of sports events. We're really only scratching the surface in this project but it has been incredible to see how much interesting work has been possible in such a short time through the project.
 
-{% image page, "/images/header-iphone.png", "WEAVR app screenshots showing stats from Dota 2 match", 800 %}
+<img src="images/header-iphone.png" alt="WEAVR app screenshots showing stats from Dota 2 match" width="800">
 
 My role has been in working with researchers in study design and analysis, working on understanding user experience and qualitative studies of esports audiences. It has really been particularly fascinating to visit various esports events and speak to audiences, broadcasters/streamers, teams, and really get to grips with what esports mean to so many people.
 

@@ -5,15 +5,15 @@ coverImage: "familiars1.jpg"
 subtitle: "Social game about creatures who travel the world meeting new people"
 ---
 
-{% image page, "images/familiars1.jpg", "The familiars logo, showing a black cat above a dotted red line on a map illustration", 800 %}
+<img src="images/familiars1.jpg" alt="The familiars logo, showing a black cat above a dotted red line on a map illustration" width="800">
 
 Familiars are virtual creatures that inhabit the real world. They can be though of as a virtual companion (like a witch’s cat), pet, or dæmon. A familiar has a life independent of its owner and are free to travel around the world, collecting photos and information that they document in their blog. When registering, a player gets to adopt and customise their own familiar. They then manually define a task for the familiar to complete and release it in a location of their choice. Once released, other players can interact with familiars and contribute items to their blog, by using the web or mobile client.
 
-{% image page, "images/Picture-11.png", "Screenshot of familiars game showing a character moving around a map of the world with pictures of sausages", 800 %}
+<img src="images/Picture-11.png" alt="Screenshot of familiars game showing a character moving around a map of the world with pictures of sausages" width="800">
 
 As the player and their familiar explore the world meeting others, a social network is built to show who they have met and interacted with in the game. Players can compare their network with other people and see how they rank in the social high scores. Depending on the shape and size of each player’s local social network, they are assigned a score. In order to rise in the rankings players must learn how to create tasks for their familiar that are attractive to other players, and maintain existing relationships through continued interaction. The scores are weighted so that players with medium sized social networks with relationships that are well maintained will score higher than players with large networks of remote friends with whom they rarely interact.
 
-{% image page, "images/Picture-17-e1606407025689.png", "Screenshot of Familiars showing familiars' locations as paw marks on a map of Europe", 800 %}
+<img src="images/Picture-17-e1606407025689.png" alt="Screenshot of Familiars showing familiars' locations as paw marks on a map of Europe" width="800">
 
 ## Publications
 

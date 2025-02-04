@@ -4,19 +4,19 @@ date: "2010-12-26"
 coverImage: "playtter.jpg"
 subtitle: "Using social networks for estimating nutritional value of home cooking"
 ---
-{% image page, "images/Screen-shot-2010-12-12-at-15.03.45-e1606423838956.png", "Playtter prototype website, showing a horrible looking pizza being ranked as high in fat and carbs", 800 %}
+<img src="images/Screen-shot-2010-12-12-at-15.03.45-e1606423838956.png" alt="Playtter prototype website, showing a horrible looking pizza being ranked as high in fat and carbs" width="800">
 
 Playtter is a social nutrition application that allows users to upload pictures of food using their mobile phone camera, and then visit the website to get feedback on the quality of their nutritional intake. Web users are free to access Playtter and “tag” random meals with nutritional information, following the UK “Eatwell” healthy diet guidelines. The "Eatwell plate" was a visualisation of a plate as a pie chart with appropriate portions of protein, veg, starch, etc. Although extremely shady and political, this visualisation worked well as a bit of visual design.
 
 Playtter is the result of a hack event, which is our excuse for the pure ugliness of the images, but as a proof of concept was interesting. (p.s. Play + Platter + Plating if you were scratching your head.)
 
-{% image page, "images/5253945709_4406ebaea0.jpg", "Photograph of mobile phone with Playtter interface, allowing upload of food pictures", 800 %}
+<img src="images/5253945709_4406ebaea0.jpg" alt="Photograph of mobile phone with Playtter interface, allowing upload of food pictures" width="800">
 
 Nutrition data for meals is generated based on aggregation of social opinion, and Playtter can then build up a profile of a user’s typical diet over the course of their usage. Using this longer term data, it is able to provide personalised recommendations to users based on their actual diet, as a social activity with other users.
 
 It also demystifies diet in a couple of ways - first this is not an evasive magical AI promise, but a social activity, and also it works by consensus rather than appeal to a higher power (or lobby) on nutrition.
 
-{% image page, "images/playtter.jpg", "A photo of some extremely greasy looking fried meat items and fried rice", 800 %}
+<img src="images/playtter.jpg" alt="A photo of some extremely greasy looking fried meat items and fried rice" width="800">
 
 More information about the Playtter project is available on [the RewiredState projects pages](http://rewiredstate.org/projects/playtter).
 

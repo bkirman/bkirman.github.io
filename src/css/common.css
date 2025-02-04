@@ -1,0 +1,37 @@
+@import 'variables.scss';
+* {
+    box-sizing: border-box;
+  }
+
+  @font-face {
+    font-family: 'varelaregular';
+    src: url('/assets/fonts/varela-regular-webfont.woff2') format('woff2'),
+         url('/assets/fonts/varela-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+  font-family: 'gruppo';
+  src: url('/assets/fonts/gruppo-regular-webfont.woff2') format('woff2'),
+       url('/assets/fonts/gruppo-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+  body {
+    background-color: silver;
+    background-image: url("/assets/images/bg-texture.gif");
+    background-repeat: repeat;
+    margin-top: 0px;
+  }
+
+  
+code {
+  background-color: rgb(240, 240, 240);
+  display: block;
+  padding:0.5em;
+  margin-left:1em;
+  margin-right: 1em;
+}

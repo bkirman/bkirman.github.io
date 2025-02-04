@@ -5,7 +5,7 @@ coverImage: "tagpuss.png"
 subtitle: "Understanding anthropomorphism of cats on the internet"
 ---
 
-{% image page, "images/tagpuss.png", "Tagpuss logo, showing a silhouette of a cat with a tag on its tail, and a photo of a grey cat eating a lawn", 800 %}
+<img src="images/tagpuss.png" alt="Tagpuss logo, showing a silhouette of a cat with a tag on its tail, and a photo of a grey cat eating a lawn" width="800">
 
 In collaboration with the University of Lincoln Animal Behaviour, Cognition and Welfare Research Centre, we created Tagpuss, a web project that aims to investigate how people interpret the emotions of cats. Users are invited to contribute by tagging cat photographs. Each picture tagged supports the research into anthropomorphism and anyone can help as there is no need for any special skills. The website is free, easy to use, and is currently available to everyone.
 

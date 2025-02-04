@@ -19,17 +19,17 @@ As part of this we made a couple of prototypes, the DOG CAPTCHA, and the DOG RAD
 
 DOG CAPTCHA is as modified dog kennel that is used as an interface to the Dog Internet. Just as CAPTCHAs are used to determine if a user is a robot or a human, DOG CAPTCHA is used to determine if a user is a dog or a human by asking them to perform a test where a fine mist of anal secretions are sprayed from a synthetic anus.
 
-{% image page, "/images/DSC_0039-e1606430585187.jpg", "Photograph of modified dog kennel, with synthetic dog's arse visible", 800 %}
+<img src="images/DSC_0039-e1606430585187.jpg" alt="Photograph of modified dog kennel, with synthetic dog's arse visible" width="800">
 
-{% image page, "/images/DSC_0120-e1606430717964.jpg", "Photograph of back of modified dog kennel, showing test tubes full of synthetic anal secretions, and pipes leading into the kennel", 800 %}
+<img src="images/DSC_0120-e1606430717964.jpg" alt="Photograph of back of modified dog kennel, showing test tubes full of synthetic anal secretions, and pipes leading into the kennel" width="800">
 
-{% image page, "/images/DSC_0156-e1606430780987.jpg", "Photograph of modified dog kennel in use, a real dog sniffs the synthetic anus", 800 %}
+<img src="images/DSC_0156-e1606430780987.jpg" alt="Photograph of modified dog kennel in use, a real dog sniffs the synthetic anus" width="800">
 
 DOG RADAR is a dog toy enabled with Bluetooth sensors that is able to detect the proximity of humans and give dogs warnings so they can tidy up their [dog beer bottles](http://snuffle-dogbeer.com/) and clear their Dog Internet browser history.
 
-{% image page, "/images/DSC_1017-e1606430852801.jpg", "Photograph of a dog, considering a small stuffed animal with an aerial.", 800 %}
+<img src="images/DSC_1017-e1606430852801.jpg" alt="Photograph of a dog, considering a small stuffed animal with an aerial." width="800">
 
-{% image page, "/images/DSC_0172-e1606430928147.jpg", "Photograph of a dog bed, with dog toys and the DOG RADAR stuffed animal", 800 %}
+<img src="images/DSC_0172-e1606430928147.jpg" alt="Photograph of a dog bed, with dog toys and the DOG RADAR stuffed animal" width="800">
 
 You can read more about the project in our Interactions article:
 

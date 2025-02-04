@@ -5,7 +5,7 @@ coverImage: "aum_logo.png"
 subtitle: "Interactive non-linear storytelling with Pilot Theatre"
 ---
 
-{% image page, "images/waitingroom.jpeg", "A game screen showing a surreal waiting room, with strange windows and scattered with unusual objects. Silhouettes of figures are shown sitting at red plastic seats", 800 %}
+<img src="images/waitingroom.jpeg" alt="A game screen showing a surreal waiting room, with strange windows and scattered with unusual objects. Silhouettes of figures are shown sitting at red plastic seats" width="800">
 
 
 This was a collaboration with York-based theatre company [Pilot Theatre](https://pilot-theatre.com). Pilot are a fantastic group and have [amazing experience in immersive and experimental storytelling](https://pilot-theatre.com/immersive-productions/).
@@ -18,7 +18,7 @@ The core concept was to build an interactive and non-linear experience around th
 
 For me it was really interesting to work together in workshops with theatre-makers, writers, and game developers and understand how to translate powerful linear stories into more fragmented experiences. How do we ensure that players "get" the story if they don't collect all the pieces? This design goal differs from other non-linear story-games like [Her Story](http://www.herstorygame.com/) because there is no "twist" to the narratives, the experience isn't about the non-linearity, but rather uses the non-linearity as a way to immerse youth audiences in storyworlds. It also creates opportunities for reflection in the audience, as stories have strong themes of the challenges and pains of growing up.
 
-{% image page, "images/desktop.jpeg", "A game screen showing a computer desktop, in very 90's style, showing large icons and a mouse cursor", 800 %}
+<img src="images/desktop.jpeg" alt="A game screen showing a computer desktop, in very 90's style, showing large icons and a mouse cursor" width="800">
 
 The core of the story is that audience members work for the "Archive of Unsent Messages" that is finally being forced to digitise a collection of  trinkets, ticket stubs, napkins and photographs that have meant something to somebody. As players encounter objects they uncover a little more of the stories around the objects, and eventually an "unsent message" that one of the characters did not send. Audiences are asked to consider the impact of this decision on the story, and reflect on their own experiences too.
 
@@ -26,6 +26,6 @@ The game has an amazing 90's visual style to it - the developers (Johannes May a
 
 [Full credits and more information on the show at Pilot's website](https://pilot-theatre.com/immersive/the-archive/).
 
-{% image page, "images/EUfundingLogo-320x50.png", "Co-funded by the Creative Europe Programme of the European Union",250 %}
-{% image page, "images/XR_Stories_Logo.jpg", "Co-funded by XR Stories",250 %}
-{% image page, "images/play_on.jpg", "Part of the PlayOn! Project",250 %}
+<img src="images/EUfundingLogo-320x50.png" alt="Co-funded by the Creative Europe Programme of the European Union" width="250">
+<img src="images/XR_Stories_Logo.jpg" alt="Co-funded by XR Stories" width="250">
+<img src="images/play_on.jpg" alt="Part of the PlayOn! Project" width="250">
