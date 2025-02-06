@@ -4,10 +4,10 @@ subtitle: "A Night of Daydreams"
 date: "2024-10-10"
 coverImage: "utopia_raul.jpg"
 ---
-
+<img src="images/utopia_raul.jpg" alt="Photograph of an actor wearing a tan suit and hat, reflected at different angles through a squared mirror frame in a rural setting." width="800">
 The final show I worked on as part of [PlayOn](/projects/play-on/) is appropriately the most ambitious and technically complex, also performed in the most challenging environment. It is therefore, also extremely exciting.
 
-<img src="images/mirrorpath.jpg" alt="Photograph of an audience member lit by a giant mirrored display, the lit path in the foreground and valley at dusk at the rear." width="800">
+<img src="images/mirrorpathmarius.jpg" alt="Photograph of an audience member lit by a giant mirrored display, the lit path in the foreground and valley at dusk at the rear." width="800">
 
 *Utopia Concreta: A Night of Daydreams* was written and directed by [Dirk Neldner](https://de.wikipedia.org/wiki/Dirk_Neldner), featuring Raul Atalaia, Marta Barahona, Nicolas Brites and Sara Belo. The technical directors were me, [Julian Jungel](https://julianjungel.de/) and [Nils Zweiling](https://zweiling.com/), audio was by Marius Zoschke and the show produced by Inês Gregório. The [full credits are on O Bando's website](http://www.obando.pt/pt/gca/index.php?id=261).
 It was shown at Teatro O Bando, in Palmela, Portugal, in October 2024.
