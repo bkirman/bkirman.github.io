@@ -5,12 +5,13 @@ date: "2024-10-10"
 coverImage: "utopia_raul.jpg"
 ---
 <img src="images/utopia_raul.jpg" alt="Photograph of an actor wearing a tan suit and hat, reflected at different angles through a squared mirror frame in a rural setting." width="800">
-The final show I worked on as part of [PlayOn](/projects/play-on/) is appropriately the most ambitious and technically complex, also performed in the most challenging environment. It is therefore, also extremely exciting.
 
-<img src="images/mirrorpathmarius.jpg" alt="Photograph of an audience member lit by a giant mirrored display, the lit path in the foreground and valley at dusk at the rear." width="800">
+The final show I worked on as part of [PlayOn!](/projects/play-on/) is appropriately the most ambitious and technically complex, also performed in the most challenging environment. It is therefore, also extremely exciting.
 
 *Utopia Concreta: A Night of Daydreams* was written and directed by [Dirk Neldner](https://de.wikipedia.org/wiki/Dirk_Neldner), featuring Raul Atalaia, Marta Barahona, Nicolas Brites and Sara Belo. The technical directors were me, [Julian Jungel](https://julianjungel.de/) and [Nils Zweiling](https://zweiling.com/), audio was by Marius Zoschke and the show produced by Inês Gregório. The [full credits are on O Bando's website](http://www.obando.pt/pt/gca/index.php?id=261).
 It was shown at Teatro O Bando, in Palmela, Portugal, in October 2024.
+
+<img src="images/mirrorpathmarius.jpg" alt="Photograph of an audience member lit by a giant mirrored display, the lit path in the foreground and valley at dusk at the rear." width="800">
 
 The show is an exploration of the philosophy of [Ernst Bloch](https://en.wikipedia.org/wiki/Ernst_Bloch), through a reflection and celebration of [50 years of theatre at O Bando](http://www.obando.pt/pt/english-version/o-bando/).
 
@@ -18,15 +19,34 @@ This exploration takes the form of a personal immersive audio walk at twilight, 
 
 The show is really meaningful and medititative, spectacular in its setting, and really unique in the ambition and scale of the production. You can read more about the show at [O Bando's website](http://www.obando.pt/pt/espectaculos/2018-2024/utopia-concreta-2024/) but here I'll talk mostly about the technical aspects where I worked closely with [Julian Jungel](https://julianjungel.de/) and [Nils Zweiling](https://zweiling.com/) to bring the show to life.
 
-<img src="images/truss.jpg" alt="Photograph of a theatre technician hanging upside down from a giant truss and fixing a projection screen." width="500">
+<figure>
+<img src="images/hq.jpg" alt="Photograph of Julian Jungel working coding, on a table surrounded by technology of different shapes and sizes." width="800">
+<figcaption>An ambitious collection of technologies to get working in an unusual environment.</figcaption>
+</figure>
 
-The technology included lots of moving parts that I could and would spend hours talking about, but some key aspects that were really fascinating: 
+The technology included lots of moving parts, from large and micro-scale projection, mobile phones, mesh networking, puppetry and audio, that would take a long time to explain in detail, but a few key interesting parts are detailed below.
+<figure>
+<img src="images/truss.jpg" alt="Photograph of a theatre technician hanging upside down from a giant truss and fixing a projection screen." width="500">
+<figcaption>Rigging one of the several projection screens</figcaption>
+</figure>
 
 The audio walk was delivered by mobile app on phones provided by the theare, built using [OnScene](/projects/onscene). The show was in two languages (Portuguese and English) delivered simultaneously and independently to up to 20 audience members. The audio was recorded using binaural technologies by Marius Zoschke and the performers, and delivered to the audience binaurally through bone conducting wireless headphones. This was a specific choice to help you hear both the dialogue but also the ambient sounds of the environment, and it worked really well as an audio-augmented reality. It was hard to discern what is in the audio and what is in the real world, so there was a lot of interesting creative possibilities in merging the two.
 
+<figure>
+<img src="images/phone_testing.jpg" alt="Photograph of dozens of phones laid out on a table for testing" width="500">
+<figcaption>Testing mobile phones using OnScene</figcaption>
+</figure>
+
 The app runs itself with no interaction required, but audience members could press a button if they needed assistance. Because the show takes place at twilight on a rough path on a hillside, we had to provide lighting. To achieve this we wired up around 90 smart bulbs to an ad hoc [Zigbee](https://en.wikipedia.org/wiki/Zigbee) mesh network along the path (in waterproof enclosures) and Nils implemented an [MQTT](https://en.wikipedia.org/wiki/MQTT)-based protocol for animating the lights dynamically. In this way, the system knows where each audience member is, via the app, and can light up sections of the path (or change colour) based on what is happening during the audio, and in response to other things happening in the physical environment. This is extremely cool and very much like having a giant scale LED strip made of light bulbs that can be individually addressed and controlled.
 
+<figure>
 <img src="images/path.jpg" alt="Photograph of the custom interactive path lights, stretching into a wooded area on the hillside at night" width="800">
+
+<video width="600" controls>
+  <source src="images/light_demo.mp4" type="video/mp4">
+</video>
+<figcaption>Example animation of the interactive path lighting system</figcaption>
+</figure>
 
 Through the show we had several "stations" where events would occur in the story. For example, we hid projectors in the trees and projected interviews onto unexpected surfaces both small and huge. 
 
@@ -40,9 +60,12 @@ Julian used his electronics skills to enhance bench cushions using pressure sens
 
 At various tricky points on the path, custom made [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)-powered MQTT-connected LED lights could direct the audience through difficult junctions and indicate the safe route. All the audience members could be observed, and be supported, by technicians through GPS tracking to an [OnScene](/projects/onscene) powered control panel on an iPad in the main theatre building.
 
+<figure>
 <img src="images/laptop.jpeg" alt="Photograph of a laptop on a bench near the top of the hill, overlooking the green valley below" width="800">
+<figcaption>A beautiful if challenging environment for coding</figcaption>
+</figure>
 
-As you can see, the technical complexity was huge, and this was also made more difficult by the show being outside, at dusk, in the middle of the countryside. Although there were rough edges here and there, and unpredictable valley weather, and burst pipes, to contend with, it was fantastic to be able to get such an ambitious show to be enjoyed by audiences at O Bando. The combination of story, philosophy, hidden and visual technology together in such a rich environment really creates a magical experience.
+As you can see, the technical complexity was huge, and this was also made more difficult by the show being outside, at dusk, in the middle of the countryside. Although there were rough edges here and there, sudden rainstorms, destructive winds, and burst pipes, to contend with, it was fantastic to be able to get such an ambitious show to be enjoyed by audiences at O Bando. The combination of story, philosophy, hidden and visual technology together in such a rich environment really creates a magical experience.
 
 <img src="images/finale.png" alt="Photograph of a door to the finale of the show, at twilight, an inviting glow coming from within." width="800">
 
