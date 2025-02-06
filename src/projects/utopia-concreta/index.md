@@ -52,4 +52,4 @@ Overall *Utopia Concreta* is a fantastic way to finish PlayOn! and really demons
 
 <img src="images/EUfundingLogo-320x50.png" alt="Co-funded by the Creative Europe Programme of the European Union" width="320">
 
-Thanks also to Julian for sharing the photographs.
+Thanks also to [Julian](https://julianjungel.de/)  for sharing the photographs.
