@@ -24,6 +24,8 @@ As part of telling this story, the audience begins in a shared classroom environ
 
 At this point the groups leave the theatre and follow an audio-guided route through the town, stopping at key locations to see how they look now, and also to learn about how life was in 1904. At some point later the alarms sound and the audience must escape, following guidance, and hearing through immersive audio the fire burning around them as they retreat. The climax of the show is returning as the theatre burns, and then dealing with the aftermath.
 
+<img src="images/usingphones.jpg" alt="Outdoors, a group of audience members answer some questions using the phones" width="800">
+
 During the show there is lots of interaction from the audience, as they make decisions about what the girls should do, that the actors respond to directly (should they ask for money to go to the dance?). Later, they must help the girls escape, and also deal with dilemmas as the city burns (should they unlock the prison gates?). This interaction is all through a custom mobile application I built using [OnScene](/projects/onscene) with the visual designs of set and costume designer [Anja Furthmann](https://www.operabase.com/anja-furthmann-a39555/en).
 
 <img src="images/dance.jpg" alt="Outdoors, a group of audience members dances along with one of the characters" width="800">
@@ -38,7 +40,7 @@ For me this was a fantastic experience, and a great example of the international
 
 Brannen serves as an excellent case study in the use of phones and game mechanics in outdoor theatre performances, that I am working on writing up.
 
-
+<img src="images/phones.jpg" alt="A table, completely covered with dozens of phones being set up for the show" width="800">
 
 <img src="images/EUfundingLogo-320x50.png" alt="Co-funded by the Creative Europe Programme of the European Union" width="320">
-Photographs &copy; Teatret Vårt.
+Photographs (except 2,5,9) &copy; Teatret Vårt.
