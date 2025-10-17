@@ -95,6 +95,9 @@ nav {
     .nav-item:nth-child(4){
         right:12em;
     }
+    .nav-item:nth-child(5){
+        right:16em;
+    }
     .selected a{
         color: greenyellow;
     }
@@ -319,5 +322,76 @@ nav {
             width:70%;
             left:-70px;
         }
+    }
+}
+
+#bits{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+}
+
+#single-bit {
+    img {display: inline;}
+}
+
+.bit-box {
+    cursor: pointer;
+    border: 2px dashed rgb(57, 59, 59);
+    background-color:  white;
+    height: 12.5rem;
+    width: 80%;
+    margin:0.7em;
+    padding:0.2em;
+    position:relative;
+    box-shadow: 0 0 1em rgba(0,0,0,0.2);
+
+    a {
+        display:block;
+        height:15rem;
+    }
+
+    img {
+        border: 2px solid  rgb(57, 59, 59);
+        width: 20rem;
+        object-fit: cover;
+        object-position: 25% 50%;
+        height: 12rem;
+    }
+    .bit-title {
+        position:absolute;
+        right:-0.5em;
+        top:0.8em;
+        padding:0.25em;
+        min-width: 50%;
+        font-family: sans-serif;
+        font-weight: normal;
+        text-transform: uppercase;
+        font-size: 1.1em;
+        color:whitesmoke;
+        background-color:  rgb(57, 59, 59);
+        box-shadow: 0em 0.2em 0.4em greenyellow;
+    }
+    .bit-title::before {
+        content:"";
+        position:absolute;
+        right:100%;
+        top:0;
+        width: 0;
+        border-left: 1rem solid transparent;
+        border-top: 2.1rem solid  rgb(57, 59, 59);
+    }
+    .bit-subtitle {
+        position:absolute;
+        left:20.0em;
+        top:2.8em;
+        padding:0.5em;
+        max-width: 50%;
+        
+        font-weight: normal;
+        font-size: 1.1em;
+        color:rgb(57, 59, 59);
     }
 }
