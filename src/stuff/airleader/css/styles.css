@@ -1,0 +1,232 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Font import */
+@font-face {
+    font-family: 'Orbitron-Regular';
+    src: url('../assets/Orbitron-Regular.woff2') format('woff2'),
+        url('../assets/Orbitron-Regular.ttf') format('truetype');
+}
+
+/* Base styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: #2a2d45;
+}
+
+/* Header styles */
+header {
+    padding: 2rem 0;
+    text-align: center;
+    background-color: #fff;
+    margin: 1rem 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    color: #2c3e50;
+    font-size: 2.5rem;
+    font-weight: 600;
+    font-family: 'Orbitron-Regular', sans-serif;
+}
+
+/* Main content styles */
+main {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    min-height: 60vh;
+
+    
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    
+    
+}
+
+#game {
+    display: block;
+}
+
+#expansions {
+    display: none;
+}
+
+#year {
+   display: none;
+}
+
+#length {
+    display: none;
+}
+
+#forces {
+   display: none;
+}
+#aircraft {
+    display: none;
+}
+#error {
+    display: none;
+}
+
+#results { 
+    display: none;
+    font-size:larger;
+}
+#pilot_sos {
+    font-weight: bold;
+    color: #2a2d45;
+}
+#rules_sos {
+    font-weight: bold;
+    color: #2a2d45;
+}
+#total_sos {
+    font-weight: bold;
+    font-size: x-large;
+    color: #2a2d45;
+}
+
+#results table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    margin:3em;
+}
+
+#results tr:nth-child(even) {
+    background-color: #f2f2f2;
+} 
+
+/* Table styles */
+
+th {
+    background-color: #2a2d45;
+    color: white;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+.pilot_name_cell {
+    font-weight: 600;
+    padding-left: 2em;
+    font-size: larger;
+}
+
+.aircraft_cell {
+    font-style: italic;
+}
+
+.force_cell {
+    font-size: smaller;
+    
+}
+
+.so_cell {
+    text-align: right;
+    padding-right: 1rem;
+}
+
+.action_cell {
+    text-align: center;
+}
+
+.newbie_cell {
+    font-size: small;
+    width: 4rem;
+    text-transform: uppercase;
+    background-color: #e8c6a3;
+}
+
+.green_cell {
+    font-size: small;
+    width: 4rem;
+    text-transform: uppercase;
+    background-color: #d4edda;
+}
+
+.average_cell {
+    font-size: small;
+    width: 4rem;
+    text-transform: uppercase;
+    background-color: #d4d5ed;
+}
+
+.skilled_cell {
+    font-size: small;
+    width: 4rem;
+    text-transform: uppercase;
+    background-color: #edcaca;
+}
+.veteran_cell {
+    font-size: small;
+    width: 4rem;
+    text-transform: uppercase;
+    background-color: #e5d4ed;
+}
+.legendary_cell {
+    font-size: small;
+    width: 4rem;
+    text-transform: uppercase;
+    background-color: #000000;
+}
+
+select {
+    font-size: large;
+    margin-top: 1em;
+    padding: 0.6em;
+    background-color: #dcdee7;
+    border: 1px solid #2a2d45;
+}
+
+select input {
+    font-size: large;
+    margin-top: 1em;
+    padding: 0.6em;
+    background-color: #dcdee7;
+}
+button {
+    font-size: large;
+    margin-top: 1em;
+    padding: 0.6em;
+    color: #f2f2f2;
+    background-color: #2a2d45;
+    border: 1px solid black;
+}
+
+input {
+    font-size: large;
+    margin-top: 1em;
+    padding: 0.6em;
+    background-color: #dcdee7;
+    border: 1px solid #2a2d45;
+}
+
+.reroll_button {
+    cursor:pointer;
+}
+
+
+/* Footer styles */
+footer {
+    margin-top: 2rem;
+    padding: 1rem 0;
+    text-align: center;
+    color: #666;
+}
