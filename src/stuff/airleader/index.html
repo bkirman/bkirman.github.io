@@ -22,6 +22,8 @@
             <select id="game_select" name="game_select">
                 <option value="eagle_leader">Eagle Leader</option>
                 <option value="fulcrum_leader">Fulcrum Leader</option>
+                <option value="hornet_leader">Hornet Leader: CAO</option>
+                <option value="phantom_leader">Phantom Leader Deluxe</option>
             </select>
             <button id="selected_game">Next</button>
         </div>
@@ -32,6 +34,7 @@
             
             <fieldset id="expansion_options">
             </fieldset>
+            <button id="toggle_select_expansions">Select All/None</button>
             <button id="selected_expansions">Next</button>
         </div>
         <div id="year">
@@ -39,6 +42,7 @@
             <h2>Which Year?</h2>
             
             <p>The year of the campaign limits aircraft availability.</p>
+            <p>Valid years: <span id="year_min"></span> to <span id="year_max"></span></p>
             <input type="number" id="year_input" name="year_input" min="1900" max="2100" step="1">
             <button id="selected_year">Next</button>
         </div>
@@ -63,6 +67,7 @@
             <p>Apply campaign restrictions or personal preferences.</p>
             <fieldset id="force_options">
             </fieldset>
+            <button id="toggle_select_forces">Select All/None</button>
             <button id="selected_forces">Next</button>
             
         </div>
@@ -73,6 +78,7 @@
             <p>Apply campaign restrictions or personal preferences.</p>
             <fieldset id="aircraft_options">
             </fieldset>
+            <button id="toggle_select_aircraft">Select All/None</button>
             <button id="selected_aircraft">Finish</button>
         </div>
         <div id="results">
