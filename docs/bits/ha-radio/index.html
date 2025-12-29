@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radio Explorer for Home Assistant | Ben Kirman</title>
+  <link rel="stylesheet" href="/bundle.css">
+</head>
+<body>
+  <div id="main-header">
+    <a href="/" id="root-link">Ben Kirman</a>
+    <nav>
+        <div class="nav-item "><a href="/now/">.plan</a></div>
+        <div class="nav-item "><a href="/about/">About</a></div>
+        <div class="nav-item selected"><a href="/bits/">Other Bits</a></div>
+        <div class="nav-item "><a href="/publications/">Publications</a></div>
+        <div class="nav-item "><a href="/">Projects</a></div>
+    </nav>
+</div>
+
+  <main>
+    <article id="single-project">
+    <header>
+    <h1>Radio Explorer for Home Assistant</h1>
+    <p id="subtitle">Automations to discover weird radio stations from around the world (2025)</p>
+    </header>
+    <section id="content">
+    <img src="/bits/ha-radio/h20rPYBUZw-800.jpeg" alt="A photograph of a pile of old radios" width="800" loading="lazy" decoding="async" height="511">
+<p>A WIP set of automations and commands for adding a bit of delight to radio functions in the open source <a href="https://www.home-assistant.io/">Home Assistant</a> smart home system.</p>
+<p>I like services such as <a href="https://radio.garden">radio.garden</a> that help explore the world and discover audio from around the globe. It is a fun way to listen to radio - choose a country or region, and discover what they are listening to. Never listen to the same radio station twice, find some truly awful talk radio, etc.</p>
+<p>Home Assistant has an integration for <a href="https://radio-browser.info">Radio Browser</a> that lets you tune into thousands of different radio stations, but it lacks that missing piece of randomness. I spent some time massaging the API and Home Assistant Voice triggers to give a few fun commands. This is a starting point but works well already:</p>
+<h1>Usage</h1>
+<p>In the default setup you can use the following voice commands:</p>
+<h2>&quot;Play random radio&quot;</h2>
+<p>Finds and plays a random radio station from anywhere in the world. This can be anything, and is always surprising. The only downside is that the API caches your request, so if you ask for this a second time, without waiting very long, it will return the same station.</p>
+<h2>&quot;Play music from [country]&quot;</h2>
+<p>As it sounds, but make sure to word the country like &quot;Italy&quot; and not &quot;Italian&quot;, because the API only knows plain country names. However, many stations use the adjective country name in tags, so it can get picked up by the next request:</p>
+<h2>&quot;Play [genre] music&quot;</h2>
+<p>Again as it sounds, but it searches partial tags, so you can say &quot;Play Psytrance Music&quot; for example. Because it uses tags you can be creative here, because tags in Radio Browser can be weird. For example there is a single tag &quot;gothy gloomy synthy dancey stuff&quot; (for which this search would match any part of the tag). See the <a href="https://de2.api.radio-browser.info/json/tags">huge list of tags</a>. As mentioned above, you can say &quot;Play Korean music&quot; to hear stations <a href="https://de2.api.radio-browser.info/json/stations/search?tag=korean&amp;hidebroken=true">tagged with &quot;korean&quot;</a>, which usually gives good results (but technically does not limit to, or include all, stations in Korea, just the stations using that tag).</p>
+<h2>&quot;Play [genre] music from [country]&quot;</h2>
+<p>This is a combination of both above. This is handy if you want to hear less generic pop music, by asking for &quot;Play traditional music from Colombia&quot;, or &quot;Play metal music from Finland&quot;.</p>
+<p><a href="https://github.com/bkirman/Home-Assistant-Radio-Explorer">The files, and installation instructions are on Github</a>.</p>
+<p>Photgraph by <a href="https://unsplash.com/photos/a-large-amount-of-old-radios-stacked-on-top-of-each-other-i2BcaGXomv0">Andrea De Santis</a>.</p>
+
+    </section>
+</article> 
+  </main>
+  <footer></footer>
+</body>
