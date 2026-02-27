@@ -38,11 +38,11 @@ I might (should probably) share what I learned, at some point (some pointers in 
 
 ## Further Reading
 - Rilla Khaled, Pippin Barr (2023) [Generative Logics and Conceptual Clicks: A Case Study of the Method for Design Materialization](https://doi.org/10.1162/desi_a_00706). Design Issues 39 (1): 55–69.
-- Pippin Barr (2023) [The Stuff Games Are Made Of](), MIT Press
+- Pippin Barr (2023) [The Stuff Games Are Made Of](https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/), MIT Press
 - Jay Dragon (2025) The Expressionist Games Manifesto, online: [https://possumcreek.medium.com/the-expressionist-games-manifesto-122d8afd1fe2](https://possumcreek.medium.com/the-expressionist-games-manifesto-122d8afd1fe2)
 - Amabel Holland (2025) [Cardboard Ghosts](https://www.taylorfrancis.com/books/mono/10.1201/9781003500834/cardboard-ghosts-amabel-holland), CRC Press
 - Super Eyepatch Wolf (2026) [The Bizarre World of Fake Videogames](https://hollow-press.net/products/the-bizarre-world-of-fake-video-games-by-super-eyepatch-wolf-u-d-w-f-g-essays-i), Hollow Press
 - [IAAIYAPABG on BoardGameGeek](https://boardgamegeek.com/boardgame/465753/its-almost-as-if-you-are-playing-a-board-game).
 - Oliver Bates and Ben Kirman (2025) [Making a Meal out of a Mountain](/papers/Bates2025MealMountain.pdf), Presented at British DiGRA 2025.
 - [Rules for Mornington Crescent (Simplified)](http://www.isihac.co.uk/games/gamesm.html#morningtoncrescent)
-- [It's as if you are organising an academic conference?](/projects/fictional-conference/)
+- [It is (almost) as if... you are organising an academic conference?](/projects/fictional-conference/)
