@@ -5,7 +5,7 @@ coverImage: "components.jpg"
 subtitle: "Rolling dice, flipping cards 'n tables, it's almost as if..."
 ---
 
-<img src="images/components.jpg" alt="" width="800">
+<img src="images/components.jpg" alt="A photograph of what appear to be game components laid out on a wooden table. There is a board, some cubes, some cards, a box and a rulebook." width="800">
 
 Your opponent frowns as you move the cube triumphantly across the board. Maybe the frown means something, maybe the cube or the board mean things too. It certainly looks like they do. [It's (almost) as if you are playing a board game](https://boardgamegeek.com/boardgame/465753/its-almost-as-if-you-are-playing-a-board-game).
 
@@ -15,18 +15,31 @@ IAAIYAPABG is an attempt to capture some of this dance, and give a moment to be 
 
 It's also quite daft, and that's ok too.
 
-<img src="images/map.jpg" alt="" width="800">
+<img src="images/map.jpg" alt="A close up photo of a game board, showing translucent plastic cubes and lozenges laid out on a map with lines and boxes visible. There are two dice visible, each dice has the same number on every side." width="800">
 
-In IAAIYAPABG the players sit around a table and use the material to perform playing a board game. The instruction booklet gives some idea of how to get going, and the cards share actions that can be performed, that affect the game state. The board and the pieces certainly are familiar, and between all this you can put on a convincing display. That masterplay of tactical genius, the celebrated victory and sour defeat are all easily within reach, and without the mental strain and complexity that is expected in other games.
+In IAAIYAPABG the players sit around a table and use the material to perform playing a board game. The instruction booklet gives a guide of how to get going, and the cards share actions that can be performed, that affect the game state. The board and the pieces certainly are familiar, and between all this you can put on a convincing display. That masterplay of tactical genius, the celebrated victory and sour defeat are all easily within reach, and without the mental strain and complexity that is expected in other games.
 
-You can make your own copy of IAAIYAPABG by following the instruction guidebook. Alternatively you can have a similar effect by swapping all the game rulebooks randomly around your collection.
+Why would you do this? Maybe you are tired. Maybe you wish you could play a complex euro-game but struggle to follow the arcane rule systems. Maybe you like the vibes. Maybe you like the clicky-clacky of cubes and dice. Maybe you want to be together with other people and share a moment.
 
-<img src="images/cards.jpg" alt="" width="800">
-<img src="images/figure_it_out.jpg" alt="" width="800">
+You can make your own copy of IAAIYAPABG by following [the instruction guidebook](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/blob/main/docs/how_to_make_IAAIYAPABG.pdf). Alternatively you can have a similar effect by swapping all the game rulebooks randomly around your collection.
+
+<img src="images/cards.jpg" alt="Some cards laid out on a table. The back of the cards has an ink stamp with a deer and a flower, the front of the cards feature stickers with odd instructions: Roll one dice and move some pieces, take a photograph of the game board, and so on" width="800">
+
+## FAQ
+
+- **Is this a game?** Yes.
+- **Is this an "Art Project&trade;" or a "comment" or "satire" on board games?** Not in that way, no.
+- **Is this a joke?** No, but that doesn't mean it can't be funny.
+- **Is this for sale?** <s>Yes, there are a limited number of handmade copies available.</s> Sorry, these are now out of stock. [You can make your own](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/blob/main/docs/how_to_make_IAAIYAPABG.pdf) for free.
+- **Is there a press kit?** No but there are [higher resolution versions of the images on this page](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/tree/main/images).
+
+It's just a very weird game, relax.
+
+<img src="images/figure_it_out.jpg" alt="A photograph of what appears to be a magazine page. On the page some stickers declare 'Star at this sentence for 5 seconds and say 'We'll figure it out as we go along''." width="800">
 
 ## Context
 
-The inspiration for this game comes from [Pippin Barr's "It is as if..." series of games](https://pippinbarr.com/ideas/it-is-as-if/). They are funny, fun and smart at once (games and person), which is an annoying combination and quite rude really. At A MAZE 2025, [Devolution hosted Pippin at an exhibition of these games](https://devolution.online/itisasifyouwere/), where you could play different intermediate versions of each. Pippin and [Csongor](http://www.csongorb.com/) also gamely participated in a spontaneous game of "It is as if you are at a book signing", around [these lovely printed booklets from the exhibition](https://github.com/csongorb/growingstuff/tree/main/booklets).
+The inspiration for this game comes from [Pippin Barr's "It is as if..." series of games](https://pippinbarr.com/ideas/it-is-as-if/). They are funny, fun and smart at once (games and person), which is an annoying combination and quite rude really. At [A MAZE Berlin 2025](https://2025.amaze-berlin.de/), [Devolution hosted Pippin at an exhibition of these games](https://devolution.online/itisasifyouwere/), where you could play different intermediate versions of each. Pippin and [Csongor](http://www.csongorb.com/) also kindly participated in a spontaneous game of "It is as if you are at a book signing", around [these lovely printed booklets from the exhibition](https://github.com/csongorb/growingstuff/tree/main/booklets).
 
 Anyway, not only are these games interesting themselves, but are case studies in an approach called "Method for Design Materialization" (MDM) from Rilla Khaled and Pippin. MDM is about using version control to capture insight within a design process, especially in making computer games. It is part of a growing collection of tools related to [Research through Design](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design), we might call "thinking by making". I've been working in and around this space for a while (making weird things because we learn stuff when we do) and it's a relief to see a growing acceptance of making as a way of contributing. Inspired also by Pippin's [excellent book](https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/), I wanted to give MDM "a go". So, since board games seemed <sup>AT THE TIME</sup> like an easy topic that Pippin hadn't done yet, I ripped-off/homaged/imitated the process to see if MDM works for me, and how I make things, and think about making.
 
@@ -35,6 +48,7 @@ It mostly did - but I struggled because a) Board games don't use source control 
 I might (should probably) share what I learned, at some point (some pointers in the readings), but for now enjoy the offal:
 - [The source repository for the game and documents.](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game)
 - [The unedited journal](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/blob/main/journal.md)
+- [The PDF guide on how to make the game, which includes much more detail on the contents](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/blob/main/docs/how_to_make_IAAIYAPABG.pdf)
 
 ## Further Reading
 - Rilla Khaled, Pippin Barr (2023) [Generative Logics and Conceptual Clicks: A Case Study of the Method for Design Materialization](https://doi.org/10.1162/desi_a_00706). Design Issues 39 (1): 55–69.
