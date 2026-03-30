@@ -33,8 +33,6 @@ You can make your own copy of IAAIYAPABG by following [the instruction guidebook
 - **Is this for sale?** <s>Yes, there are a limited number of handmade copies available.</s> Sorry, these are now out of stock. [You can make your own](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/blob/main/docs/how_to_make_IAAIYAPABG.pdf) for free.
 - **Is there a press kit?** No but there are [higher resolution versions of the images on this page](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/tree/main/images).
 
-It's just a very weird game, relax.
-
 <img src="images/figure_it_out.jpg" alt="A photograph of what appears to be a magazine page. On the page some stickers declare 'Star at this sentence for 5 seconds and say 'We'll figure it out as we go along''." width="800">
 
 ## Context

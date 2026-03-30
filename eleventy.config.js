@@ -1,4 +1,5 @@
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+//import Image from "@11ty/eleventy-img";
 
 export default async function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/assets");
@@ -11,11 +12,18 @@ export default async function(eleventyConfig) {
 
     //Image processing
     eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+        returntype: "html",
 		// output image formats
 		formats: ["jpeg"],
 
 		// output image widths
 		widths: ["auto"],
+        
+        // optional, apply additional sharp transformations to all images
+        transform: (sharp) => {
+            //console.log(sharp.options.width);
+            //sharp.greyscale(true);
+        },
 
 		// optional, attributes assigned on <img> nodes override these values
 		htmlOptions: {
@@ -26,7 +34,23 @@ export default async function(eleventyConfig) {
 			pictureAttributes: {}
 		},
 	});
-    
+ /*
+    eleventyConfig.addShortcode("image", async function (src, alt, widths = [300], sizes = "") {
+        console.log(src);
+		return Image(src, {
+			widths,
+			formats: ["jpeg"],
+			returnType: "html",    // new in v6.0
+			htmlOptions: {         // new in v6.0
+				imgAttributes: {
+					alt,               // required, though "" works fine
+					sizes,             // required with more than one width, optional if single width output
+					loading: "lazy",   // optional
+					decoding: "async", // optional
+				}
+			}
+		});
+	});*/
 
     
     //Filters
