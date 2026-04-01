@@ -41,12 +41,19 @@ The inspiration for this game comes from [Pippin Barr's "It is as if..." series 
 
 Anyway, not only are these games interesting themselves, but are case studies in an approach called "Method for Design Materialization" (MDM) from Rilla Khaled and Pippin. MDM is about using version control to capture insight within a design process, especially in making computer games. It is part of a growing collection of tools related to [Research through Design](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design), we might call "thinking by making". I've been working in and around this space for a while (making weird things because we learn stuff when we do) and it's a relief to see a growing acceptance of making as a way of contributing. Inspired also by Pippin's [excellent book](https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/), I wanted to give MDM "a go". So, since board games seemed <sup>AT THE TIME</sup> like an easy topic that Pippin hadn't done yet, I ripped-off/homaged/imitated the process to see if MDM works for me, and how I make things, and think about making.
 
-It mostly did - but I struggled because a) Board games don't use source control enough it turns out??? b) I found it difficult to think in public, like Pippin does so well, without it turning into _writing_, a very different activity for me. BUT I did find lots of insights, it was generative and instructive, and I got stuff out of it. In this respect IAAIYAPABG represents industrial waste, a byproduct of this process. 
+It mostly did - but I struggled because a) Board games don't use source control enough it turns out??? its not as firmly in the toolchain b) I found it difficult to think in public, like Pippin does so well, without it turning into _writing_, a very different activity for me. BUT I did find lots of insights, it was generative and instructive, and I got stuff out of it. In this respect IAAIYAPABG represents industrial waste, a byproduct of this process. 
 
-I might (should probably) share what I learned, at some point (some pointers in the readings), but for now enjoy the offal:
+The other parts of the offal:
 - [The source repository for the game and documents.](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game)
 - [The unedited journal](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/blob/main/journal.md)
 - [The PDF guide on how to make the game, which includes much more detail on the contents](https://github.com/bkirman/its-almost-as-if-you-are-playing-a-board-game/blob/main/docs/how_to_make_IAAIYAPABG.pdf)
+
+Broadly, for me there were three interrelated bits that were more chewy and I learned a lot about in the process of making.
+- Performance and physicality of board game play in context. 
+- Symbols and literacy, the language of board games and the oppressive orthodoxy of legibility in board game systems.
+- Conversations with systems as materials, and subversive aspects given affordances of previous two points
+
+I think they come out in the game, and in the offal, and I'm going to resist writing loads about them. However for further reading I recommend these books, essays, games and papers that resonated:
 
 ## Further Reading
 - Rilla Khaled, Pippin Barr (2023) [Generative Logics and Conceptual Clicks: A Case Study of the Method for Design Materialization](https://doi.org/10.1162/desi_a_00706). Design Issues 39 (1): 55–69.
@@ -54,7 +61,12 @@ I might (should probably) share what I learned, at some point (some pointers in 
 - Jay Dragon (2025) The Expressionist Games Manifesto, online: [https://possumcreek.medium.com/the-expressionist-games-manifesto-122d8afd1fe2](https://possumcreek.medium.com/the-expressionist-games-manifesto-122d8afd1fe2)
 - Amabel Holland (2025) [Cardboard Ghosts](https://www.taylorfrancis.com/books/mono/10.1201/9781003500834/cardboard-ghosts-amabel-holland), CRC Press
 - Super Eyepatch Wolf (2026) [The Bizarre World of Fake Videogames](https://hollow-press.net/products/the-bizarre-world-of-fake-video-games-by-super-eyepatch-wolf-u-d-w-f-g-essays-i), Hollow Press
-- [IAAIYAPABG on BoardGameGeek](https://boardgamegeek.com/boardgame/465753/its-almost-as-if-you-are-playing-a-board-game).
-- Oliver Bates and Ben Kirman (2025) [Making a Meal out of a Mountain](/papers/Bates2025MealMountain.pdf), Presented at British DiGRA 2025.
+- Amabel Holland (2024, Hollandspiele) [City of Six Moons](https://hollandspiele.com/products/city-of-six-moons), and [this great essay/review by Spacebiff](https://spacebiff.com/2024/10/25/city-of-six-moons/).
 - [Rules for Mornington Crescent (Simplified)](http://www.isihac.co.uk/games/gamesm.html#morningtoncrescent)
+- This [2013 Kickstarter for Emperor's New Clothes](https://www.kickstarter.com/projects/gamesalute/emperors-new-clothes), and the reaction to it.
+
+Also see:
+- [IAAIYAPABG on BoardGameGeek](https://boardgamegeek.com/boardgame/465753/its-almost-as-if-you-are-playing-a-board-game).
+- [IAAIYAPABG on Itch.io](https://benkirman.itch.io/its-almost-as-if-you-are-playing-a-board-game).
+- Oliver Bates and Ben Kirman (2025) [Making a Meal out of a Mountain](/papers/Bates2025MealMountain.pdf), Presented at British DiGRA 2025.
 - [It is (almost) as if... you are organising an academic conference?](/projects/fictional-conference/)
