@@ -6,6 +6,10 @@ permalink: /publications/
 I've been very fortunate to work with many brilliant scholars and designers, and have published a variety of things on a range of topics. Although it feels a bit of a chaotic collection, I think underlying everything is a sense of gameful/playful/critical/radical/weird design and analysis. I don't find publication categories meaningful, so the list includes journal and conference papers, book chapters, workshop papers, magazine articles and other stuff. Everything below has been peer-reviewed and published in the respective venue.
 Most of the files are available freely via the links, a few are embargoed or held hostage by publishers. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
 
+### 2026
+* Oliver Bates, Ben Kirman, Marcia Tavares Smith, and David Philip Green (2026 - In Press) Research through games design. In Proceedings of 2026 Design Research Society Conference (DRS 2026). Edinburgh, Scotland.
+* Doruk Balcı, Jo Iacovides, and Ben Kirman (2026) [Player Discretion is Advised: Designing for Rule-Changing Play](/papers/Balcı2026PlayerDiscretion.pdf). In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), Barcelona, Catalonia. ACM
+
 ### 2025
 * Ziao Tang and Ben Kirman (2025) [Designing for curiosity: Understanding player engagement with treasure chest mechanics in open-world games](https://doi.org/10.1016/j.ijhcs.2025.103575). International Journal of Human-Computer Studies, 203.
 * Ziao Tang and Ben Kirman (2025) [Exploring Curiosity in Games: A Framework and Questionnaire Study of Player Perspectives](https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2325171), International Journal of Human–Computer Interaction, 41(4)
