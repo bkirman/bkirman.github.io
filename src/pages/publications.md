@@ -7,7 +7,7 @@ I've been very fortunate to work with many brilliant scholars and designers, and
 Most of the files are available freely via the links, a few are embargoed or held hostage by publishers. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
 
 ### 2026
-* Oliver Bates, Ben Kirman, Marcia Tavares Smith, and David Philip Green (2026 - In Press) Research through games design. In Proceedings of 2026 Design Research Society Conference (DRS 2026). Edinburgh, Scotland.
+* Oliver Bates, Ben Kirman, Marcia Tavares Smith, and David Philip Green (2026) [Research through Game Design](/papers/Bates2026ResearchThroughGameDesign.pdf). In Proceedings of 2026 Design Research Society Conference (DRS 2026). Edinburgh, Scotland.
 * Doruk Balcı, Jo Iacovides, and Ben Kirman (2026) [Player Discretion is Advised: Designing for Rule-Changing Play](/papers/Balcı2026PlayerDiscretion.pdf). In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), Barcelona, Catalonia. ACM
 
 ### 2025
@@ -21,7 +21,6 @@ Most of the files are available freely via the links, a few are embargoed or hel
 * Charles Ringer, Sondess Missaoui, Victoria J. Hodge, Alan Pedrassoli Chitayat, Athanasios Kokkinakis, Sagarika Patra, Simon Peter Demediuk, Alvaro Caceres Munoz, Olu Olarewaju, Marian Ursu, Ben Kirman, Jonathan David Hook, Florian Oliver Block, Anders Drachen, and James Alfred Walker (2023) [Time to Die 2: Improved In-Game Death Prediction in Dota 2](/papers/Ringer2023DeathPrediction.pdf). in Machine Learning With Applications (12). Elsevier.
 
 ### 2022
-
 * Ben Kirman, Conor Linehan and Tom Feltwell (2022) [Inscrutable Games: How Players Respond to Illegible or Opaque Game Design](/papers/Kirman2022NLFS.pdf). In Proceedings of the International Academic Mindtrek Conference 2022. Tampere, Finland.
 * Robb Mitchell, Ben Kirman, and Kin Encinas Lio (2022) [I Just Can’t Believe These are not Fictitious: Vivifying design examples through narratives populated by existing artefacts](/papers/Mitchell2022Fictitious.pdf). In Proceedings of the International Academic Mindtrek Conference 2022. Tampere, Finland. (Best Presentation Award)
 * Charline Foch and Ben Kirman (2022) [“The game doesn’t judge you”: game designers' perspectives on implementing failure in video games](/papers/Foch2022DesignerFailure.pdf). In Proceedings of The 17th International Conference on the Foundations of Digital Games 2022 (FDG'22). Athens, Greece.
@@ -179,6 +178,7 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ## Invited Talks/Events
 
+* "Play Phones: mobile phones in interactive theatre", Digital Creativity Network event at the Grand Opera House in York, April 2026.
 * Presenter, panellist on Interactive Storytelling at [Northern Digital Storytelling Festival](https://www.northerndigifest.co.uk/) 2023 (Online). 
 * "Dog Internet Pub Quiz" - with Conor Linehan and Shaun Lawson, part of [Uroboros Design Festival](https://uroboros.design/). May 2021, DOX Centre for Contemporary Art, Prague, Czech (online)
 * Discussion with students on Critical Theory of Media and Informatics, Hosted by Katta Spiel. April 2020, Technische Universität Wien (Online)
