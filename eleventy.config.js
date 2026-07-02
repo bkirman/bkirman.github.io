@@ -70,7 +70,7 @@ export const config = {
 
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
-    templateFormats: ['html','njk','md']
+    templateFormats: ['njk','md']
 };
 
 
