@@ -17,26 +17,31 @@
             line-height: 1.6;
             color: #333;
             background-color: #f9f9f9;
+            overflow-x: hidden;
+        }
+
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
         }
         
         .logo-onion {
-            position: absolute;
-            top: 15rem;
-            left: 1rem;
-            width: 500px;
-            max-width: 20vw;
-            opacity: 1;
+            position: relative;
+            width: min(180px, 24vw);
+            max-width: 180px;
+            opacity: 0.9;
             pointer-events: none;
-            z-index: 0;
+            flex-shrink: 0;
         }
 
         .logo-onion--bottom-right {
             position: absolute;
             bottom: 10rem;
             right: 1rem;
-            width: 500px;
-            max-width: 20vw;
-            opacity: 1;
+            width: min(500px, 28vw);
+            max-width: 220px;
+            opacity: 0.9;
             transform: scaleX(-1);
             pointer-events: none;
             z-index: 0;
@@ -91,6 +96,30 @@
             margin-bottom: 1rem;
         }
         
+        .header-hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+        }
+
+        header img {
+            width: min(100%, 580px);
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+        }
+
+        section img {
+            width: 100%;
+            max-width: 680px;
+            height: auto;
+            margin-top: 1rem;
+            border-radius: 6px;
+        }
+
         footer {
             background-color: #2c3e50;
             color: white;
@@ -110,22 +139,59 @@
             color: #dce8f5;
         }
         
+        @media (max-width: 820px) {
+            
+            .logo-onion--bottom-right {
+                max-width: 140px;
+                opacity: 0.3;
+            }
+
+            main {
+                margin: 1.5rem auto;
+            }
+
+            section {
+                padding: 1.25rem;
+            }
+        }
+
         @media (max-width: 600px) {
+            header {
+                padding: 0 0.75rem;
+            }
+
             header h1 {
                 font-size: 2rem;
             }
+
+            header p {
+                font-size: 1rem;
+            }
             
             section {
-                padding: 1.5rem;
+                padding: 1rem;
+                margin-bottom: 1rem;
+            }
+
+            section h2 {
+                font-size: 1.4rem;
+            }
+
+            
+            .logo-onion--bottom-right {
+                display: none;
             }
         }
     </style>
 </head>
 <body>
-    <img class="logo-onion" src="logo_onion.png" alt="Onion logo" />
+    
     <img class="logo-onion--bottom-right" src="logo_onion.png" alt="Onion logo" />
     <header>
-        <img src="web_banner.png" alt="A stylised logo saying 'Museum of Manky Tea Towels'" />
+        <div class="header-hero">
+            <img class="logo-onion" src="logo_onion.png" alt="Onion logo" />
+            <img src="web_banner.png" alt="A stylised logo saying 'Museum of Manky Tea Towels'" />
+        </div>
         <p>We tell our stories by the stains we leave behind</p>
     </header>
     
@@ -133,7 +199,7 @@
         <section>
             <h2>We're at <a href="https://emfcamp.org">Electromagnetic Field 2026</a>!</h2>
             <p>Marvel at our collection of manky tea towels. We have been saving tea towels across the country from behind radiators, the backs of drawers, corners of charity shops, and boxes in lofts. </p>
-            <p>Tea towels tell stories about the places we have been, the people we love, and the tea that we have drunk. They contain politics and history - they are designed as a lens on places and people, and we see and use them every day. They carry traces of our imperfect washing skills, scorches from use as makeshift oven mitts, and the odd bit of cat sick.</p>
+            <p>Tea towels tell stories about the places we have been, the people we love, and the tea that we have drunk. They contain politics and history - they are designed as a lens on places and people, that we see and use every day. They carry traces of our imperfect washing skills, scorches from use as makeshift oven mitts, and the odd bit of cat sick.</p>
             <p>Fundamentally, tea towels are the real legacy of civilisation. At the end of history only manky tea towels will remain. We tell our stories by the stains we leave behind.</p>
             <p>The Museum of Manky Tea Towels celebrates the utility and absurdity of tea towels. It is an interactive, open exhibit that will be available for everyone during the festival. It features a collection of hundreds of tea towels from around the world to explore. You may use the museum towels to dry your mugs, or you can take, modify and enhance a tea towel to tell a new story.</p>
         </section>
@@ -141,7 +207,7 @@
         <section>
             <h2>Interacting with the Collection</h2>
             <p><strong>Tea towels are made to be used</strong>. Anybody can come along and use our collection to dry their cups, mugs, cutlery and dishes (at your own risk!). You can also borrow what you need, and return them when you're done.</p>
-            <p><strong>Tea towels tell stories</strong>. We invite you to to edit, hack, adjust, reconstruct, enhance, collage, dye, illustrate tea towels in our collection, to change the stories they tell. Maybe the castles of Northumbria could be enhanced with a dragon or two? Or the landscapes of Cornwall could have new scenes from your own personal memories?</p>
+            <p><strong>Tea towels tell stories</strong>. We invite you to to edit, hack, adjust, reconstruct, enhance, collage, dye, illustrate tea towels in our collection, to change the stories they tell. Maybe the castles of Northumbria could be enhanced with a dragon or two? Or the landscapes of Cornwall could have scenes from your own memories?</p>
             <p>We have some craft materials at the museum for you to use, but we will also be hosting a workshop at the arts tent with prints, paints and dyes, so join us there!</p>
             <p><strong>Tea towels are made of threads</strong>. We want you to be a <strong>guest curator</strong> and contribute to the narrative of our collection. Come along and adjust the museum displays to tell a new story across different tea towels. A collection of dogs? A collection based on printing techniques? A collection of horrible looking recipes? Feel free to adjust and highlight different parts of the collection.</p>
         <img src="not_manky_tea_towels-web.jpeg" width="680" alt="A photograph of a load of tea towels, overlapped and in a messy pile. A tomato is visible, as is a boat, a helicopter, and part of a king's noggin." />
@@ -163,7 +229,7 @@
             <h2>About</h2>
             <p>The Museum of Manky Tea Towels is a project from <a href="https://oliverbates.co.uk">Oliver</a> and <a href="https://ben.kirman.org">Ben</a>. We're academics, and have been trying to find alternative ways to share insight from research that isn't just through inscrutable papers. This includes making <a href="https://crankandfile.co.uk/meal-deal">card games</a>, <a href="https://crankandfile.co.uk/outside-the-bag">collections of fictional technologies</a>, and <a href="https://crankandfile.co.uk/critical-tea-towels">tea towels.</a></p>
             <p>Tea towels are interesting because they are mundane objects that are designed to tell particular kinds of stories - certain views on places and people, and carry an implicit politics. But they are also designed to be used, and through use gain their own personal stories of kitchen experiments and disasters.</p>
-            <p>In recent work with cycle couriers we designed a series of tea towels that reflect their experiences and perspectives of their cities, in contrast to the tourist and landmark tea towels we normally encounter. The positive response to this work has encouraged us to continue exploring the potential of tea towels as a medium for storytelling.</p>
+            <p>In recent work with cycle couriers we designed a series of tea towels that reflect their experiences and perspectives of their cities, in contrast to the tourist and landmark tea towels we normally encounter. The positive response to this work has encouraged us to continue exploring the potential of tea towels as a medium for storytelling. We also have a habit of taking silly ideas way too far.</p>
             <a href="https://crankandfile.co.uk/critical-tea-towels"><img src="couriers.jpeg" width="680" alt="A photograph of a table with tea towels, booklets and maps on it, with a bicycle in the background. The tea towels are designed to reflect the experiences of cycle couriers in different cities." /></a>
         </section>
     </main>
