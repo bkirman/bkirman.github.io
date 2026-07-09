@@ -33,6 +33,7 @@
             opacity: 0.9;
             pointer-events: none;
             flex-shrink: 0;
+            justify-self: center;
         }
 
         .logo-onion--bottom-right {
@@ -57,7 +58,9 @@
         
         header {
             color: #2c3e50;
-            padding: 0rem 1rem;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 1rem;
             text-align: center;
         }
         
@@ -97,19 +100,26 @@
         }
         
         .header-hero {
-            display: flex;
+            display: grid;
+            grid-template-columns: auto auto;
             align-items: center;
             justify-content: center;
             gap: 1rem;
-            flex-wrap: wrap;
-            margin-bottom: 1rem;
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto 1rem;
         }
 
-        header img {
-            width: min(100%, 580px);
+        .header-hero > img {
+            display: block;
             max-width: 100%;
             height: auto;
-            margin: 0 auto;
+            margin: 0;
+        }
+
+        .header-hero > img:not(.logo-onion) {
+            width: min(100%, 580px);
+            justify-self: center;
         }
 
         section img {
