@@ -51,11 +51,12 @@ At EMF we held a drop-in workshop, with the support of EMF volunteers, at the ar
 <img src="images/editing.jpg" alt="A table covered in craft materials, two people using fabric pens to draw on the back of tea towels" width="350" style="display:inline; vertical-align:middle;">
 <img src="images/oops.jpg" alt="A person wearing a hat and glasses leans over their tea towel, mopping up a small spill of bright green ink" width="350" style="display:inline; vertical-align:middle;">
 </div>
-(photos shared with permission)
+
 
 <div style="text-align:center;">
 <img src="images/radical.png" alt="A person wearing a rainbow t-shirt and a young person with cat ears, using stamps to decorate tea towels." width="600" >
 </div>
+(photos shared with permission)
 
 We were kindly supported by [the Radical Tea Towel company](https://radicalteatowel.co.uk), who generously sent us a box of stock to use as the raw material for the workshop. We really love their tea towels and ethos, and it was fantastic to share them and have people enhance and engage with the donations. Visitors noted the high quality of their tea towels compared to most of the collection!
 
