@@ -7,6 +7,9 @@ I've been very fortunate to work with many brilliant scholars and designers, and
 Most of the files are available freely via the links, a few are embargoed or held hostage by publishers. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
 
 ### 2026
+* Ben Kirman, Charline Foch, David Gochfeld, and Marian Ursu (2026 - In Press) Doing Game Design in Theatre. In Proceedings of the ACM Annual Symposium on Computer-Human Interaction in Play (CHI PLAY). York, UK
+* Daniel L Gardner, Ben Kirman, Oliver Bates, Verda Munir, and John N.A. Brown (2026 - In Press) Jamming Game Jams: A Discussion of Research-Through-Game-Jam-Design. Panel at ACM Annual Symposium on Computer-Human Interaction in Play (CHI PLAY). York, UK
+* Sittikrai Chorrojprasert, Ben Kirman, Myat Aung, and Alena Denisova (2026) Proactive or Reactive? Comparison of Dynamic Difficulty Adjustment Effects on Player Experience and Physical Effort in a Running Exergame. In Proceedings of the 2026 IEEE Conference on Games (CoG 26). Madrid, Spain.
 * Oliver Bates, Ben Kirman, Marcia Tavares Smith, and David Philip Green (2026) [Research through Game Design](/papers/Bates2026ResearchThroughGameDesign.pdf). In Proceedings of 2026 Design Research Society Conference (DRS 2026). Edinburgh, Scotland.
 * Doruk Balcı, Jo Iacovides, and Ben Kirman (2026) [Player Discretion is Advised: Designing for Rule-Changing Play](/papers/Balcı2026PlayerDiscretion.pdf). In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), Barcelona, Catalonia. ACM
 
