@@ -7,9 +7,10 @@ I've been very fortunate to work with many brilliant scholars and designers, and
 Most of the files are available freely via the links, a few are embargoed or held hostage by publishers. If you have any questions, requests, or ideas for collaborations, [let me know](mailto:ben@kirman.org).
 
 ### 2026
-* Ben Kirman, Charline Foch, David Gochfeld, and Marian Ursu (2026 - In Press) Doing Game Design in Theatre. In Proceedings of the ACM Annual Symposium on Computer-Human Interaction in Play (CHI PLAY). York, UK
-* Daniel L Gardner, Ben Kirman, Oliver Bates, Verda Munir, and John N.A. Brown (2026 - In Press) Jamming Game Jams: A Discussion of Research-Through-Game-Jam-Design. Panel at ACM Annual Symposium on Computer-Human Interaction in Play (CHI PLAY). York, UK
-* Sittikrai Chorrojprasert, Ben Kirman, Myat Aung, and Alena Denisova (2026) Proactive or Reactive? Comparison of Dynamic Difficulty Adjustment Effects on Player Experience and Physical Effort in a Running Exergame. In Proceedings of the 2026 IEEE Conference on Games (CoG 26). Madrid, Spain.
+* Ben Kirman, Charline Foch, David Gochfeld, and Marian Ursu (2026) [Doing Game Design in Theatre](/papers/Kirman2026GameDesignTheatre.pdf). In Proceedings of the ACM Annual Symposium on Computer-Human Interaction in Play (CHI PLAY). York, UK
+* Daniel L Gardner, Ben Kirman, Oliver Bates, Verda Munir, and John N.A. Brown (2026) [Jamming Game Jams: A Discussion of Research-Through-Game-Jam-Design](/papers/Gardner2026GameJams.pdf). "Panel" at ACM Annual Symposium on Computer-Human Interaction in Play (CHI PLAY). York, UK
+* Ziao Tang and Ben Kirman (2026). [Value Orientation in Players: Development and Validation of a Tradeoff-Based Scale of In-Game Priorities](/papers/Tang2026ValueOrientation.pdf). International Journal of Human–Computer Interaction, 1–26
+* Sittikrai Chorrojprasert, Ben Kirman, Myat Aung, and Alena Denisova (2026) [Proactive or Reactive? Comparison of Dynamic Difficulty Adjustment Effects on Player Experience and Physical Effort in a Running Exergame](/papers/Chorrojprasert2026DDA.pdf). In Proceedings of the 2026 IEEE Conference on Games (CoG 26). Madrid, Spain.
 * Oliver Bates, Ben Kirman, Marcia Tavares Smith, and David Philip Green (2026) [Research through Game Design](/papers/Bates2026ResearchThroughGameDesign.pdf). In Proceedings of 2026 Design Research Society Conference (DRS 2026). Edinburgh, Scotland.
 * Doruk Balcı, Jo Iacovides, and Ben Kirman (2026) [Player Discretion is Advised: Designing for Rule-Changing Play](/papers/Balcı2026PlayerDiscretion.pdf). In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), Barcelona, Catalonia. ACM
 
@@ -22,6 +23,7 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ### 2023
 * Charles Ringer, Sondess Missaoui, Victoria J. Hodge, Alan Pedrassoli Chitayat, Athanasios Kokkinakis, Sagarika Patra, Simon Peter Demediuk, Alvaro Caceres Munoz, Olu Olarewaju, Marian Ursu, Ben Kirman, Jonathan David Hook, Florian Oliver Block, Anders Drachen, and James Alfred Walker (2023) [Time to Die 2: Improved In-Game Death Prediction in Dota 2](/papers/Ringer2023DeathPrediction.pdf). in Machine Learning With Applications (12). Elsevier.
+* Daniel Lock and Ben Kirman (2023) [Identifying the Developmental Challenges of Creating Virtual Reality Theatre](/papers/Lock2023DevelopmentVRT.pdf): This paper reports on the identified challenges of creating virtual reality theatre from the practitioner's perspective. In Proceedings of the 2023 ACM International Conference on Interactive Media Experiences (IMX '23). Nantes, France.
 
 ### 2022
 * Ben Kirman, Conor Linehan and Tom Feltwell (2022) [Inscrutable Games: How Players Respond to Illegible or Opaque Game Design](/papers/Kirman2022NLFS.pdf). In Proceedings of the International Academic Mindtrek Conference 2022. Tampere, Finland.
@@ -44,7 +46,7 @@ Most of the files are available freely via the links, a few are embargoed or hel
 * Athanasios Kokkinakis, Simon Demediuk, Isabelle Nölle, Oluseyi Olarewaju, Sagarika Patra, Justus Robertson, Alan Chitayat, Alistair Coates, Daniel Slawson, Peter Hughes, Nicolas Hardie, Ben Kirman, Jonathan Hook, Anders Drachen, Marian Ursu and Florian Block (2020) [DAX: Data-Driven Audience Experiences in Esports](/papers/Kokkinakis2020DAX.pdf). In Proceedings of ACM International Conference on Interactive Media Experience (IMX) 2020. Virtual. (Best Paper Award)
 * Oliver Bates, Carolynne Lord, Hayley Alter, and Ben Kirman (2020)  [Let’s start talking the walk: Capturing and reflecting on our limits when working with gig economy workers.](/papers/Bates2020TalktheWalk.pdf) In Proceedings of Sixth ACM Workshop on Computing within Limits (LIMITS 2020). Virtual.
 * Robb Mitchell, Enrique Encinas, and Ben Kirman (2020) [Social Icebreakers Everywhere: A Day In The Life](/papers/Mitchell2020SocialIcebreakers.pdf). In Proceedings of The 18th European (Virtual) Conference on Computer-Supported Cooperative Work (ECSCW 2020). Siegen, Germany.
-* Alan Chitayat, Athanasios Kokkinakis, Sagarika Patra, Simon Demediuk, Justus Robertson, Oluseyi Olarewaju, Marian Ursu, Ben Kirman, Jonathan Hook, Florian Block, and Anders Drachen (2020) WARDS: Modelling the Worth of Vision in MOBAs. In Intelligent Computing: Proceedings of the 2020 Computing Conference Volume 2 (pp 63-81). Springer.
+* Alan Chitayat, Athanasios Kokkinakis, Sagarika Patra, Simon Demediuk, Justus Robertson, Oluseyi Olarewaju, Marian Ursu, Ben Kirman, Jonathan Hook, Florian Block, and Anders Drachen (2020) [WARDS: Modelling the Worth of Vision in MOBAs](/papers/Chitayat2020Wards.pdf). In Intelligent Computing: Proceedings of the 2020 Computing Conference Volume 2 (pp 63-81). Springer.
 * Ben Kirman, Conor Linehan, and Shaun Lawson (2020) [What's Your Problem with the Dog Internet?](/papers/Kirman2020ProblemDogInternet.pdf) CHI EA '20: Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. (Virtual)
 * Ben Kirman, Alan Chitayat, Alistair Coates, Simon Demediuk, Isabelle Nölle, Oluseyi Olarewaju, Sagarika Patra, Justus Robertson, Daniel Slawson, Athanasios Kokkinakis, Peter York, Nicolas Hardie, Peter Hughes, Florian Block, Anders Drachen, Jon Hook, and Marian Ursu. [Weavr Companion App: Data-driven Storytelling for Live Esports Events](/papers/Kirman2020WeavrWorkshop.pdf). In Proceedings of SEEGames Workshop on Spectator Experience in Gaming and eSports. 2020 CHI Conference on Human Factors in Computing Systems. (Virtual)
 
@@ -164,6 +166,8 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ## Service
 
+* CHI PLAY 2026: Judge, Student Game Design Competition
+* Playful Learning at York (PLaY): Steering Committee
 * DIS 2025: Associate Chair, Research through Design
 * CHI 2019: Co-Chair, alt.CHI
 * CHI 2018: Co-Chair, alt.CHI
@@ -193,6 +197,6 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ## External Examination
 
-* Undergraduate (programme) - Northumbria University
+* Undergraduate and Postgraduate (programme) - Northumbria University
 * MSc (Research) - University of Lincoln, University of Cape Town
 * PhD/MPhil - Liverpool John Moores, Queensland University of Technology, University of Sussex, Universitat Rovira i Virgili, Newcastle University, Lancaster University, University College London
