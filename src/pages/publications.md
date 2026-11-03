@@ -23,7 +23,7 @@ Most of the files are available freely via the links, a few are embargoed or hel
 
 ### 2023
 * Charles Ringer, Sondess Missaoui, Victoria J. Hodge, Alan Pedrassoli Chitayat, Athanasios Kokkinakis, Sagarika Patra, Simon Peter Demediuk, Alvaro Caceres Munoz, Olu Olarewaju, Marian Ursu, Ben Kirman, Jonathan David Hook, Florian Oliver Block, Anders Drachen, and James Alfred Walker (2023) [Time to Die 2: Improved In-Game Death Prediction in Dota 2](/papers/Ringer2023DeathPrediction.pdf). in Machine Learning With Applications (12). Elsevier.
-* Daniel Lock and Ben Kirman (2023) [Identifying the Developmental Challenges of Creating Virtual Reality Theatre](/papers/Lock2023DevelopmentVRT.pdf): This paper reports on the identified challenges of creating virtual reality theatre from the practitioner's perspective. In Proceedings of the 2023 ACM International Conference on Interactive Media Experiences (IMX '23). Nantes, France.
+* Daniel Lock and Ben Kirman (2023) [Identifying the Developmental Challenges of Creating Virtual Reality Theatre](/papers/Lock2023DevelopmentVRT.pdf). In Proceedings of the 2023 ACM International Conference on Interactive Media Experiences (IMX '23). Nantes, France.
 
 ### 2022
 * Ben Kirman, Conor Linehan and Tom Feltwell (2022) [Inscrutable Games: How Players Respond to Illegible or Opaque Game Design](/papers/Kirman2022NLFS.pdf). In Proceedings of the International Academic Mindtrek Conference 2022. Tampere, Finland.
